@@ -18,5 +18,5 @@ Goals:
 - Freshmen: A list of artists played for the first time this week
 - Chaining shows: i.e. chain this weeks street sounds to last week and the week before
 - Over it: A button to ignore a song when it appears in playlists
-- 
+- Snapshot: the top 10 songs of each show over the last 2 months
   
