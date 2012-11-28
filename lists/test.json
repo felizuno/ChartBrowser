@@ -1,0 +1,9 @@
+{
+	"songs":[
+		{"artist":"Bat for Lashes" , "song":"Laura" , "album":"The Haunted Man"},
+		{"artist":"Radiohead" , "song":"The Reckoner" , "album":"In Rainbows" },
+		{"artist":"Beck" , "song":"Loser" , "album":"Odelay" },
+		{"artist":"Metallica" , "song":"Enter Sandman" , "album":"The Black Album" },
+		{"artist":"A.C. Newman" , "song":"Do Your Own Time" , "album":"Shut Down The Streets" }
+	]
+}
