@@ -1,5 +1,6 @@
-body {
-	color: #FEAC31;
-	width: 800px;
+h1 {
+	color: #fff;
+	text-shadow: 1px 1px 1px #333;
+	background-color: #FEAC31;
 	border: 1px solid black;
 }

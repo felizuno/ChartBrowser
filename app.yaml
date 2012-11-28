@@ -8,9 +8,21 @@ handlers:
 - url: /.*
   script: kexprdio.app
   
-- url: /index\.html
-  script: home.app
+- url: /style
+  static_dir: style
+  
+#- url: /img
+#  static_dir: img
+  
+- url: /js
+  static_dir: js
+  
+- url: /lib
+  static_dir: lib
 
+libraries:
+- name: webapp2
+  version: "2.5.1"
 # builtins:
 # - appstats: on
 # - deferred: on
