@@ -9,11 +9,17 @@ h1 {
 .maincontent {
 	display: inline-block;
 	width: 90%;
+	margin-left: 30px;
 }
 
+.maincontent div {
+		margin-bottom: 20px;
+	}
+
 .left {
+	float: left;
 	width: 200px;
-	margin-left: 50px;
+
 }
 
 .right {
