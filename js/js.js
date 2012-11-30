@@ -13,10 +13,14 @@
   	    html: items.join('')
   	  }).appendTo('.right');
   	});
+  	
+  	foo.init();
   });
 
   R.on('change:ready', function() {
     console.log(R.ready());
   });
+
+  
 
 })();

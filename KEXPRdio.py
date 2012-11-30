@@ -23,6 +23,12 @@ class MainHandler(webapp2.RequestHandler):
     path = os.path.join(os.path.dirname(__file__), 'index.html')
     self.response.out.write(template.render(path, {}))
 
+class HelperHandler(webapp2.RequestHandler):
+  def get(self):
+    path = os.path.join(os.path.dirname(__file__), 'helper.html')
+    self.response.out.write(template.render(path, {}))
+
 app = webapp2.WSGIApplication([
+  ('/helper.html', HelperHandler),
   ('/', MainHandler)
 ], debug=True)
