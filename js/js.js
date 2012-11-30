@@ -5,14 +5,22 @@
   
   	  $.each(data.songs, function(key, val) {
         var track =  val.artist + " - " + val.song + " - From: " + val.album; 
-  	    items.push('<li id="' + key + '">' + track + '</li>');
+  	    items.push('<li id="' + key + '" class="song">' + track + '</li>');
   	  });
   
   	  $('<ul/>', {
-  	    'class': 'my-new-list',
+  	    'class': 'tracklist',
   	    html: items.join('')
-  	  }).appendTo('body');
+  	  }).appendTo('.right');
   	});
   });
+
+  // $(#authbutton).bind('click', function{
+  //     if R.ready() {
+  //       R.authenticate();
+  //     } else {
+  //       alert('R is not ready.');
+  //     }
+  // });
   
 })();
