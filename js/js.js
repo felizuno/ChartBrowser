@@ -4,7 +4,8 @@
   	  var items = [];
   
   	  $.each(data.songs, function(key, val) {
-  	    items.push('<li id="' + key + '">' + val.artist + '</li>');
+        var track =  val.artist + " - " + val.song + " - From: " + val.album; 
+  	    items.push('<li id="' + key + '">' + track + '</li>');
   	  });
   
   	  $('<ul/>', {
