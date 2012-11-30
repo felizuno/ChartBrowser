@@ -7,14 +7,15 @@ h1 {
 }
 
 .maincontent {
-	display: inline-block;
 	width: 90%;
-	margin-left: 30px;
+	margin-left: 40px;
+	background-color: #eee;
+	overflow: auto;
 }
 
 .maincontent div {
-		margin-bottom: 20px;
-	}
+	margin-bottom: 20px;
+}
 
 .left {
 	float: left;
@@ -23,7 +24,9 @@ h1 {
 }
 
 .right {
+	display: inline-block;
 	float: right;
+	min-width: 600px;
 }
 
 .song {
