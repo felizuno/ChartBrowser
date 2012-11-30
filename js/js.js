@@ -14,13 +14,5 @@
   	  }).appendTo('.right');
   	});
   });
--
-// $(#authbutton).bind('click', function{
-//     if R.ready() {
-//       R.authenticate();
-//     } else {
-//       alert('R is not ready.');
-//     }
-// });
 
 })();
