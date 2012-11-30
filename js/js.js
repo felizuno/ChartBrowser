@@ -15,4 +15,8 @@
   	});
   });
 
+  R.on('change:ready', function() {
+    console.log(R.ready());
+  });
+
 })();
