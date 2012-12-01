@@ -13,9 +13,10 @@
   	    'class': 'tracklist',
   	    html: items.join('')
   	  }).appendTo('.right');
+      // this doesn't work, idk why...
+      $(".tracklist ul li:last-child").addClass("last");
     });
 
-    $(".tracklist ul li:last-child").addClass("last");
   });
 
 })();
