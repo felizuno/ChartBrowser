@@ -1,24 +1,30 @@
 (function() {
-  var userName = "stranger";
 
-  var init = function() {
-    R.on('change:ready', function(){
-      if (R.authenticated()) {
-        userName = R.currentUser.attributes.vanityName;
-        $('#authbutton').attr('value', 'Logged in as: ' + userName);
-      } else {
-        R.authenticate();
-      }
-    });
-  };
+  window.kexprdio = {
+    // GLOBAL VARIABLES.
+    userName: '',
+    currentList: {},
+    
 
-  $(document).ready(function() {
-      $('#authbutton').bind('click', function() {
-        window.open("http://www.rdio.com/people/"+ userName);
+    // +++++++++++++++++++
+    init: function() {
+      var self = this;
+
+      R.on('change:ready', function(){
+        if (R.authenticated()) {
+          this.userName = R.currentUser.attributes.vanityName;
+          $(authbutton).attr('value', 'Logged in as: ' + this.userName);
+        } else {
+          $(authbutton).attr('value', 'Click to authenticate');
+        }
       });
+    },
 
-    init();
+  };
+  
+  // +++++++++++++++++++
+  $(document).ready(function() {
+    kexprdio.init();
   });
-
 
 })();
