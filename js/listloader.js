@@ -13,7 +13,9 @@
   	    'class': 'tracklist',
   	    html: items.join('')
   	  }).appendTo('.right');
-  	});
+    });
+
+    $(".tracklist ul li:last-child").addClass("last");
   });
 
 })();
