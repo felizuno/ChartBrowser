@@ -22,11 +22,30 @@ h1 {
 	width: 20%;
 }
 
+.left > input {
+	border-radius: 10px;
+	width: 200px;
+	padding: 50px 5px;
+}
+
 #authbutton {
-	border-radius: 5px;
-	padding: 2px 5px;
+	background-color: #2A67A5;	
 	color: #FFF;
-	background-color: #2DD;
+}
+
+#addbutton {
+	background-color: #3F36B1;	
+	color: #FFF;
+}
+
+#replacebutton {
+	background-color: #FECF31;	
+	color: #FFF;
+}
+
+#clearbutton {
+	background-color: #2A67A5;	
+	color: #FFF;
 }
 
 .right {
@@ -37,10 +56,10 @@ h1 {
 }
 
 .list-header {
-	color: #2DD;
+	color: #2A67A5;
 	font-size: 24px;
 	font-weight: bold;
-	text-shadow: 1px 1px 0px #11D;
+	text-shadow: 1px 1px 0px #06D;
 }
 
 .tracklist {
