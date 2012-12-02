@@ -10,7 +10,7 @@
       // TEMPORARY: loads test JSON immediately. 
       // setTimeout used because it appends an empty <ul> otherwise. :-( 
       this._loadFromStorage('test');
-      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 700);
+      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 300);
     },
 
     // local utility loading behaviors
@@ -20,15 +20,12 @@
       //
       kexprdio.listLoader.nextList = [];
       $.getJSON('lists/' + listToLoad + '.json', function(data) {
-    
         $.each(data.songs, function(key, val) {
           var track =  val.artist + " - " + val.song + " - From: " + val.album; 
           kexprdio.listLoader.nextList.push('<li id="' + key + '" class="song">' + track + '</li>');
         });
-
-        console.log('Just loaded new nextList:' + kexprdio.listLoader.nextList);
+        
         kexprdio.listLoader.currentList = kexprdio.listLoader.nextList.slice();
-        console.log('Just assigned new currentList:' + kexprdio.listLoader.currentList);
       });
     },
     //-----
@@ -39,11 +36,11 @@
     //this should already work
     _attach: function(listToAttach) {
       console.log('About to attach: ' + listToAttach);
-      $('<ul/>', {
-      'class': 'tracklist',
-      html: listToAttach.join('')
-      }).appendTo('.right');
-
+      $('<ul/>', 
+        {'class': 'tracklist',
+          html: listToAttach.join('')
+        }
+       ).appendTo('.right');
       // this doesn't work, idk why...
       $('.tracklist ul:last-child').addClass('last');
     },
@@ -64,15 +61,8 @@
     replaceLists: function() {
       var listName = 'streetsounds_092112'; // Temporarily assigned to one of the test lists
       this._loadFromStorage(listName);
-      
-      if (this.nextList[0]) {
-        // Want these to be listloader's master variables. this/self cleans this up but IDK how to apply it yet.
-        kexprdio.listLoader.currentList = kexprdio.listLoader.nextList.slice(); 
-        kexprdio.listLoader.nextList = [];
-      }
-
       this._clearLists();
-      this._attach(kexprdio.listLoader.currentList);
+      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 300);
     }
 
   };
