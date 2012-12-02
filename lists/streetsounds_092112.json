@@ -1,0 +1,9 @@
+{
+	"songs":[
+		{"artist":"MC Hammer" , "song":"Can't touch this!" , "album":"I forgot"},
+		{"artist":"Nas" , "song":"Get Down" , "album":"God's Son" },
+		{"artist":"Jay-Z" , "song":"Big Pimpin'" , "album":"Life and Times of Sean Carter" },
+		{"artist":"Yellawolf" , "song":"Freestyle" , "album":"Friday Freestyles #28" },
+		{"artist":"Kendrik Lamar" , "song":"Black Boy Fly (bonus)" , "album":"Good Kid, M.A.A.D. City" }
+	]
+}

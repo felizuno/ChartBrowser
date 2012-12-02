@@ -1,0 +1,9 @@
+{
+	"songs":[
+		{"artist":"Macklemore" , "song":"Same Love" , "album":"The Heist"},
+		{"artist":"Shabazz Palaces" , "song":"The Reckoner" , "album":"In Rainbows" },
+		{"artist":"Beck" , "song":"Loser" , "album":"Odelay" },
+		{"artist":"Metallica" , "song":"Enter Sandman" , "album":"The Black Album" },
+		{"artist":"A.C. Newman" , "song":"Blastit" , "album":"Shabazz Palaces" }
+	]
+}
