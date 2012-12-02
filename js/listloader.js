@@ -10,7 +10,7 @@
       // TEMPORARY: loads test JSON immediately. 
       // setTimeout used because it appends an empty <ul> otherwise. :-( 
       this._loadFromStorage('test');
-      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 300);
+      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 700);
     },
 
     // local utility loading behaviors
@@ -25,10 +25,11 @@
           var track =  val.artist + " - " + val.song + " - From: " + val.album; 
           kexprdio.listLoader.nextList.push('<li id="' + key + '" class="song">' + track + '</li>');
         });
-        console.log('Just loaded new nextList:' + kexprdio.listLoader.nextList);
-      });
 
-      kexprdio.listLoader.currentList = kexprdio.listLoader.nextList.slice();
+        console.log('Just loaded new nextList:' + kexprdio.listLoader.nextList);
+        kexprdio.listLoader.currentList = kexprdio.listLoader.nextList.slice();
+        console.log('Just assigned new currentList:' + kexprdio.listLoader.currentList);
+      });
     },
     //-----
     _clearLists: function() {
@@ -37,6 +38,7 @@
     //-----
     //this should already work
     _attach: function(listToAttach) {
+      console.log('About to attach: ' + listToAttach);
       $('<ul/>', {
       'class': 'tracklist',
       html: listToAttach.join('')
