@@ -15,6 +15,7 @@ h1 {
 	padding: 5px;
 	margin: 0 auto;
 	background-color: #A7A2E9;
+	border-radius: 15px;
 	overflow: auto;
 }
 
@@ -57,7 +58,7 @@ h1 {
 	padding: 20px 0px;
  	white-space: nowrap;
 }
-/*
+/* This doesn't work yet...
 .tracklist:nth-child(even) {
 	background-color: #5E599E;
 }
