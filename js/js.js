@@ -26,7 +26,7 @@
         } else {
           $(authbutton).attr('value', 'Click to authenticate');
           $(authbutton).bind('click', function() {
-            R.authenticate(kexprdio._stripAuth());
+            R.authenticate(_stripAuth);
           });          
         }
       });

@@ -1,4 +1,9 @@
-Goals:
+Real Goals:
+- Build playlists to push to Rdio
+- Chooser to build which file to request
+
+
+Big Goals:
 
 **Download past KEXP playlists and recreate them with Rdio
 - show a page with the playlist represented by Rdio albumart

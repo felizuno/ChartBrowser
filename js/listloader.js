@@ -10,42 +10,32 @@
       // TEMPORARY: loads test JSON immediately. 
       // setTimeout used because it appends an empty <ul> otherwise. :-( 
       this._loadFromStorage('test');
-      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 300);
     },
 
     // local utility loading behaviors
     //
     //-----
     _loadFromStorage: function(listToLoad) {
-      kexprdio.listLoader.nextList = [];
-      var newList = [];
+      var self = this;
+      this.nextList = [];
+      var newList = {};
       $.getJSON('lists/' + listToLoad + '.json', function(data) {
         $.each(data.songs, function(key, val) {
           var rdioQuery = val. artist + ' ' + val.song;
           var track =  val.artist + " - " + val.song + " - From: " + val.album;
           var trackImageUrl = '';
 
-          R.request({  
-            method: 'search',
-            content: {query: rdioQuery, types: 'Track'},
-            success: function(response) { //'a callback function to be called on success (optional)',
-              //this is where I set the album art as the background image for the song item
-              trackImageUrl = response.result.results[0].icon;
-              console.log('Inner:' + trackImageUrl);
-              kexprdio.listLoader.nextList.push('<li class="song"><img src="' + trackImageUrl+ ' />' + track + '</li>');
-            },
-            error: function() { //'a callback function to be called on error (optional)',
-              //load placeholder album art for "Track not available on Rdio"
-              console.log('R.request failed for search term:' + rdioQuery);
-              ;
-            }
-          });
-
-          kexprdio.listLoader.nextList.push('<li class="song"><img src="' + trackImageUrl + '" />' + track + '</li>');
-          console.log('Outter:' + trackImageUrl);
+          self.nextList.push('<li class="song" data-rdioquery="' 
+            + rdioQuery 
+            + '"><img src="'
+            + trackImageUrl 
+            + '" />' 
+            + track 
+            + '</li>');
         });
-        
-        kexprdio.listLoader.currentList = kexprdio.listLoader.nextList.slice();
+        // build newList and pass it to attach, and delete currentList and nextList
+        self.currentList = self.nextList.slice();
+        self._attach(self.currentList);
       });
     },
     //-----
@@ -54,29 +44,46 @@
       $('.tracklist').remove();
     },
     //-----
-    //this should already work
     _attach: function(listToAttach) {
       console.log('About to attach: ' + listToAttach);
-      $('<ul/>', 
+      var $ul = $('<ul/>', 
         {'class': 'tracklist',
           html: listToAttach.join('')
         }
        ).appendTo('.right');
       // this doesn't work, idk why...
-      $('.tracklist ul:last-child').addClass('last');
+      $('ul.tracklist li:last-child').addClass('last');
+      
+      R.ready(function() {
+        $ul.find('li').each(function(i, v) {
+          var $li = $(v);
+          var rdioQuery = $li.data('rdioquery');
+          R.request({
+            method: 'search',
+            content: {query: rdioQuery, types: 'Track'},
+            success: function(response) {
+              var trackImageUrl = response.result.results[0].icon;
+              $li.find('img').attr('src', trackImageUrl);
+            },
+            error: function() {
+              //load placeholder album art for "Track not available on Rdio"
+              console.log('R.request failed for search term:' + rdioQuery);
+            }
+          });
+        });
+      });
     },
+    
     // available commands
     //
     //+++++++++
     clearLists: function() {
-
       this._clearLists();
     },
     //+++++++++    
     appendToLists: function() {
       var listName = 'top100rap'; // Temporarily assigned to one of the test lists
       this._loadFromStorage(listName);
-      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 300);
       //this._attach(listName); // Want to be doing this instead of the setTimeout
     },
     //+++++++++
@@ -84,7 +91,6 @@
       var listName = 'streetsounds_092112'; // Temporarily assigned to one of the test lists
       this._loadFromStorage(listName);
       this._clearLists();
-      setTimeout('kexprdio.listLoader._attach(kexprdio.listLoader.currentList)', 300);
     }
   };
 
