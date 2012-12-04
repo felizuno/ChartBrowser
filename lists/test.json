@@ -1,4 +1,5 @@
 {
+	"name": "This is the test JSON",
 	"songs":[
 		{"artist":"Bat for Lashes" , "song":"Laura" , "album":"The Haunted Man"},
 		{"artist":"Radiohead" , "song":"The Reckoner" , "album":"In Rainbows" },
