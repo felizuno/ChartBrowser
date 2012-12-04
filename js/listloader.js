@@ -9,6 +9,40 @@
 
     // local utility loading behaviors
     //
+    //-----
+    _loadFromStorage: function(listToLoad) { //remove argument soon
+      var self = this;
+      var _listToLoad = $('div.showbuttons').find('.chosen').attr('id');
+      var newList = {
+        title: '',
+        list: []
+      };
+
+      
+
+      $.getJSON('lists/' + listToLoad + '.json', function(data) {
+        newList.title = data.name;
+
+        $.each(data.songs, function(key, val) {
+          var rdioQuery = val. artist + ' ' + val.song;
+          var track =  val.artist + " - " + val.song;
+
+          newList.list.push('<li class="playlistItem" data-rdioquery="' 
+            + rdioQuery 
+            + '"><img class="albumart"/><div class="songname">' 
+            + track 
+            + '</div></li>');
+        });
+
+        self._attach(newList);
+      });
+    },
+    //-----
+    _clearLists: function() {
+      $('.tracklist').remove();
+      $('.list-header').remove();
+    },
+    //-----
     _attach: function(listToAttach) {
       var $listTitle = $('<div />', {
         'class': 'list-header',
@@ -44,37 +78,6 @@
         });
       });
     },
-    //-----
-    _loadFromStorage: function(listToLoad) {
-      var self = this;
-      var newList = {
-        title: '',
-        list: []
-      };
-
-      $.getJSON('lists/' + listToLoad + '.json', function(data) {
-        newList.title = data.name;
-
-        $.each(data.songs, function(key, val) {
-          var rdioQuery = val. artist + ' ' + val.song;
-          var track =  val.artist + " - " + val.song;
-
-          newList.list.push('<li class="playlistItem" data-rdioquery="' 
-            + rdioQuery 
-            + '"><img class="albumart"/><div class="songname">' 
-            + track 
-            + '</div></li>');
-        });
-
-        self._attach(newList);
-      });
-    },
-    //-----
-    _clearLists: function() {
-      $('.tracklist').remove();
-      $('.list-header').remove();
-    },
-    //-----
     
     // available commands
     //
