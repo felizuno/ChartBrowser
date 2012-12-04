@@ -28,25 +28,27 @@ h1 {
 }
 
 .showbuttons {
-	height: 50px;
+	height: 120px;
 	font-size: 66%;
+	overflow: auto;
 }
 
 .showbutton {
-	vertical-align: top;
 	display: inline-block;
-	width: 50px;
-	height: 70%;
-	background-color: #2A67A5;
+	vertical-align: top;
+	width: 60px;
+	height: 36px;
 	border-radius: 4px;
-	padding: 10px 0;
+	margin: 2px;
+	padding: 8px 2px;
+	background-color: #2A67A5;
 	color: #FFF;
 	text-align: center;
 	text-shadow: 1px 1px 0 black;
 }
 
 .datetime {
-	margin: 50px 0;
+	margin: 10px 0 50px 0;
 }
 
 .left {
