@@ -45,6 +45,7 @@ h1 {
 	color: #FFF;
 	text-align: center;
 	text-shadow: 1px 1px 0 black;
+	box-shadow: 1px 1px 1px black;
 }
 
 .datetime {
@@ -93,10 +94,16 @@ h1 {
 .playlistItem {
  	overflow: hidden;
 	margin-bottom: 5px;
-}
+/*	box-shadow: 0 2px 7px black;
+*/}
 
 .albumart {
 	float: right;
+	height: 200px;
+	width: 200px;
+	margin-bottom: 10px;
+	border: 1px solid rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 5px black;
 }
 .songname {
 	text-align: center;
