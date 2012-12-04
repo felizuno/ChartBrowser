@@ -23,6 +23,8 @@
 
       $('ul.tracklist li:last-child').addClass('last');
       
+
+      // Call for the artwork now, when it arrives it will find the song it belongs to
       R.ready(function() {
         $ul.find('li').each(function(i, v) {
           var $li = $(v);
@@ -57,11 +59,11 @@
           var rdioQuery = val. artist + ' ' + val.song;
           var track =  val.artist + " - " + val.song;
 
-          newList.list.push('<li class="song" data-rdioquery="' 
+          newList.list.push('<li class="playlistItem" data-rdioquery="' 
             + rdioQuery 
-            + '"><img />' 
+            + '"><img class="albumart"/><div class="songname">' 
             + track 
-            + '</li>');
+            + '</div></li>');
         });
 
         self._attach(newList);

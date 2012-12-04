@@ -39,8 +39,6 @@ h1 {
 }
 
 .right {
-	display: inline-block;
-	float: right;
 	overflow: auto;
 	width: 70%;
 }
@@ -56,15 +54,27 @@ h1 {
 	border-top: 2px solid #2DD;
 	border-bottom: 2px solid #2DD;
 	padding: 20px 0px;
- 	white-space: nowrap;
+ /* white-space: nowrap; */
 }
+
 /* This doesn't work yet...
 .tracklist:nth-child(even) {
 	background-color: #5E599E;
 }
 */
-.song {
+
+.playlistItem {
+ 	overflow: hidden;
 	margin-bottom: 5px;
+}
+
+.albumart {
+	float: right;
+}
+.songname {
+	text-align: center;
+	font-size: 18px;
+	text-decoration: underline;
 }
 
 .last {
