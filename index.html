@@ -10,6 +10,8 @@
     <script src="/lib/less-1.3.0.min.js"></script>
     <script src="js/js.js"></script>
     <script src="js/listloader.js"></script>
+    <script src="js/chooser.js"></script>
+
 
 </head>
 <body>
@@ -20,7 +22,7 @@
 		<p>NOTE: If you haven't authorized the app, the first button will prompt you. <br>Once it displays your name you can use it to open your Rdio account in a new tab.</p>
 		<div class="chooserbar">
 			<div class="showbuttons">
-				<div class="showbutton" id="jr">John<br>in the<br>morning</div>
+				<div class="showbutton chosen" id="jr">John<br>in the<br>morning</div>
 				<div class="showbutton" id="cw">Cheryl<br>Waters</div>
 				<div class="showbutton" id="kc">Kevin<br>Cole</div>
 				<div class="showbutton" id="es">El<br>Sonido</div>
@@ -34,17 +36,14 @@
 				<div class="showbutton" id="sr">Sonic<br>Reducer</div>
 				<div class="showbutton" id="sk">Seek<br>&amp;<br>Destroy</div>
 				<div class="showbutton" id="pb">Preachin'<br>the<br>Blues</div>
-				<div class="showbutton chosen" id="ss">Street<br>Sounds</div>
+				<div class="showbutton" id="ss">Street<br>Sounds</div>
 				<div class="showbutton" id="ex">Expansions</div>
 				<div class="showbutton" id="sa">Sonarchy</div>
 				<div class="showbutton" id="jt">Jazz<br>Theatre</div>
 			</div>
 			<div class="datetime">
-				<form>
-					<input type="date" />
-					<input type="submit" value="Submit">
-				</form>
 			</div>
+			<div class="currentchoice"></div>
 		</div>
 		<div class="left">
 			<input type="button" value="Rdio API is loading..." id="authbutton" />

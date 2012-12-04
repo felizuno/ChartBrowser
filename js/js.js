@@ -31,6 +31,12 @@
         }
       });
 
+      $('.showbutton').each(function(i, v){
+        $(v).bind('click', function() {
+          kexprdio.chooser.toggleChosen(this);
+        });
+      });
+
       $("#addbutton").click(function () {
         kexprdio.listLoader.appendToLists();
       });
