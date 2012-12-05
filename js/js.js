@@ -56,6 +56,7 @@
   $(document).ready(function() {
     kexprdio.init();
     kexprdio.listLoader.init();
+    kexprdio.chooser.init();
   });
 
 })();
