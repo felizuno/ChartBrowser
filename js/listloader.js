@@ -47,13 +47,13 @@
       var $listTitle = $('<div />', {
         'class': 'list-header',
         html: listToAttach.title
-      }).appendTo('.right');
+      }).appendTo('.listDisplay');
 
       var $ul = $('<ul/>', 
         {'class': 'tracklist',
           html: listToAttach.list.join('')
         }
-       ).appendTo('.right');
+       ).appendTo('.listDisplay');
 
       $('ul.tracklist li:last-child').addClass('last');
       

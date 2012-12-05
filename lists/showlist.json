@@ -1,0 +1,23 @@
+{ 
+	showlist: [
+		{'show':'cw', 'freq':'wd', 'day':'', 'time':''},
+		{'show':'kc', 'freq':'wd', 'day':'', 'time':''}, 
+		{'show':'es', 'freq':'wk', 'day':'', 'time':''}, 
+		{'show':'wp', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'rh', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'sd', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'sh', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'mm', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'pv', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'ao', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'sr', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'sk', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'pb', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'ss', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'ex', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'sa', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'jt', 'freq':'wk', 'day':'', 'time':''},
+		{'show':'vm', 'freq':'da', 'day':'', 'time':''},
+		{'show':'jr', 'freq':'wd', 'day':'', 'time':''}
+	],
+}

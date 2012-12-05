@@ -2,41 +2,41 @@
 	kexprdio.chooser = {
 		choice: {
 			show: '',
-			freq: '',
-			date: '',
+
+			dateDay: new Date().getDay(),
+			dateWeek: '',
+			dateMonth: '',
+			dateYear: new Date().getFullYear(),
 			time: ''
 		},
 
-		$showMap: { 'cw':'wd', 'kc':'wd', 'es': 'wk', 'wp': 'wk',
-					 'rh': 'wk', 'sd': 'wk', 'sh': 'wk', 'mm': 'wk',
-					 'pv': 'wk', 'ao': 'wk', 'sr': 'wk', 'sk': 'wk',
-					 'pb': 'wk', 'ss': 'wk', 'ex': 'wk', 'sa': 'wk',
-					 'jt': 'wk', 'vm':'da', 'jr': 'wd'
-			},
-
 		init: function() {
 			this.choice.show = 'jr';
-			this._toggleDays();
+			this.choice.freq = 'wd';
+		},
+
+		_refreshDatechooser: function() {
+			switch(this.choice.freq) {
+				case 'wk':
+					// switch the date chooser accordingly
+					break;
+				case 'wd':
+					// switch the date chooser accordingly
+					break;
+				case 'da':
+					// switch the date chooser accordingly
+					break;
+				case 'ed':
+					// switch the date chooser accordingly
+					break;
+			}
 		},
 
 		toggleChosen: function(button) {
 			$('.chosen').removeClass('chosen');
 			$(button).toggleClass('chosen');
-			this.choice.show = $(button).attr('id');
-			this._toggleDays();
-		},
-
-		_toggleDays: function() {
-			var self = this;
-
-			$.each(self.$showMap, function (k, v) {
-
-				if (self.choice.show == k) {
-					self.choice.freq = v;
-					console.log(self.choice.freq);
-				};
-			});
+			this.choice.show = $(button).data('name');
+			//this._refreshDatechooser();
 		}
-
 	};
 })();

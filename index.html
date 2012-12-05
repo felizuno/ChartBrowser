@@ -16,42 +16,64 @@
 </head>
 <body>
 	<h1>KEXP for Rdio</h1>
+	<input type="button" value="Rdio API is loading..." id="authbutton" />
 	<div class="maincontent">
 		<h2>Soon you can make Rdio playlists based on KEXP shows!</h2>
 		<p>The four buttons below are bound to click events which test basic listloading functionality</p>
 		<p>NOTE: If you haven't authorized the app, the first button will prompt you. <br>Once it displays your name you can use it to open your Rdio account in a new tab.</p>
 		<div class="chooserbar">
-			<div class="showbuttons">
-				<div class="showbutton chosen" id="jr">John<br>in the<br>morning</div>
-				<div class="showbutton" id="cw">Cheryl<br>Waters</div>
-				<div class="showbutton" id="kc">Kevin<br>Cole</div>
-				<div class="showbutton" id="es">El<br>Sonido</div>
-				<div class="showbutton" id="wp">Wo'<br>Pop</div>
-				<div class="showbutton" id="rh">The<br>Road-<br>house</div>
-				<div class="showbutton" id="sd">Swingin' Doors</div>
-				<div class="showbutton" id="sh">Shake<br>the<br>Shack</div>
-				<div class="showbutton" id="mm">Mind<br>Over<br>Matters</div>
-				<div class="showbutton" id="pv">Positive<br>Vibrations</div>
-				<div class="showbutton" id="ao">Audioasis</div>
-				<div class="showbutton" id="sr">Sonic<br>Reducer</div>
-				<div class="showbutton" id="sk">Seek<br>&amp;<br>Destroy</div>
-				<div class="showbutton" id="pb">Preachin'<br>the<br>Blues</div>
-				<div class="showbutton" id="ss">Street<br>Sounds</div>
-				<div class="showbutton" id="ex">Expansions</div>
-				<div class="showbutton" id="sa">Sonarchy</div>
-				<div class="showbutton" id="jt">Jazz<br>Theatre</div>
-			</div>
-			<div class="datetime">
-			</div>
-			<div class="currentchoice"></div>
-		</div>
-		<div class="left">
-			<input type="button" value="Rdio API is loading..." id="authbutton" />
 			<input type="button" value="Append List" id="addbutton" />
 			<input type="button" value="Replace List(s)" id="replacebutton" />
 			<input type="button" value="Clear all" id="clearbutton" />
+			<div class="showbuttons">
+				<div class="showbutton chosen" data-freq="wd" data-name="jr">John<br>in the<br>morning</div>
+				<div class="showbutton" data-name="cw">Cheryl<br>Waters</div>
+				<div class="showbutton" data-name="kc">Kevin<br>Cole</div>
+				<div class="showbutton" data-name="es">El<br>Sondido</div>
+				<div class="showbutton" data-name="wp">Wo'<br>Pop</div>
+				<div class="showbutton" data-name="rh">The<br>Road-<br>house</div>
+				<div class="showbutton" data-name="sd">Swingin' Doors</div>
+				<div class="showbutton" data-name="sh">Shake<br>the<br>Shack</div>
+				<div class="showbutton" data-name="mm">Mind<br>Over<br>Matters</div>
+				<div class="showbutton" data-name="pv">Positive<br>Vibrations</div>
+				<div class="showbutton" data-name="ao">Audioasis</div>
+				<div class="showbutton" data-name="sr">Sonic<br>Reducer</div>
+				<div class="showbutton" data-name="sk">Seek<br>&amp;<br>Destroy</div>
+				<div class="showbutton" data-name="pb">Preachin'<br>the<br>Blues</div>
+				<div class="showbutton" data-name="ss">Street<br>Sounds</div>
+				<div class="showbutton" data-name="ex">Expansions</div>
+				<div class="showbutton" data-name="sa">Sonarchy</div>
+				<div class="showbutton" data-name="jt">Jazz<br>Theatre</div>
+				<div class="showbutton" data-name="vm">Variety<br>Mix</div>
+			</div>
+			<div class="datepickers">
+				<div class="picker" id="day">
+					<div class="pickerlabel">Day:</div>
+					<input type="text" id="datebox" />
+					<div class="plusminus">
+						<div class="plus">+</div>
+						<div class="minus">-</div>
+					</div>				
+				</div>
+				<div class="picker" id="month">
+					<div class="pickerlabel">Month:</div>
+					<input type="text" id="monthbox" />
+					<div class="plusminus">
+						<div class="plus">+</div>
+						<div class="minus">-</div>
+					</div>						
+				</div>
+				<div class="picker" id="year">
+					<div class="pickerlabel">Year:</div>
+					<input type="text" id="yearbox" />
+					<div class="plusminus">
+						<div class="plus">+</div>
+						<div class="minus">-</div>
+					</div>
+				</div>						
+			</div>
 		</div>
-		<div class="right">
+		<div class="listDisplay">
 		</div>
 	</div>
 </body>
