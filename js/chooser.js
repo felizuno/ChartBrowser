@@ -14,8 +14,7 @@
 		},
 
 		_toggleVisibility: function(buttonbar) {
-			$('.chosen', buttonbar).fadeTo('fast', 0.8);
-			$(buttonbar.children).not('.chosen').fadeTo('fast', 0.2);
+			$(buttonbar.children).not('.chosen').slideToggle('fast');
 		}
 	};
 })();
