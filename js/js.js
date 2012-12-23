@@ -3,12 +3,11 @@
   window.kexprdio = {
     // GLOBAL VARIABLES.
     userName: '',
-    currentList: {},
+    currentchart: {},
 
 
     // +++++++++++++++++++
     init: function() {
-      var self = this;
       // initialize the auth button based on current auth state
       
       var _stripAuth = function() {
@@ -20,34 +19,34 @@
         });        
       };
 
-      R.on('change:ready', function(){
-        if (R.authenticated()) {
-          _stripAuth();
-        } else {
-          $(authbutton).attr('value', 'Click to authenticate');
-          $(authbutton).bind('click', function() {
-            R.authenticate(_stripAuth);
-          });          
-        }
-      });
+      // R.on('change:ready', function(){
+      //   if (R.authenticated()) {
+      //     _stripAuth();
+      //   } else {
+      //     $(authbutton).attr('value', 'Click to authenticate');
+      //     $(authbutton).bind('click', function() {
+      //       R.authenticate(_stripAuth);
+      //     });          
+      //   }
+      // });
 
-      $('.showbutton').each(function(i, v){
-        $(v).bind('click', function() {
-          kexprdio.chooser.toggleChosen(this);
-        });
-      });
+  $('.chartbutton').add('.month').add('.year').each(function(i, v){
+    $(v).bind('click', function() {
+      kexprdio.chooser.toggleChosen(this, this.parentElement);
+    });
+  });
 
-      $("#addbutton").click(function () {
-        kexprdio.listLoader.appendToLists();
-      });
+  $("#addbutton").click(function () {
+    kexprdio.chartLoader.appendTocharts();
+  });
 
-      $("#replacebutton").click(function () {
-        kexprdio.listLoader.replaceLists();
-      });
+  $("#replacebutton").click(function () {
+    kexprdio.chartLoader.replacecharts();
+  });
 
-      $("#clearbutton").click(function () {
-        kexprdio.listLoader.clearLists();
-      });
+  $(".choosertoggle").click(function () {
+    $('.chooserbar').children().not(this).slideToggle('fast');
+  });
     },
 
   };
@@ -55,8 +54,7 @@
   // +++++++++++++++++++
   $(document).ready(function() {
     kexprdio.init();
-    kexprdio.listLoader.init();
-    kexprdio.chooser.init();
+    kexprdio.chartLoader.init();
   });
 
 })();

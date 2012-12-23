@@ -20,8 +20,8 @@ handlers:
 - url: /lib
   static_dir: lib
 
-- url: /lists
-  static_dir: lists
+- url: /charts
+  static_dir: charts
 
 - url: /.*
   script: KEXPRdio.app

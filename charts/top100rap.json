@@ -2,9 +2,9 @@
 	"name": "Top 100 (all genres)",
 	"songs":[
 		{"artist":"Macklemore" , "song":"Same Love" , "album":"The Heist"},
-		{"artist":"Shabazz Palaces" , "song":"The Reckoner" , "album":"In Rainbows" },
+		{"artist":"Shabazz Palaces" , "song":"Blastit" , "album":"Shabazz Palaces" },
 		{"artist":"Beck" , "song":"Loser" , "album":"Odelay" },
 		{"artist":"Metallica" , "song":"Enter Sandman" , "album":"The Black Album" },
-		{"artist":"A.C. Newman" , "song":"Blastit" , "album":"Shabazz Palaces" }
+		{"artist":"A.C. Newman" , "song":"Do Your Own Time" , "album":"Shut Down the Streets" }
 	]
 }

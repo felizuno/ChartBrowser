@@ -1,42 +1,21 @@
 (function(){
 	kexprdio.chooser = {
-		choice: {
-			show: '',
+		chartToLoad: function() { //right now nothing calls this, waiting on cleaned jsons
+	        var $chart = $('.chartbuttons').find('.chosen');
+	        var $year = $('.yearbar').find('.chosen');
+	        var filename = ($chart.attr('id') + $year.attr('id'));
+	        return filename;
+      	},
 
-			dateDay: new Date().getDay(),
-			dateWeek: '',
-			dateMonth: '',
-			dateYear: new Date().getFullYear(),
-			time: ''
-		},
-
-		init: function() {
-			this.choice.show = 'jr';
-			this.choice.freq = 'wd';
-		},
-
-		_refreshDatechooser: function() {
-			switch(this.choice.freq) {
-				case 'wk':
-					// switch the date chooser accordingly
-					break;
-				case 'wd':
-					// switch the date chooser accordingly
-					break;
-				case 'da':
-					// switch the date chooser accordingly
-					break;
-				case 'ed':
-					// switch the date chooser accordingly
-					break;
-			}
-		},
-
-		toggleChosen: function(button) {
-			$('.chosen').removeClass('chosen');
+		toggleChosen: function(button, buttonbar) {
+			$(buttonbar).find('.chosen').removeClass('chosen');
 			$(button).toggleClass('chosen');
-			this.choice.show = $(button).data('name');
-			//this._refreshDatechooser();
+			this._toggleVisibility(buttonbar);
+		},
+
+		_toggleVisibility: function(buttonbar) {
+			$('.chosen', buttonbar).fadeTo('fast', 0.8);
+			$(buttonbar.children).not('.chosen').fadeTo('fast', 0.2);
 		}
 	};
 })();

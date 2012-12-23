@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<title>KEXPRdio - KEXP playlists for Rdio!</title>
+	<title>KEXPRdio - KEXP charts for Rdio!</title>
 	<link rel="stylesheet" type="text/css" href="lib/normalize.css">
     <link rel="stylesheet" type="text/css" href="style/main.css">
     <script src="https://rdio.com/api/api.js?client_id=wm5tzZXA_U-wuqEzqOhLNg"></script>    
@@ -9,71 +9,76 @@
     <script src="/lib/jquery-1.8.2.min.js"></script>
     <script src="/lib/less-1.3.0.min.js"></script>
     <script src="js/js.js"></script>
-    <script src="js/listloader.js"></script>
+    <script src="js/chartloader.js"></script>
     <script src="js/chooser.js"></script>
 
 
 </head>
 <body>
-	<h1>KEXP for Rdio</h1>
-	<input type="button" value="Rdio API is loading..." id="authbutton" />
-	<div class="maincontent">
-		<h2>Soon you can make Rdio playlists based on KEXP shows!</h2>
-		<p>The four buttons below are bound to click events which test basic listloading functionality</p>
-		<p>NOTE: If you haven't authorized the app, the first button will prompt you. <br>Once it displays your name you can use it to open your Rdio account in a new tab.</p>
-		<div class="chooserbar">
-			<input type="button" value="Append List" id="addbutton" />
-			<input type="button" value="Replace List(s)" id="replacebutton" />
-			<input type="button" value="Clear all" id="clearbutton" />
-			<div class="showbuttons">
-				<div class="showbutton chosen" data-freq="wd" data-name="jr">John<br>in the<br>morning</div>
-				<div class="showbutton" data-name="cw">Cheryl<br>Waters</div>
-				<div class="showbutton" data-name="kc">Kevin<br>Cole</div>
-				<div class="showbutton" data-name="es">El<br>Sondido</div>
-				<div class="showbutton" data-name="wp">Wo'<br>Pop</div>
-				<div class="showbutton" data-name="rh">The<br>Road-<br>house</div>
-				<div class="showbutton" data-name="sd">Swingin' Doors</div>
-				<div class="showbutton" data-name="sh">Shake<br>the<br>Shack</div>
-				<div class="showbutton" data-name="mm">Mind<br>Over<br>Matters</div>
-				<div class="showbutton" data-name="pv">Positive<br>Vibrations</div>
-				<div class="showbutton" data-name="ao">Audioasis</div>
-				<div class="showbutton" data-name="sr">Sonic<br>Reducer</div>
-				<div class="showbutton" data-name="sk">Seek<br>&amp;<br>Destroy</div>
-				<div class="showbutton" data-name="pb">Preachin'<br>the<br>Blues</div>
-				<div class="showbutton" data-name="ss">Street<br>Sounds</div>
-				<div class="showbutton" data-name="ex">Expansions</div>
-				<div class="showbutton" data-name="sa">Sonarchy</div>
-				<div class="showbutton" data-name="jt">Jazz<br>Theatre</div>
-				<div class="showbutton" data-name="vm">Variety<br>Mix</div>
-			</div>
-			<div class="datepickers">
-				<div class="picker" id="day">
-					<div class="pickerlabel">Day:</div>
-					<input type="text" id="datebox" />
-					<div class="plusminus">
-						<div class="plus">+</div>
-						<div class="minus">-</div>
-					</div>				
-				</div>
-				<div class="picker" id="month">
-					<div class="pickerlabel">Month:</div>
-					<input type="text" id="monthbox" />
-					<div class="plusminus">
-						<div class="plus">+</div>
-						<div class="minus">-</div>
-					</div>						
-				</div>
-				<div class="picker" id="year">
-					<div class="pickerlabel">Year:</div>
-					<input type="text" id="yearbox" />
-					<div class="plusminus">
-						<div class="plus">+</div>
-						<div class="minus">-</div>
-					</div>
-				</div>						
-			</div>
+	<div class="hiddenauthstuff"></div>
+	<div class="header">
+		<div class="titlecontainer">
+			<h1>Chart Browser</h1>
+			<h2>Charts provided by KEXP</h2>
 		</div>
-		<div class="listDisplay">
+		<div id="authbutton">Powered by<div>Rdio</div></div>
+	</div>
+	<div class="chooserbar">
+		<div class="chartbuttons">
+			<div class="chartbutton chosen" id="top">Top 90.3</div>
+			<div class="chartbutton" id="var">Variety</div>
+			<div class="chartbutton" id="am">Americana</div>
+			<div class="chartbutton" id="el">Electronic</div>
+			<div class="chartbutton" id="jz">Jazz</div>
+			<div class="chartbutton" id="nw">Northwest</div>
+			<div class="chartbutton" id="wd">World</div>
+			<div class="chartbutton" id="hh">Hiphop</div>
+			<div class="chartbutton" id="bl">Blues</div>
+		</div>
+
+		<div class="yearbar">
+			<div class="year chosen" id="2012">2012</div>
+			<div class="year" id="2011">2011</div>
+			<div class="year" id="2010">2010</div>
+			<div class="year" id="2009">2009</div>
+			<div class="year" id="2008">2008</div>
+			<div class="year" id="2007">2007</div>
+			<div class="year" id="2006">2006</div>
+			<div class="year" id="2005">2005</div>
+			<div class="year" id="2004">2004</div>
+			<div class="year" id="2003">2003</div>
+			<div class="year" id="2002">2002</div>
+			<div class="year" id="2001">2001</div>
+			<div class="year" id="2000">2000</div>
+			<div class="year" id="1999">1999</div>
+			<div class="year" id="1998">1998</div>
+			<div class="year" id="1997">1997</div>
+			<div class="year" id="1996">1996</div>
+		</div>
+		<div class="monthbar">
+			<div class="month chosen" id="all">All</div>
+			<div class="month" id="jan">January</div>
+			<div class="month" id="feb">February</div>
+			<div class="month" id="mar">March</div>
+			<div class="month" id="apr">April</div>
+			<div class="month" id="may">May</div>
+			<div class="month" id="jun">June</div>
+			<div class="month" id="jul">July</div>
+			<div class="month" id="aug">August</div>
+			<div class="month" id="sep">September</div>
+			<div class="month" id="oct">October</div>
+			<div class="month" id="nov">November</div>
+			<div class="month" id="dec">December</div>
+		</div>
+		<div class="footer">
+			<input type="button" value="Append " id="addbutton" />
+			<input type="button" value="Replace" id="replacebutton" />
+		</div>
+		<div class="choosertoggle">- - -</div> 
+	</div>
+
+	<div class="chartcontainer">
+		<div class="chartdisplay">
 		</div>
 	</div>
 </body>

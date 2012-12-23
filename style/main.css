@@ -1,139 +1,188 @@
 html {
-	background-image: url('/img/gray_jean.png');
 	background-color: #888;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; 
+	color: #555;
 }
 
-h1 {
+.header, .footer {
+	width: 100%;
+	min-width: 384px;
 	color: #fff;
-	text-shadow: 1px 1px 1px #333;
 	background-color: #FEAC31;
-	border: 1px solid black;
-	text-align: center;
 }
 
-.maincontent {
-	width: 90%;
-	padding: 5px;
-	margin: 0 auto;
-	background-color: rgba(0, 0, 0, 0.1);
-	overflow: auto;
+.header {
+	box-shadow: 0 0 5px 0 #000;
+	text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
+	overflow: hidden;
+	z-index: 10;
+	position: fixed;
 }
 
-.maincontent > p, h2 {
-	padding-left: 20px;
-	margin-bottom: 20px;
-}
-.chooserbar {
-	margin-left: 20px;
-}
-
-.chooserbar > input {
-	width: 200px;
-	padding: 10px 5px;
-	border-radius: 5px;
-	text-shadow: 1px 1px 2px black;
-	margin-bottom: 10px;
-}
-
-.showbuttons {
-	height: 120px;
-	font-size: 66%;
-	overflow: auto;
-}
-
-.showbutton {
-	display: inline-block;
-	vertical-align: top;
-	width: 60px;
-	height: 36px;
-	border-radius: 4px;
-	margin: 2px;
-	padding: 8px 2px;
-	background-color: #2A67A5;
-	color: #FFF;
-	text-align: center;
-	text-shadow: 1px 1px 0 black;
-	box-shadow: 1px 1px 1px black;
-}
-
-.chosen {
-	background-color: red;
-}
-
-.datepickers {
-	margin: 10px 0 50px 0;
-}
-
-.picker {
-	display: inline-block;
-	width: 100px;
-}
-
-.picker > input {
-	width: 2em;
+.titlecontainer {
 	float: left;
+	font-family: Helvetica;
+	margin-left: 10px;
+	padding-bottom: 3px;
+}
+.titlecontainer h1, h2 {
+	margin: 0;
 }
 
-
-.listDisplay {
-	margin:0 auto;
+.titlecontainer h2 {
+	font-size: 12px; 
 }
 
-.list-header {
-	color: rgba(0, 0, 0, 0.2);
-	font-size: 24px;
+#authbutton {
+	cursor: pointer;
+	text-align: center; 
+	margin: 5px 5px;
+	float: right;
+	width: 40px;
+	padding: 2px 2px;
+	font-size: 8px;
+}
+#authbutton:active {
+	background-color: rgba(255, 255, 255, 0.4);
+}
+
+#authbutton > div {
+	font-size: 14px;
 	font-weight: bold;
 }
 
-.tracklist {
-	padding: 10px 0px;
+.chooserbar {
+	z-index: 1;
+	/*width: 100%;
+	min-width: 384px;*/
+	width: 97%;
+	color: #555;
+	position: fixed;
+	background-image: url('/img/gray_jean.png');
+	padding-top: 65px;
+	margin: 0 10px 20px 10px;
+	background-color: rgba(0, 0, 0, 0.1);
+	border-radius: 20px;
+	box-shadow: 5px 5px 10px 0 #666;
+	text-align: center;
+}
+.footer {
+	padding: 2px 0 8px 0;
+	height: 14px;
+	box-shadow: 0px 0px 3px 0 #777;
+}
+
+.footer input {
+	border: none;
+	display: inline-block;
+	width: 29%;
+	background-color: #FEAC31;	
+	color: #fff;
+	text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
+}
+
+
+.chartbutton, .month, .year, .choosertoggle {
+	display: inline-block;
+	vertical-align: top;
+	height: 7%;
+	min-height: 18px;
+	padding: 4px 10px;
+	/*text-align: center;*/
+	cursor: pointer;
+}
+
+.chartbuttons, .yearbar {
+	border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
+}
+
+.monthbar {
+	margin-bottom: 5px;
+}
+.chartcontainer {
+	background-image: url('/img/gray_jean.png');
+	width:97%;
+	min-height: 700px;
+	min-width: 380px;
+	max-width: 1200px;
+	padding: 40px 10px 400px 10px;
+	margin: 0 auto;
+	overflow: auto;
+	box-shadow: 0 0 20px 11px black;
+}
+
+.chartdisplay {
+	width: 100%;
+	margin: 40px auto;
+}
+
+.chart-header {
+	color: rgba(0, 0, 0, 0.2);
+	font-size: 10px;
+	font-weight: bold;
+}
+
+.chart {
+	padding: 10px 0;
  /* white-space: nowrap; */
 }
 
-.playlistItem {
+.chartitem {
  	overflow: hidden;
-	margin-bottom: 10px;
-	box-shadow: 0 0px 3px black;
+	padding-bottom: 10px;
+	font-size: 12px;
+	padding-right: 20px;
+}
+
+.playlistoptions {
+	text-transform: uppercase;
+	padding: 0 30px;
+	border: 1px solid black;
+	border-top: none;
+	background-color: rgba(0, 0, 0, 0.6);
+	box-shadow: -4px 3px 18px 0 rgba(0, 0, 0, 0.6);
+}
+
+.playlistoption, .songname {
+	padding: 5px 10px;
+	vertical-align: top;
+	text-align: center;
+}
+
+.playlistoption {
+	display: inline-block;
+	font-size: 8px;
+	width: 15%;
+	min-width: 100px;
+	color: #fff;
+}
+.playlistoption:active {
+	background-color: #000; 
+}
+
+.songname {
+	width: 100%;
+	padding-bottom: 20px;
+	font-family: Helvetica;
+	font-size: 18px;
+	text-transform: uppercase;
+}
+
+.songinfo {
+	padding: 5px 10px;
+	min-width: 300px;
+	height: 80%;
+	min-height: 120px;
+	border: 1px solid black;
+	background-color: rgba(0, 0, 0, 0.1)
 }
 
 .albumart {
 	float: right;
 	height: 200px;
 	width: 200px;
+	background-color: lightblue;
+	margin: -15px -10px 0 0;
 	border: 1px solid rgba(0, 0, 0, 0.5);
 	box-shadow: 0 0 5px black;
-}
-.songname {
-	text-align: center;
-	font-size: 18px;
-	text-decoration: underline;
-}
-
-.tracklist >.last {
-	margin-bottom: none;
-}
-
-#authbutton {
-	width: 200px;
-	padding: 10px 5px;
-	border-radius: 5px;
-	margin: 10px auto;	
-	background-color: #2A67A5;	
-	color: #FFF;
-	text-shadow: 1px 1px 2px black;
-}
-
-#addbutton {
-	background-color: #3F36B1;	
-	color: #FFF;
-}
-
-#replacebutton {
-	background-color: #FECF31;	
-	color: #FFF;
-}
-
-#clearbutton {
-	background-color: #2A67A5;	
-	color: #FFF;
 }
