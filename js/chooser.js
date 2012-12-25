@@ -18,9 +18,8 @@
 		},
 
 		_toggleVisibility: function(buttonbar) {
-			$(buttonbar.children).not('.chosen').slideToggle('fast');
+			$(buttonbar.children).not('.chosen').toggle('fast');
 		}
 	};
-
 
 })();

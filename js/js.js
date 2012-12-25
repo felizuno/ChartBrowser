@@ -66,6 +66,7 @@
     kexprdio.init();
     kexprdio.chartLoader.init();
     kexprdio.chooser.init();
+    kexprdio.playlister.init();
   });
 
 })();

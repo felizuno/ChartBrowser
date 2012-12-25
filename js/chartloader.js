@@ -22,10 +22,11 @@
       // Don't forget to remove this
 
       $.getJSON('charts/' + chartToLoad + '.json', function(data) {
-        //_newChart.title = data.name;
+        $('.range').not('#all').remove();
         $.each(data.chart, function(key, val) {
           var $dr = $('<div />', {
             'class': 'range',
+            'style':'display:none;',
             html: val.daterange
             }).appendTo('.monthbar');
           _newChart.chart.push(
@@ -53,6 +54,12 @@
           });
         });
 
+        $('.range').not('#all').each(function(i, v) {
+          $(v).bind('click', function() {
+            kexprdio.chooser.toggleChosen(this, this.parentElement);
+          });
+        });
+
         self._attach(_newChart);
       });
     },
@@ -68,12 +75,10 @@
           html: chartToAttach.chart.join('')
         }
        ).appendTo('.chartdisplay');
+      
+      kexprdio.playlister.addPlaylistOptions();
 
-      $('.range').not('#all').each(function(i, v) {
-        $(v).bind('click', function() {
-          kexprdio.chooser.toggleChosen(this, this.parentElement);
-        });
-      });
+
 
       // Call for the artwork now, when it arrives it will find the song it belongs to
       // R.ready(function() {
