@@ -12,8 +12,8 @@
     _loadFromStorage: function(chartToLoad) { // Ready to remove argument
       var self = this;
       // The function below determines the filename to ask for based on the chosen buttons
-      var _chartToLoad = kexprdio.chooser.chartToLoad();
-        console.log('Current Choice: ' + _chartToLoad + '.json');
+      //var _chartToLoad = kexprdio.chooser.chartToLoad();
+      //  console.log('Current Choice: ' + _chartToLoad + '.json');
       var _newChart = {
         title: '',
         chart: []
@@ -21,28 +21,29 @@
       
       // Don't forget to remove this
 
-      $.getJSON('charts/' + chartToLoad + '.json', function(data) {
-        _newChart.title = data.name;
+      $.getJSON('charts/el2012.json', function(data) {
+        //_newChart.title = data.name;
+        $.each(data.chart, function(key, val) {
+          $.each(val.albums, function (key2, val2) {
+            var rdioQuery = val2. artist + ' ' + val2.album + ' ';// + val2.label;
+            var track =  val2.artist + " - " + val2.album;
 
-        $.each(data.songs, function(key, val) {
-          var rdioQuery = val. artist + ' ' + val.song + ' ' + val.album;
-          var track =  val.artist + " - " + val.song;
-
-          // Build out the chart html as a string for the push
-          _newChart.chart.push(
-            '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
-            + '<div class="songname">' + track + '</div>'
-            + '<img class="albumart" src="img/failicon.png"/>'
-            + '<div class="songinfo">This is where artist biography and related artists will go.<p>May remind you of\:  Related Artist, Other Artist, No-name Band</p><p>Similar artists not in your collection\:  Related Artist, Other Artist, No-name Band</p></div>'
-            + '<div class="playlistoptions">'
-              + '<div class="playlistoption">Queue Album</div>'
-              + '<div class="playlistoption">Your Playlists</div>'
-              + '<div class="playlistoption">Share Song</div>'
-              + '<div class="playlistoption">Show Stats</div>'
-              //+ '<div class="playlistsview" style="visibility: hidden"><div class="userplaylist">Playlist</div><div class="userplaylist">Playlist</div><div class="userplaylist">Playlist</div></div>'
-            + '</div>'
-            + '</li>'
-          );
+            // Build out the chart html as a string for the push
+            _newChart.chart.push(
+              '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
+              + '<div class="songname">' + track + '</div>'
+              + '<img class="albumart" src="img/failicon.png"/>'
+              + '<div class="songinfo">This is where artist biography and related artists will go.<p>May remind you of\:  Related Artist, Other Artist, No-name Band</p><p>Similar artists not in your collection\:  Related Artist, Other Artist, No-name Band</p></div>'
+              + '<div class="playlistoptions">'
+                + '<div class="playlistoption">Queue Album</div>'
+                + '<div class="playlistoption">Your Playlists</div>'
+                + '<div class="playlistoption">Share Song</div>'
+                + '<div class="playlistoption">Show Stats</div>'
+                //+ '<div class="playlistsview" style="visibility: hidden"><div class="userplaylist">Playlist</div><div class="userplaylist">Playlist</div><div class="userplaylist">Playlist</div></div>'
+              + '</div>'
+              + '</li>'
+            );
+          });
         });
 
         self._attach(_newChart);
@@ -109,7 +110,9 @@
     loadingtest: function() {
       this._clearcharts();
       //var _filename = kexprdio.chooser.chartToLoad();
-      this._loadFromStorage('el2012');
+      $.getJSON('charts/el2012.json', function(data) {
+          console.log(data);
+      });
     }
   };
 
