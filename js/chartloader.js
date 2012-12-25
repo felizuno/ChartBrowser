@@ -69,7 +69,7 @@
         }
        ).appendTo('.chartdisplay');
 
-      $('.range').not('.chosen').each(function(i, v) {
+      $('.range').not('#all').each(function(i, v) {
         $(v).bind('click', function() {
           kexprdio.chooser.toggleChosen(this, this.parentElement);
         });
