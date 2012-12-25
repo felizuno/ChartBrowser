@@ -8,10 +8,16 @@
 
 		addPlaylistOptions: function() {
 		    $('.playlistoption').each(function(i, v) {
-		        var $dr = $('<div />', {
+		        var $albumAction = $('<div />', {
 		          'class': 'albumoption',
 		          'style':'display:none;',
 		          html: 'User Action'
+		        }).appendTo(v);
+
+		        var $albumAction2 = $('<div />', {
+		          'class': 'albumoption',
+		          'style':'display:none;',
+		          html: 'User Action 2'
 		        }).appendTo(v);
 		    });			
 			
