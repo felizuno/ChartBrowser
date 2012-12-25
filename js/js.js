@@ -30,7 +30,7 @@
       //   }
       // });
 
-  $('.chartbutton').add('.month').add('.year').each(function(i, v){
+  $('.chartbutton').add('.range').add('.year').each(function(i, v){
     $(v).bind('click', function() {
       kexprdio.chooser.toggleChosen(this, this.parentElement);
     });

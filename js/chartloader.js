@@ -21,17 +21,24 @@
       
       // Don't forget to remove this
 
-      $.getJSON('charts/el2012.json', function(data) {
+      $.getJSON('charts/' + chartToLoad + '.json', function(data) {
         //_newChart.title = data.name;
         $.each(data.chart, function(key, val) {
+          var $dr = $('<div />', {
+            'class': 'range',
+            html: val.daterange
+            }).appendTo('.monthbar');
+          _newChart.chart.push(
+              '<li class="chart-header">' + val.daterange + '</li>'
+              );
           $.each(val.albums, function (key2, val2) {
             var rdioQuery = val2. artist + ' ' + val2.album + ' ';// + val2.label;
-            var track =  val2.artist + " - " + val2.album;
+            var _displayName = val2.album + " - " + val2.artist;
 
             // Build out the chart html as a string for the push
             _newChart.chart.push(
               '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
-              + '<div class="songname">' + track + '</div>'
+              + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
               + '<img class="albumart" src="img/failicon.png"/>'
               + '<div class="songinfo">This is where artist biography and related artists will go.<p>May remind you of\:  Related Artist, Other Artist, No-name Band</p><p>Similar artists not in your collection\:  Related Artist, Other Artist, No-name Band</p></div>'
               + '<div class="playlistoptions">'
@@ -56,19 +63,17 @@
     },
     //-----
     _attach: function(chartToAttach) {
-      var $chartTitle = $('<div />', {
-        'class': 'chart-header',
-        html: chartToAttach.title
-      }).appendTo('.chartdisplay');
-
       var $ul = $('<ul/>', 
         {'class': 'chart',
           html: chartToAttach.chart.join('')
         }
        ).appendTo('.chartdisplay');
 
-      $('ul.trackchart li:last-child').addClass('last');
-      
+      $('.range').not('.chosen').each(function(i, v) {
+        $(v).bind('click', function() {
+          kexprdio.chooser.toggleChosen(this, this.parentElement);
+        });
+      });
 
       // Call for the artwork now, when it arrives it will find the song it belongs to
       // R.ready(function() {
@@ -109,10 +114,7 @@
     //++++++++++
     loadingtest: function() {
       this._clearcharts();
-      //var _filename = kexprdio.chooser.chartToLoad();
-      $.getJSON('charts/el2012.json', function(data) {
-          console.log(data);
-      });
+      this._loadFromStorage('el2012')
     }
   };
 

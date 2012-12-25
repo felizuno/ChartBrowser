@@ -64,7 +64,7 @@ html {
 	text-align: center;
 }
 
-.chartbutton, .month, .year, .choosertoggle {
+.chartbutton, .range, .year, .choosertoggle {
 	display: inline-block;
 	vertical-align: top;
 	height: 7%;
