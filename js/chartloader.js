@@ -3,8 +3,7 @@
   kexprdio.chartLoader = {
 
     init: function() {
-      // TEMPORARY: loads test JSON immediately.
-      $('.chooserbar').slideDown(); 
+      //nothing anymroe... change that soon to load initial info
     },
 
     // local utility loading behaviors
@@ -103,8 +102,14 @@
     //+++++++++
     replacecharts: function() {
       var chartName = 'streetsounds_092112'; // Temporarily assigned to one of the test charts
-      this._loadFromStorage(chartName);
       this._clearcharts();
+      this._loadFromStorage(chartName);
+    },
+    //++++++++++
+    loadingtest: function() {
+      this._clearcharts();
+      //var _filename = kexprdio.chooser.chartToLoad();
+      this._loadFromStorage('el2012');
     }
   };
 

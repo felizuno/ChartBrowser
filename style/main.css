@@ -53,21 +53,37 @@ html {
 
 .chooserbar {
 	z-index: 1;
-	/*width: 100%;
-	min-width: 384px;*/
-	width: 97%;
 	color: #555;
 	position: fixed;
 	background-image: url('/img/gray_jean.png');
-	padding-top: 65px;
-	margin: 0 10px 20px 10px;
-	background-color: rgba(0, 0, 0, 0.1);
+	padding-top: 58px;
+	margin: ;
+	backgroun0 10px 20px 10pxd-color: rgba(0, 0, 0, 0.1);
 	border-radius: 20px;
-	box-shadow: 5px 5px 10px 0 #666;
+	box-shadow: 0px 0px 5px 0 #666;
 	text-align: center;
 }
+
+.chartbutton, .month, .year, .choosertoggle {
+	display: inline-block;
+	vertical-align: top;
+	height: 7%;
+	padding: 10px;
+	font-size: 12px;
+	/*text-align: center;*/
+	cursor: pointer;
+}
+
+.chartbuttons, .yearbar {
+	border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
+}
+
+.monthbar {
+	margin-bottom: 5px;
+}
+
 .footer {
-	margin-top: 12px;
+	margin-top: 8px;
 	padding: 2px 0 8px 0;
 	height: 14px;
 	box-shadow: 0px 1px 2px 0 #777;
@@ -82,23 +98,11 @@ html {
 	text-shadow: 0px 0px 2px rgba(0, 0, 0, 0.4);
 }
 
-
-.chartbutton, .month, .year, .choosertoggle {
-	display: inline-block;
-	vertical-align: top;
-	height: 7%;
-	padding: 4px 10px;
-	/*text-align: center;*/
-	cursor: pointer;
+.choosertoggle {
+	padding: 0 34px 0 0;
+	width: 100%;
 }
 
-.chartbuttons, .yearbar {
-	border-bottom: 1px dashed rgba(0, 0, 0, 0.3);
-}
-
-.monthbar {
-	margin-bottom: 5px;
-}
 .chartcontainer {
 	background-image: url('/img/gray_jean.png');
 	width:97%;
@@ -169,7 +173,7 @@ html {
 }
 
 .songinfo {
-	padding: 5px 10px;
+	padding: 5px 14px 0 10px;
 	min-width: 300px;
 	height: 80%;
 	min-height: 120px;

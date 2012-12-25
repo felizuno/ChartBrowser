@@ -1,5 +1,9 @@
 (function(){
 	kexprdio.chooser = {
+		init: function() {
+			// Dostuff
+		},
+
 		chartToLoad: function() { //right now nothing calls this, waiting on cleaned jsons
 	        var $chart = $('.chartbuttons').find('.chosen');
 	        var $year = $('.yearbar').find('.chosen');
@@ -17,4 +21,6 @@
 			$(buttonbar.children).not('.chosen').slideToggle('fast');
 		}
 	};
+
+
 })();

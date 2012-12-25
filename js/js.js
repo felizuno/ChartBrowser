@@ -44,8 +44,18 @@
     kexprdio.chartLoader.replacecharts();
   });
 
+  $("#charttest").click(function () {
+    kexprdio.chartLoader.loadingtest();
+  });
+
   $(".choosertoggle").click(function () {
-    $('.chooserbar').children().not(this).slideToggle('fast');
+    if (!($(this).hasClass('shown'))) {
+      $('.chooserbar').children().not(this).slideDown('fast');
+    } else {
+      $('.chooserbar').children().not(this).slideUp('fast');
+    }
+
+    $(this).toggleClass('shown');
   });
     },
 
@@ -55,6 +65,7 @@
   $(document).ready(function() {
     kexprdio.init();
     kexprdio.chartLoader.init();
+    kexprdio.chooser.init();
   });
 
 })();
