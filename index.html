@@ -16,15 +16,19 @@
 
 </head>
 <body>
-	<div class="hiddenauthstuff"></div>
 	<div class="header">
+	<div class="appmenu" style="display:none;">
+		<input type="button" value="Sign Out " class="menuoption" id="signout" />
+		<input type="button" value="Settings" class="menuoption" id="settingsbutton" />
+		<input type="button" value="Change display Style" class="menuoption" id="displaytoggle" />
+	</div>
 		<div class="titlecontainer">
 			<h1>Chart Browser</h1>
 			<h2>Charts provided by KEXP</h2>
 		</div>
 		<div id="authbutton">Powered by<div>Rdio</div></div>
 	</div>
-	<div class="chooserbar">
+	<div class="chooserbar" style="display:none;">
 		<div class="chartbuttons">
 			<div class="chartbutton chosen" id="top">Top 90.3</div>
 			<div class="chartbutton" id="var">Variety</div>
@@ -60,7 +64,7 @@
 			<div class="range chosen" id="all">All Date Ranges</div>
 		</div>
 		<div class="footer">
-			<input type="button" value="Append " id="addbutton" />
+			<input type="button" value="Compare " id="addbutton" />
 			<input type="button" value="Replace" id="replacebutton" />
 			<input type="button" value="Real Chart" id="charttest" />
 		</div>

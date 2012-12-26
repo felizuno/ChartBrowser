@@ -30,33 +30,23 @@
       //   }
       // });
 
-  $('.chartbutton').add('.range').add('.year').each(function(i, v){
-    $(v).bind('click', function() {
-      kexprdio.chooser.toggleChosen(this, this.parentElement);
-    });
-  });
+      $('.chartbutton').add('.range').add('.year').each(function(i, v){
+        $(v).bind('click', function() {
+          kexprdio.chooser.toggleChosen(this, this.parentElement);
+        });
+      });
 
-  $("#addbutton").click(function () {
-    kexprdio.chartLoader.appendTocharts();
-  });
+      $("#charttest").click(function () {
+        kexprdio.chartLoader.loadingtest();
+      });
 
-  $("#replacebutton").click(function () {
-    kexprdio.chartLoader.replacecharts();
-  });
+      $(".choosertoggle").click(function () {
+        kexprdio.chooser.showHide();
+      });
 
-  $("#charttest").click(function () {
-    kexprdio.chartLoader.loadingtest();
-  });
-
-  $(".choosertoggle").click(function () {
-    if (!($(this).hasClass('shown'))) {
-      $('.chooserbar').children().not(this).slideDown('fast');
-    } else {
-      $('.chooserbar').children().not(this).slideUp('fast');
-    }
-
-    $(this).toggleClass('shown');
-  });
+      $("#authbutton").click(function () {
+        $('.appmenu').toggle();
+      });      
     },
 
   };
@@ -64,7 +54,6 @@
   // +++++++++++++++++++
   $(document).ready(function() {
     kexprdio.init();
-    kexprdio.chartLoader.init();
     kexprdio.chooser.init();
     kexprdio.playlister.init();
   });

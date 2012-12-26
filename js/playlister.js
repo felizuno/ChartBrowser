@@ -4,6 +4,16 @@
 
 		init: function () {
 			//get the users playlists so they are ready by the time we load a list
+			// R.request({
+			// 	method:"getPlaylists",
+			// 	content:{
+			// 		user: R.currentUser.get("key")
+			// 	}
+			// 	success: function() {
+			// 		var something = result.owned;
+			// 		// this is an array of your owned playlists
+			// 	}
+			// });
 		},
 
 		addPlaylistOptions: function() {
@@ -23,24 +33,15 @@
 			
 			$('.playlistoption').each(function(i, v) {
 				$(v).bind('click', function() {
-					$('.albumoption', v).slideDown();
+					kexprdio.playlister.showPlaylistOptions(this);
 				});
 			});
 		},
 
-		showPlaylistOptions: function() {
+		showPlaylistOptions: function(button) {
+			$(button).children().toggle();
 		}
 
-		// R.request({
-		// 	method:"getPlaylists",
-		// 	content:{
-		// 		user: R.currentUser.get("key")
-		// 	}
-		// 	success: function() {
-		// 		var something = result.owned;
-		// 		// this is an array of your owned playlists
-		// 	}
-		// });
 	};
 
 })();

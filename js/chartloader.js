@@ -1,11 +1,6 @@
 (function() {
   
   kexprdio.chartLoader = {
-
-    init: function() {
-      //nothing anymroe... change that soon to load initial info
-    },
-
     // local utility loading behaviors
     //
     //-----
@@ -13,13 +8,10 @@
       var self = this;
       // The function below determines the filename to ask for based on the chosen buttons
       //var _chartToLoad = kexprdio.chooser.chartToLoad();
-      //  console.log('Current Choice: ' + _chartToLoad + '.json');
       var _newChart = {
         title: '',
         chart: []
       };
-      
-      // Don't forget to remove this
 
       $.getJSON('charts/' + chartToLoad + '.json', function(data) {
         $('.range').not('#all').remove();
@@ -45,21 +37,13 @@
               + '<div class="playlistoptions">'
                 + '<div class="playlistoption">Queue Album</div>'
                 + '<div class="playlistoption">Your Playlists</div>'
-                + '<div class="playlistoption">Share Song</div>'
+                + '<div class="playlistoption">Show Tracklist</div>'
                 + '<div class="playlistoption">Show Stats</div>'
-                //+ '<div class="playlistsview" style="visibility: hidden"><div class="userplaylist">Playlist</div><div class="userplaylist">Playlist</div><div class="userplaylist">Playlist</div></div>'
-              + '</div>'
               + '</li>'
             );
           });
         });
-
-        $('.range').not('#all').each(function(i, v) {
-          $(v).bind('click', function() {
-            kexprdio.chooser.toggleChosen(this, this.parentElement);
-          });
-        });
-
+        kexprdio.chooser.activateRangeOptions();
         self._attach(_newChart);
       });
     },
@@ -75,31 +59,36 @@
           html: chartToAttach.chart.join('')
         }
        ).appendTo('.chartdisplay');
-      
+
+      kexprdio.chooser.showHide();
       kexprdio.playlister.addPlaylistOptions();
+      // Reconsidering how to do the playlistoptions
+      // kexprdio.playlister.addPlaylistOptions();
+      // this._getAlbumArt();
 
+    },
 
-
+    _getAlbumArt: function() {
       // Call for the artwork now, when it arrives it will find the song it belongs to
-      // R.ready(function() {
-      //   $ul.find('li').each(function(i, v) {
-      //     var $li = $(v);
-      //     var rdioQuery = $li.data('rdioquery');
-      //     R.request({
-      //       method: 'search',
-      //       content: {query: rdioQuery, types: 'Track'},
-      //       success: function(response) {
-      //         var trackImageUrl = response.result.results[0].icon;
-      //         $li.find('img').attr('src', trackImageUrl);
-      //       },
-      //       error: function() {
-      //         // Needs to load placeholder album art for "Track not available on Rdio"
-      //         $li.find('img').attr('src', 'img/failicon.png');
-      //         console.log('R.request failed for search term:' + rdioQuery);
-      //       }
-      //     });
-      //   });
-      // });
+      R.ready(function() {
+        $ul.find('li').not('.chart-header').each(function(i, v) {
+          var $li = $(v);
+          var rdioQuery = $li.data('rdioquery');
+          R.request({
+            method: 'search',
+            content: {query: rdioQuery, types: 'Track'},
+            success: function(response) {
+              var trackImageUrl = response.result.results[0].icon;
+              $li.find('img').attr('src', trackImageUrl);
+            },
+            error: function() {
+              // Needs to load placeholder album art for "Track not available on Rdio"
+              $li.find('img').attr('src', 'img/failicon.png');
+              console.log('R.request failed for search term:' + rdioQuery);
+            }
+          });
+        });
+      });
     },
     
     // available commands

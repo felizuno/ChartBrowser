@@ -3,8 +3,11 @@
 * live update a queue
 * shuffle past charts
 * Discovery mode: uses your collection to remove artists you already know
+* Use history for url modification/loading
 
 ##TODO
 * narrow selection to range (requires range to contain li's)
-* menus for playlistoptions
+* Don't add albumoptions until the playlist option is clicked?
+* Ability to collapse menus for playlistoptions
+* Minimized view for chart items
 * Less jangly chooser
