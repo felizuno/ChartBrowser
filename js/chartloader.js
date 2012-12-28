@@ -32,7 +32,7 @@
             _newChart.chart.push(
               '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
               + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
-              + '<img class="albumart" src="img/failicon.png"/>'
+              + '<img class="albumart" src=""/>'
               + '<div class="songinfo">This is where artist biography and related artists will go.<p>May remind you of\:  Related Artist, Other Artist, No-name Band</p><p>Similar artists not in your collection\:  Related Artist, Other Artist, No-name Band</p></div>'
               + '<div class="playlistoptions">'
                 + '<div class="playlistoption">Queue Album</div>'
@@ -64,12 +64,6 @@
       kexprdio.playlister.addPlaylistOptions();
       // Reconsidering how to do the playlistoptions
       // kexprdio.playlister.addPlaylistOptions();
-      // this._getAlbumArt();
-
-    },
-
-    _getAlbumArt: function() {
-      // Call for the artwork now, when it arrives it will find the song it belongs to
       R.ready(function() {
         $ul.find('li').not('.chart-header').each(function(i, v) {
           var $li = $(v);
@@ -89,6 +83,12 @@
           });
         });
       });
+       //this._getAlbumArt();
+
+    },
+
+    _getAlbumArt: function() {
+      // Call for the artwork now, when it arrives it will find the song it belongs to
     },
     
     // available commands
