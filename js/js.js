@@ -36,6 +36,22 @@
         });
       });
 
+      $("#testbutton").click(function () {
+        //remove
+        R.ready(function() {
+          R.request({
+            method: 'search',
+            content: {query: 'Flying Lotus', types: 'Artist'},
+            success: function(response) {
+              console.log(response);
+            },
+            error: function() {
+              console.log('You Fail. Try Again.')
+            }
+          });
+        });
+      });
+
       $("#charttest").click(function () {
         kexprdio.chartLoader.loadingtest();
       });

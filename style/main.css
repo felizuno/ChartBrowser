@@ -101,7 +101,7 @@ html {
 	box-shadow: 0px 1px 2px 0 #777;
 }
 
-.footer input {
+.footer input, .header input {
 	border: none;
 	display: inline-block;
 	width: 29%;

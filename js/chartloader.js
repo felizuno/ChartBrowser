@@ -15,7 +15,8 @@
 
       $.getJSON('charts/' + chartToLoad + '.json', function(data) {
         $('.range').not('#all').remove();
-        $.each(data.chart, function(key, val) {
+        var val = data.chart[0];
+        //$.each(data.chart, function(key, val) {
           var $dr = $('<div />', {
             'class': 'range',
             'style':'display:none;',
@@ -42,7 +43,7 @@
               + '</li>'
             );
           });
-        });
+        //});
         kexprdio.chooser.activateRangeOptions();
         self._attach(_newChart);
       });
