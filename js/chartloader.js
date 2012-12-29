@@ -9,10 +9,8 @@
     },
 
     //-----
-    _loadFromStorage: function(chartToLoad) { // Ready to remove argument
+    _loadFromStorage: function(chartToLoad) {
       var self = this;
-      // The function below determines the filename to ask for based on the chosen buttons
-      //var _chartToLoad = kexprdio.chooser.chartToLoad();
       var _newChart = chartToLoad;
 
       $.getJSON('charts/' + _newChart.fileId + '.json', function(data) {
@@ -39,7 +37,6 @@
           $.each(val.albums, function (key2, val2) {
             var rdioQuery = val2. artist + ' ' + val2.album + ' ';// + val2.label;
             var _displayName = val2.album + " - " + val2.artist;
-            // Build out the chart html as a string for the push
             _newChart.charts[index].chart.push(
               '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
               + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
@@ -77,13 +74,13 @@
         console.log(this.fullCurrentChart);
         $.each(this.fullCurrentChart.charts, function(k, v) {
             if (v.header.title == index) {
-                chartToAttach.chart = v.chart.join();
+                chartToAttach.chart = v.chart.join('');
                 chartToAttach.header = v.header.html;
                 return;
             }
         });
       } else {
-        chartToAttach.chart = this.fullCurrentChart.charts[index].chart.join();
+        chartToAttach.chart = this.fullCurrentChart.charts[index].chart.join('');
       }
 
       var $ul = $('<ul/>', 
