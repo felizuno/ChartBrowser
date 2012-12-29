@@ -13,14 +13,12 @@
       var self = this;
       // The function below determines the filename to ask for based on the chosen buttons
       //var _chartToLoad = kexprdio.chooser.chartToLoad();
-      var _newChart = {
-        title: '',
-        charts: []
-      };
+      var _newChart = chartToLoad;
 
-      $.getJSON('charts/' + chartToLoad + '.json', function(data) {
+      $.getJSON('charts/' + _newChart.fileId + '.json', function(data) {
         $('.range').remove();
-        //var val = data.chart[0];
+        kexprdio.chartLoader.fullCurrentChart.title = _newChart.displayName;
+
         $.each(data.chart, function(key, val) {
           var index = key;
           
@@ -33,7 +31,7 @@
           _newChart.charts.push({
               header: {
                 title: val.daterange,
-                html: '<li class="chart-header">' + val.daterange + '</li>',
+                html: '<li class="chart-header">' + val.daterange + '</li>'
               },
               chart: []
           });
@@ -71,8 +69,23 @@
     //-----
     _attach: function(index) {
       var chartToAttach = {
-        chart: [this.fullCurrentChart.charts[index].chart.join()]
+        header: '',
+        chart: ''
       };
+
+      if ($.type(index) == 'string') {
+        console.log(this.fullCurrentChart);
+        $.each(this.fullCurrentChart.charts, function(k, v) {
+            if (v.header.title == index) {
+                chartToAttach.chart = v.chart.join();
+                chartToAttach.header = v.header.html;
+                return;
+            }
+        });
+      } else {
+        chartToAttach.chart = this.fullCurrentChart.charts[index].chart.join();
+      }
+
       var $ul = $('<ul/>', 
         {'class': 'chart',
           html: chartToAttach.chart
@@ -112,7 +125,6 @@
     
     // available commands
     //
-    //+++++++++
     //+++++++++    
     appendTocharts: function() {
       var chartName = 'top100rap'; // Temporarily assigned to one of the test charts
@@ -120,14 +132,14 @@
     },
     //+++++++++
     replacecharts: function() {
-      var chartName = 'streetsounds_092112'; // Temporarily assigned to one of the test charts
       this._clearcharts();
-      this._loadFromStorage(chartName);
+      var $_newChart = $('.monthbar .chosen').text();
+      this._attach($_newChart);
     },
     //++++++++++
     loadingtest: function() {
       this._clearcharts();
-      this._loadFromStorage('el2012')
+      this._loadFromStorage(kexprdio.chooser.chartToLoad())
     }
   };
 

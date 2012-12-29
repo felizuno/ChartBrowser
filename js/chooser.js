@@ -11,8 +11,13 @@
 		chartToLoad: function() { //right now nothing calls this, waiting on cleaned jsons
 	        var $chart = $('.chartbuttons').find('.chosen');
 	        var $year = $('.yearbar').find('.chosen');
-	        var filename = ($chart.attr('id') + $year.attr('id'));
-	        return filename;
+	        var fileName = ($chart.attr('id') + $year.attr('id'));
+	        var displayName = ($chart.text() + '  - ' + $year.text());
+	        return {
+		        displayName: displayName,
+		        fileId: 'el2012', //fileName,
+		        charts: []
+		    };
       	},
 
 		showHide: function() {

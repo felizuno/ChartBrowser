@@ -36,6 +36,10 @@
         });
       });
 
+      $("#replacebutton").click(function () {
+          kexprdio.chartLoader.replacecharts();
+      });
+
       $("#testbutton").click(function () {
         //remove
         R.ready(function() {
