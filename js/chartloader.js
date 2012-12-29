@@ -3,6 +3,11 @@
   kexprdio.chartLoader = {
     // local utility loading behaviors
     //
+    fullCurrentChart: {
+      title: '',
+      charts: []
+    },
+
     //-----
     _loadFromStorage: function(chartToLoad) { // Ready to remove argument
       var self = this;
@@ -10,27 +15,34 @@
       //var _chartToLoad = kexprdio.chooser.chartToLoad();
       var _newChart = {
         title: '',
-        chart: []
+        charts: []
       };
 
       $.getJSON('charts/' + chartToLoad + '.json', function(data) {
-        $('.range').not('#all').remove();
-        var val = data.chart[0];
-        //$.each(data.chart, function(key, val) {
+        $('.range').remove();
+        //var val = data.chart[0];
+        $.each(data.chart, function(key, val) {
+          var index = key;
+          
           var $dr = $('<div />', {
             'class': 'range',
             'style':'display:none;',
             html: val.daterange
             }).appendTo('.monthbar');
-          _newChart.chart.push(
-              '<li class="chart-header">' + val.daterange + '</li>'
-              );
+          
+          _newChart.charts.push({
+              header: {
+                title: val.daterange,
+                html: '<li class="chart-header">' + val.daterange + '</li>',
+              },
+              chart: []
+          });
+
           $.each(val.albums, function (key2, val2) {
             var rdioQuery = val2. artist + ' ' + val2.album + ' ';// + val2.label;
             var _displayName = val2.album + " - " + val2.artist;
-
             // Build out the chart html as a string for the push
-            _newChart.chart.push(
+            _newChart.charts[index].chart.push(
               '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
               + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
               + '<img class="albumart" src=""/>'
@@ -43,9 +55,12 @@
               + '</li>'
             );
           });
-        //});
+        });
+        kexprdio.chartLoader.fullCurrentChart = _newChart;
+        self._attach(0);
+        
         kexprdio.chooser.activateRangeOptions();
-        self._attach(_newChart);
+        $('.monthbar').children(':eq(0)').addClass('chosen').show();
       });
     },
     //-----
@@ -54,17 +69,20 @@
       $('.chart-header').remove();
     },
     //-----
-    _attach: function(chartToAttach) {
+    _attach: function(index) {
+      var chartToAttach = {
+        chart: [this.fullCurrentChart.charts[index].chart.join()]
+      };
       var $ul = $('<ul/>', 
         {'class': 'chart',
-          html: chartToAttach.chart.join('')
-        }
-       ).appendTo('.chartdisplay');
+          html: chartToAttach.chart
+        })
+      .appendTo('.chartdisplay');
 
       kexprdio.chooser.showHide();
-      kexprdio.playlister.addPlaylistOptions();
       // Reconsidering how to do the playlistoptions
-      // kexprdio.playlister.addPlaylistOptions();
+      //kexprdio.playlister.addPlaylistOptions();
+
       R.ready(function() {
         $ul.find('li').not('.chart-header').each(function(i, v) {
           var $li = $(v);

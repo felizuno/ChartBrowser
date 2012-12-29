@@ -32,11 +32,7 @@
 		},
 
 		activateRangeOptions: function() {
-			if (!$('#all').hasClass('chosen')) {
-				$('#all').addClass('chosen').show();
-			}
-
-	        $('.range').not('#all').each(function(i, v) {
+	        $('.range').each(function(i, v) {
 	          $(v).bind('click', function() {
 	            kexprdio.chooser.toggleChosen(this, this.parentElement);
 	          });
