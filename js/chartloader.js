@@ -1,13 +1,15 @@
 (function() {
   
   kexprdio.chartLoader = {
-    // local utility loading behaviors
-    //
     fullCurrentChart: {
       title: '',
       charts: []
     },
 
+    //-----
+    //
+    // local utility loading behaviors
+    //
     //-----
     _loadFromStorage: function(chartToLoad) {
       var self = this;
@@ -15,11 +17,10 @@
 
       $.getJSON('charts/' + _newChart.fileId + '.json', function(data) {
         $('.range').remove();
-        kexprdio.chartLoader.fullCurrentChart.title = _newChart.displayName;
+        self.fullCurrentChart.title = _newChart.displayName;
 
         $.each(data.chart, function(key, val) {
-          var index = key;
-          
+          var index = key; 
           var $dr = $('<div />', {
             'class': 'range',
             'style':'display:none;',
@@ -36,12 +37,13 @@
 
           $.each(val.albums, function (key2, val2) {
             var rdioQuery = val2. artist + ' ' + val2.album + ' ';// + val2.label;
+            var lfmArtist = val2.artist;
             var _displayName = val2.album + " - " + val2.artist;
             _newChart.charts[index].chart.push(
-              '<li class="chartitem" data-rdioquery="' + rdioQuery + '">'
+              '<li class="chartitem" data-rdioquery="' + rdioQuery + '" data-artist="' + lfmArtist + '">'
               + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
               + '<img class="albumart" src=""/>'
-              + '<div class="songinfo">This is where artist biography and related artists will go.<p>May remind you of\:  Related Artist, Other Artist, No-name Band</p><p>Similar artists not in your collection\:  Related Artist, Other Artist, No-name Band</p></div>'
+              + '<div class="albuminfo"><div class="bioshort"></div><div class="biolong" style="display: none;"></div></div>'
               + '<div class="playlistoptions">'
                 + '<div class="playlistoption">Queue Album</div>'
                 + '<div class="playlistoption">Your Playlists</div>'
@@ -51,18 +53,14 @@
             );
           });
         });
-        kexprdio.chartLoader.fullCurrentChart = _newChart;
+
+        self.fullCurrentChart = _newChart;
         self._attach(0);
-        
         kexprdio.chooser.activateRangeOptions();
         $('.monthbar').children(':eq(0)').addClass('chosen').show();
       });
     },
-    //-----
-    _clearcharts: function() {
-      $('.chart').remove();
-      $('.chart-header').remove();
-    },
+
     //-----
     _attach: function(index) {
       var chartToAttach = {
@@ -80,63 +78,95 @@
             }
         });
       } else {
-        chartToAttach.chart = this.fullCurrentChart.charts[index].chart.join('');
+        var _masterChart = this.fullCurrentChart.charts[index];
+        chartToAttach.chart = _masterChart.chart.join('');
+        chartToAttach.header = _masterChart.header.html;
       }
 
       var $ul = $('<ul/>', 
         {'class': 'chart',
-          html: chartToAttach.chart
+          html: (chartToAttach.header += chartToAttach.chart)
         })
       .appendTo('.chartdisplay');
 
-      kexprdio.chooser.showHide();
       // Reconsidering how to do the playlistoptions
       //kexprdio.playlister.addPlaylistOptions();
 
+      kexprdio.chooser.showHide();
       R.ready(function() {
-        $ul.find('li').not('.chart-header').each(function(i, v) {
-          var $li = $(v);
-          var rdioQuery = $li.data('rdioquery');
-          R.request({
-            method: 'search',
-            content: {query: rdioQuery, types: 'Track'},
-            success: function(response) {
-              var trackImageUrl = response.result.results[0].icon;
-              $li.find('img').attr('src', trackImageUrl);
-            },
-            error: function() {
-              // Needs to load placeholder album art for "Track not available on Rdio"
-              $li.find('img').attr('src', 'img/failicon.png');
-              console.log('R.request failed for search term:' + rdioQuery);
-            }
+       kexprdio.chartLoader._getAlbumInfo($ul);
+      });
+    },
+
+    //-----
+    _clearcharts: function() {
+      $('.chart').remove();
+      $('.chart-header').remove();
+    },
+
+    //-----
+    _getAlbumInfo: function($ul) {
+      //Find each of the chart items
+      $ul.find('li').not('.chart-header').each(function(i, v) {
+        var $li = $(v);
+        //Rdio for album art
+        var rdioQuery = $li.data('rdioquery');
+        R.request({
+          method: 'search',
+          content: {query: rdioQuery, types: 'Album'},
+          success: function(response) {
+            // Album art
+            var trackImageUrl = response.result.results[0].icon;
+            $li.find('img').attr('src', trackImageUrl);
+          },
+          error: function() {
+            // Needs to load placeholder album art for "Track not available on Rdio"
+            $li.find('img').attr('src', 'img/failicon.png');
+            console.log('R.request failed for search term:' + rdioQuery);
+          }
+        });
+
+        var lfmArtist = $li.data('artist');
+        var url = 'http://ws.audioscrobbler.com/2.0/?method=artist.getinfo&artist='
+          + lfmArtist
+          + '&api_key=d43e672a5af20763d43866fcbbf2d201&format=json&callback=?';
+        
+        $.getJSON(url, function(data) {
+          self.loading = false;
+          console.log(data);
+          $li.find('.bioshort').html(data.artist.bio.summary).bind('click', function() {
+           kexprdio.chartLoader._infoToggle(this);
+          });
+          $li.find('.biolong').html(data.artist.bio.content).bind('click', function() {
+           kexprdio.chartLoader._infoToggle(this);
           });
         });
       });
-       //this._getAlbumArt();
-
     },
 
-    _getAlbumArt: function() {
-      // Call for the artwork now, when it arrives it will find the song it belongs to
+    _infoToggle: function(caller) {
+      $(caller).toggle().siblings().toggle();
     },
-    
+    //+++++++++
+    //
     // available commands
     //
-    //+++++++++    
+    //+++++++++
     appendTocharts: function() {
-      var chartName = 'top100rap'; // Temporarily assigned to one of the test charts
-      this._loadFromStorage(chartName);
+      this._loadFromStorage(kexprdio.chooser.chartToLoad());
     },
+
     //+++++++++
     replacecharts: function() {
       this._clearcharts();
       var $_newChart = $('.monthbar .chosen').text();
       this._attach($_newChart);
     },
+
     //++++++++++
     loadingtest: function() {
       this._clearcharts();
-      this._loadFromStorage(kexprdio.chooser.chartToLoad())
+      this._loadFromStorage(kexprdio.chooser.chartToLoad());
     }
   };
 

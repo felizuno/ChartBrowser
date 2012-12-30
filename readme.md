@@ -6,9 +6,7 @@
 * Use history for url modification/loading
 
 ##TODO
-* Load artist info with album art
-* narrow selection to range (requires range to contain li's)
+* Use the name and artist properties of the request response to choose album (not just [0])
 * Don't add albumoptions until the playlist option is clicked?
-* Ability to collapse menus for playlistoptions
 * Minimized view for chart items
-* Less jangly chooser
+* Less jangly chooser - month groups for ranges

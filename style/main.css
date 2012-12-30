@@ -185,8 +185,8 @@ html {
 	text-transform: uppercase;
 }
 
-.songinfo {
-	padding: 5px 14px 0 10px;
+.albuminfo {
+	padding: 5px 14px 10px 10px;
 	min-width: 300px;
 	height: 80%;
 	min-height: 120px;
