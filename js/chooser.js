@@ -1,7 +1,7 @@
 (function(){
 	kexprdio.chooser = {
 		init: function() {
-			$('.chooserbar').fadeIn('slow');
+			$('.chooserbar').slideDown('slow');
 		},
 
 		_toggleVisibility: function(buttonbar) {

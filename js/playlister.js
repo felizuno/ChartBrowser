@@ -21,6 +21,7 @@
 				});
 
 				kexprdio.playlister.unpackPlaylists();
+			    kexprdio.chooser.init();
 			});
 		},
 

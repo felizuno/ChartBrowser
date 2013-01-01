@@ -73,7 +73,6 @@
   // +++++++++++++++++++
   $(document).ready(function() {
     kexprdio.init();
-    kexprdio.chooser.init();
     kexprdio.playlister.init();
   });
 

@@ -140,10 +140,10 @@
           self.loading = false;
           console.log(data);
           $li.find('.bioshort').html('Last.FM Bio:  ' + data.artist.bio.summary + '... CLICK TO READ MORE.').bind('click', function() {
-           kexprdio.chartLoader._infoToggle(this);
+           kexprdio.chartLoader._bioToggle(this);
           });
           $li.find('.biolong').html('Last.FM Bio:  ' + data.artist.bio.content + ' ( Click to return to summary. )').bind('click', function() {
-           kexprdio.chartLoader._infoToggle(this);
+           kexprdio.chartLoader._bioToggle(this);
           });
         });
 
@@ -152,8 +152,8 @@
       kexprdio.playlister.addPlaylistViews($li);
     },
 
-    _infoToggle: function(caller) {
-      $(caller).toggle().siblings().toggle();
+    _bioToggle: function(caller) {
+      $(caller).toggle().siblings().not('.playlistview').toggle();
     },
     //+++++++++
     //
