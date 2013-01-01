@@ -151,7 +151,7 @@ html {
 	padding-right: 20px;
 }
 
-.playlistoptions {
+.chartitemoptions {
 	text-transform: uppercase;
 	padding: 0 30px;
 	border: 1px solid black;
@@ -160,20 +160,20 @@ html {
 	box-shadow: -4px 3px 18px 0 rgba(0, 0, 0, 0.6);
 }
 
-.playlistoption, .songname {
+.chartoption, .songname {
 	padding: 5px 10px;
 	vertical-align: top;
 	text-align: center;
 }
 
-.playlistoption {
+.chartoption {
 	display: inline-block;
 	font-size: 8px;
 	width: 15%;
 	min-width: 100px;
 	color: #fff;
 }
-.playlistoption:active {
+.chartoption:active {
 	background-color: #000; 
 }
 
@@ -191,7 +191,11 @@ html {
 	height: 80%;
 	min-height: 120px;
 	border: 1px solid black;
-	background-color: rgba(0, 0, 0, 0.1)
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.playlistview {
+	background-color: rgba(0, 0, 0, 0.6);	
 }
 
 .albumart {
@@ -199,7 +203,7 @@ html {
 	height: 200px;
 	width: 200px;
 	background-color: lightblue;
-	margin: -15px -10px 0 0;
+	margin: -15px -10px 0 5px;
 	border: 1px solid rgba(0, 0, 0, 0.5);
 	box-shadow: 0 0 5px black;
 }

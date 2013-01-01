@@ -43,12 +43,16 @@
               '<li class="chartitem" data-rdioquery="' + rdioQuery + '" data-artist="' + lfmArtist + '">'
               + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
               + '<img class="albumart" src=""/>'
-              + '<div class="albuminfo"><div class="bioshort"></div><div class="biolong" style="display: none;"></div></div>'
-              + '<div class="playlistoptions">'
-                + '<div class="playlistoption">Queue Album</div>'
-                + '<div class="playlistoption">Your Playlists</div>'
-                + '<div class="playlistoption">Show Tracklist</div>'
-                + '<div class="playlistoption">Show Stats</div>'
+              + '<div class="albuminfo">'
+                + '<div class="bioshort"></div>'
+                + '<div class="biolong" style="display: none;"></div>'
+                + '<div class="playlistview"  style="display: none;"></div>'
+              + '</div>'
+              + '<div class="chartitemoptions">'
+                + '<div class="chartoption bio">Artist Bio</div>'
+                + '<div class="chartoption playlists">Your Playlists</div>'
+                + '<div class="chartoption tracklist">Show Tracklist</div>'
+                + '<div class="chartoption stats">Show Stats</div>'
               + '</li>'
             );
           });
@@ -90,7 +94,8 @@
       .appendTo('.chartdisplay');
 
       // Reconsidering how to do the playlistoptions
-      //kexprdio.playlister.addPlaylistOptions();
+      kexprdio.playlister.addPlaylistViews();      
+      kexprdio.playlister.addPlaylistOptions();
 
       kexprdio.chooser.showHide();
       R.ready(function() {
@@ -134,14 +139,17 @@
         $.getJSON(url, function(data) {
           self.loading = false;
           console.log(data);
-          $li.find('.bioshort').html(data.artist.bio.summary).bind('click', function() {
+          $li.find('.bioshort').html('Last.FM Bio:  ' + data.artist.bio.summary + '... CLICK TO READ MORE.').bind('click', function() {
            kexprdio.chartLoader._infoToggle(this);
           });
-          $li.find('.biolong').html(data.artist.bio.content).bind('click', function() {
+          $li.find('.biolong').html('Last.FM Bio:  ' + data.artist.bio.content + ' ( Click to return to summary. )').bind('click', function() {
            kexprdio.chartLoader._infoToggle(this);
           });
         });
+
       });
+
+      kexprdio.playlister.addPlaylistViews($li);
     },
 
     _infoToggle: function(caller) {

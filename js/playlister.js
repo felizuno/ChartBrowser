@@ -1,45 +1,85 @@
 (function() {
 
 	kexprdio.playlister ={
+		userPlaylists: [],
+		playlistButtons: '',
 
 		init: function () {
 			//get the users playlists so they are ready by the time we load a list
-			// R.request({
-			// 	method:"getPlaylists",
-			// 	content:{
-			// 		user: R.currentUser.get("key")
-			// 	}
-			// 	success: function() {
-			// 		var something = result.owned;
-			// 		// this is an array of your owned playlists
-			// 	}
-			// });
+			R.ready(function() {
+				R.request({
+					method:"getUserPlaylists",
+					content:{
+						user: R.currentUser.get("key")
+					},
+					success: function(data) {
+						$(data.result).each(function(i, v) {
+							// this is an array of your owned playlists
+							kexprdio.playlister.userPlaylists.push(v);
+						});
+					}
+				});
+
+				kexprdio.playlister.unpackPlaylists();
+			});
+		},
+
+		unpackPlaylists: function() {
+			var self = this;
+
+			$.each(self.userPlaylists, function(v, i) {
+				var string = 
+					'<div class="playlistbutton">'
+					+ v.name
+					+ '</div>';
+				self.playlistButtons += string;
+			});
 		},
 
 		addPlaylistOptions: function() {
-		    $('.playlistoption').each(function(i, v) {
+		    $('.chartitemoptions').each(function(i, v) {
 		        var $albumAction = $('<div />', {
-		          'class': 'albumoption',
+		          'class': 'chartoption',
 		          'style':'display:none;',
 		          html: 'User Action'
 		        }).appendTo(v);
 
 		        var $albumAction2 = $('<div />', {
-		          'class': 'albumoption',
+		          'class': 'chartoption',
 		          'style':'display:none;',
 		          html: 'User Action 2'
 		        }).appendTo(v);
-		    });			
-			
-			$('.playlistoption').each(function(i, v) {
-				$(v).bind('click', function() {
-					kexprdio.playlister.showPlaylistOptions(this);
-				});
+
+		    });
+
+			$('.playlists').bind('click', function() {
+				kexprdio.playlister.showPlaylistOptions(this);
 			});
 		},
 
+		addPlaylistViews: function(chartItem) {
+			var _chartItem = $(chartItem);
+
+		    $('.albuminfo').each(function(i, v) {
+		    	var self = this;
+		    	var _chartItem = $(_chartItem);
+		    	$.each(kexprdio.playlister.userPlaylists, function(i2, v2) {
+		    		//console.log()
+			        var $userPlaylists = $('<div />', {
+			          'class': 'userplaylist chartoption',
+			          html: v2.name
+			        }).appendTo($(self).find('.playlistview'));
+			    });
+		    });
+
+			$('.userplaylist').bind('click', function() {
+				//multiselect
+			});
+		},		
+
 		showPlaylistOptions: function(button) {
-			$(button).children().toggle();
+			$(button).siblings().toggle();
+			$(button).parent().parent().find('.playlistview').toggle();
 		}
 
 	};
