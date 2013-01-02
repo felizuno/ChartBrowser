@@ -12,19 +12,21 @@
       var _stripAuth = function() {
         self.userName = R.currentUser.attributes.vanityName;
         
-        //$(authbutton).attr('value', 'Logged in as: <div>' + self.userName + '</div>');
-        // $(authbutton).bind('click', function() {
-        //   window.open("http://www.rdio.com/people/"+ self.userName);
-        // });        
+        $('#signout')
+          .attr('value', self.userName)
+          .bind('click', function() {
+            window.open("http://www.rdio.com/people/"+ self.userName);
+        });        
       };
 
       R.on('change:ready', function(){
         if (R.authenticated()) {
           _stripAuth();
         } else {
-          $(authbutton).attr('value', 'Click to authenticate');
-          $(authbutton).bind('click', function() {
-            R.authenticate(_stripAuth);
+          $('#signout')
+            .attr('value', 'Click to authenticate')
+            .bind('click', function() {
+              R.authenticate(_stripAuth);
           });          
         }
       });
@@ -49,7 +51,7 @@
               console.log(response);
             },
             error: function() {
-              console.log('You Fail. Try Again.')
+              console.log('You Fail. Try Again.');
             }
           });
         });

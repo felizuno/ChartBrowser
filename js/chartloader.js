@@ -49,9 +49,9 @@
                 + '<div class="playlistview"  style="display: none;"></div>'
               + '</div>'
               + '<div class="chartitemoptions">'
-                + '<div class="chartoption playlists">Your Playlists</div>'
+                + '<div class="chartoption playlists">Playlist Options</div>'
                 + '<div class="chartoption tracklist">Show Tracklist</div>'
-                + '<div class="chartoption stats">Show Stats</div>'
+                + '<div class="chartoption stats"><div class="statsicon"></div>Show Stats</div>'
               + '</li>'
             );
           });

@@ -1,6 +1,6 @@
 (function() {
 
-	kexprdio.playlister ={
+	kexprdio.playlister = {
 		userPlaylists: [],
 		playlistButtons: '',
 
@@ -42,13 +42,13 @@
 		        var $albumAction = $('<div />', {
 		          'class': 'chartoption',
 		          'style':'display:none;',
-		          html: 'User Action'
+		          html: 'Add to selected playlist(s)'
 		        }).appendTo(v);
 
 		        var $albumAction2 = $('<div />', {
 		          'class': 'chartoption',
 		          'style':'display:none;',
-		          html: 'User Action 2'
+		          html: 'Use album to start new playlist'
 		        }).appendTo(v);
 
 		    });
@@ -80,7 +80,23 @@
 
 		showPlaylistOptions: function(button) {
 			$(button).siblings().toggle();
-			$(button).parent().parent().find('.playlistview').toggle();
+			$(button).parent().parent().find('.playlistview').slideToggle();
+		},
+
+		addSelectionToPlaylist: function(choices) {
+			R.request({
+			    method: "addToPlaylist",
+			    content: {
+			      playlist: 'playlistKey', 
+			      tracks: 'Keys, separated by commas', 
+			    },
+			    success: function(response) {
+
+			    },
+			    error: function(response) {
+			      console.log("error");
+			    }
+			});
 		}
 
 	};
