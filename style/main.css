@@ -146,7 +146,7 @@ html {
 
 .chartitem {
  	overflow: hidden;
-	padding-bottom: 10px;
+	padding-bottom: 20px;
 	font-size: 12px;
 	padding-right: 20px;
 }
@@ -194,9 +194,9 @@ html {
 }
 
 .playlistview {
-	margin: 10px 0 -10px 0;
+	margin: 52px 0 -10px 0;
 	padding: 10px;
-	background-color: rgba(0, 0, 0, 0.6);	
+	background-color: rgba(0, 0, 0, 0.2);	
 }
 
 .albumart {

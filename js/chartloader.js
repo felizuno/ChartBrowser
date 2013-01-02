@@ -49,7 +49,6 @@
                 + '<div class="playlistview"  style="display: none;"></div>'
               + '</div>'
               + '<div class="chartitemoptions">'
-                + '<div class="chartoption bio">Artist Bio</div>'
                 + '<div class="chartoption playlists">Your Playlists</div>'
                 + '<div class="chartoption tracklist">Show Tracklist</div>'
                 + '<div class="chartoption stats">Show Stats</div>'
@@ -148,8 +147,6 @@
         });
 
       });
-
-      kexprdio.playlister.addPlaylistViews($li);
     },
 
     _bioToggle: function(caller) {
