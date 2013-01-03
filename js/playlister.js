@@ -20,12 +20,12 @@
 					}
 				});
 
-				kexprdio.playlister.unpackPlaylists();
+				kexprdio.playlister._unpackPlaylists();
 			    kexprdio.chooser.init();
 			});
 		},
 
-		unpackPlaylists: function() {
+		_unpackPlaylists: function() {
 			var self = this;
 
 			$.each(self.userPlaylists, function(v, i) {
@@ -59,17 +59,14 @@
 		},
 
 		addPlaylistViews: function(chartItem) {
-			var _chartItem = $(chartItem);
-
-		    $('.albuminfo').each(function(i, v) {
+		    $('.playlistview').each(function(i, v) {
 		    	var self = this;
-		    	var _chartItem = $(_chartItem);
 		    	$.each(kexprdio.playlister.userPlaylists, function(i2, v2) {
 		    		//console.log()
 			        var $userPlaylists = $('<div />', {
 			          'class': 'userplaylist chartoption',
 			          html: v2.name
-			        }).appendTo($(self).find('.playlistview'));
+			        }).appendTo(self);
 			    });
 		    });
 
@@ -79,8 +76,9 @@
 		},		
 
 		showPlaylistOptions: function(button) {
+			var $chartItem = $(button).parent().parent();
+			$($chartItem.find('.playlistview')).add($chartItem.find('.biobox')).slideToggle();
 			$(button).siblings().toggle();
-			$(button).parent().parent().find('.playlistview').slideToggle();
 		},
 
 		addSelectionToPlaylist: function(choices) {

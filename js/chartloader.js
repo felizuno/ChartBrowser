@@ -44,14 +44,14 @@
               + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
               + '<img class="albumart" src=""/>'
               + '<div class="albuminfo">'
-                + '<div class="bioshort"></div>'
-                + '<div class="biolong" style="display: none;"></div>'
+                + '<div class="biobox"><div class="bioshort shown"></div>'
+                + '<div class="biolong" style="display: none;"></div></div>'
                 + '<div class="playlistview"  style="display: none;"></div>'
               + '</div>'
               + '<div class="chartitemoptions">'
                 + '<div class="chartoption playlists">Playlist Options</div>'
                 + '<div class="chartoption tracklist">Show Tracklist</div>'
-                + '<div class="chartoption stats"><div class="statsicon"></div>Show Stats</div>'
+                + '<div class="chartoption stats"><div class="statsicon"></div>Show Stats</div></div>'
               + '</li>'
             );
           });
@@ -97,8 +97,9 @@
       kexprdio.playlister.addPlaylistOptions();
 
       kexprdio.chooser.showHide();
+
       R.ready(function() {
-       kexprdio.chartLoader._getAlbumInfo($ul);
+        kexprdio.chartLoader._getAlbumInfo($ul);
       });
     },
 
@@ -137,7 +138,6 @@
         
         $.getJSON(url, function(data) {
           self.loading = false;
-          console.log(data);
           $li.find('.bioshort').html('Last.FM Bio:  ' + data.artist.bio.summary + '... CLICK TO READ MORE.').bind('click', function() {
            kexprdio.chartLoader._bioToggle(this);
           });
@@ -150,7 +150,7 @@
     },
 
     _bioToggle: function(caller) {
-      $(caller).toggle().siblings().not('.playlistview').toggle();
+      $(caller).toggle().toggleClass('shown').siblings().toggle().toggleClass('shown');
     },
     //+++++++++
     //

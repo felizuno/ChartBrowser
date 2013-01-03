@@ -200,8 +200,8 @@ html {
 }
 
 .playlistview {
-	margin: 52px 0 -10px 0;
-	padding: 10px;
+	margin: 20px 0;
+	padding: 30px 10px;
 	background-color: rgba(0, 0, 0, 0.2);	
 }
 
