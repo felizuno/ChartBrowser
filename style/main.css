@@ -205,6 +205,10 @@ html {
 	background-color: rgba(0, 0, 0, 0.2);	
 }
 
+.selected {
+	background-color: rgba(0, 0, 0, 0.7);
+}
+
 .albumart {
 	float: right;
 	height: 200px;

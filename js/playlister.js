@@ -71,7 +71,7 @@
 		    });
 
 			$('.userplaylist').bind('click', function() {
-				//multiselect
+				$(this).toggleClass('selected');
 			});
 		},		
 
