@@ -1,47 +1,45 @@
 (function() {
   
   kexprdio.chartLoader = {
-    fullCurrentChart: {
-      title: '',
-      charts: []
-    },
+    fullCurrentChart: {},
 
-    //-----
-    //
-    // local utility loading behaviors
-    //
-    //-----
-    _loadFromStorage: function(chartToLoad) {
+    loadJson: function(protoChart, callback) {
       var self = this;
-      var _newChart = chartToLoad;
+      var _protoChart = protoChart;
 
-      $.getJSON('charts/' + _newChart.fileId + '.json', function(data) {
+      $.getJSON('charts/' + protoChart.fileId + '.json', function(data) {
+        if (!data) {
+          return;
+        }
+
+        self.fullCurrentChart = _protoChart;
+        
         $('.range').remove();
-        self.fullCurrentChart.title = _newChart.displayName;
 
-        $.each(data.chart, function(key, val) {
-          var index = key; 
+        _.each(data.chart, function(v, i) {
           var $dr = $('<div />', {
             'class': 'range',
             'style':'display:none;',
-            html: val.daterange
-            }).appendTo('.monthbar');
+            html: v.daterange
+          }).appendTo('.monthbar');
           
-          _newChart.charts.push({
+          self.fullCurrentChart.charts.push(
+            {
               header: {
-                title: val.daterange,
-                html: '<li class="chart-header">' + val.daterange + '</li>'
+                title: v.daterange,
+                html: '<li class="chart-header">' + v.daterange + '</li>'
               },
               chart: []
-          });
+            }
+          );
 
-          $.each(val.albums, function (key2, val2) {
-            var rdioQuery = val2. artist + ' ' + val2.album + ' ';// + val2.label;
-            var lfmArtist = val2.artist;
-            var _displayName = val2.album + " - " + val2.artist;
-            _newChart.charts[index].chart.push(
+          _.each(v.albums, function(v2, i2) {
+            var rdioQuery = v2. artist + ' ' + v2.album + ' ';// + v2.label;
+            var lfmArtist = v2.artist;
+            var _displayName = v2.album + " - " + v2.artist;
+            self.fullCurrentChart.charts[i].chart.push(
               '<li class="chartitem" data-rdioquery="' + rdioQuery + '" data-artist="' + lfmArtist + '">'
-              + '<div class="songname">'+ val2.rank + '. ' + _displayName + '</div>'
+              + '<div class="songname">'+ v2.rank + '. ' + _displayName + '</div>'
               + '<img class="albumart" src=""/>'
               + '<div class="albuminfo">'
                 + '<div class="biobox"><div class="bioshort shown"></div>'
@@ -57,38 +55,39 @@
           });
         });
 
-        self.fullCurrentChart = _newChart;
-        self._attach(0);
         kexprdio.chooser.activateRangeOptions();
-        $('.monthbar').children(':eq(0)').addClass('chosen').show();
+
+        if (_.isFunction(callback)) {
+          callback(self);
+        }
       });
     },
 
-    //-----
-    _attach: function(index) {
-      var chartToAttach = {
-        header: '',
-        chart: ''
-      };
+    changeMonth: function(config, append) {
+      var chartToAttach = {};
 
-      if ($.type(index) == 'string') {
-        console.log(this.fullCurrentChart);
-        $.each(this.fullCurrentChart.charts, function(k, v) {
-            if (v.header.title == index) {
-                chartToAttach.chart = v.chart.join('');
-                chartToAttach.header = v.header.html;
-                return;
-            }
+      if (_.isString(config)) {
+        chartToAttach = _.find(this.fullCurrentChart.charts, function(chart) {
+          return chart.header.title == config;
         });
+
+        if (!chartToAttach.header) {
+          this.changeMonth(0); // THIS IS FOR WHEN YOU JUMP THE 2006/2007 FORMAT
+          return;
+        }
+      } else if (_.isNumber(config)) {
+        chartToAttach = this.fullCurrentChart.charts[config];
       } else {
-        var _masterChart = this.fullCurrentChart.charts[index];
-        chartToAttach.chart = _masterChart.chart.join('');
-        chartToAttach.header = _masterChart.header.html;
+        return;
       }
 
-      var $ul = $('<ul/>', 
+      if (!append) {
+        $('.chartdisplay').children().remove();
+      }
+
+      var $newChart = $('<ul/>', 
         {'class': 'chart',
-          html: (chartToAttach.header += chartToAttach.chart)
+          html: (chartToAttach.header.html += chartToAttach.chart.join(''))
         })
       .appendTo('.chartdisplay');
 
@@ -99,18 +98,13 @@
       kexprdio.chooser.showHide();
 
       R.ready(function() {
-        kexprdio.chartLoader._getAlbumInfo($ul);
+        kexprdio.chartLoader.addInfo($newChart);
       });
     },
 
-    //-----
-    _clearcharts: function() {
-      $('.chart').remove();
-      $('.chart-header').remove();
-    },
 
     //-----
-    _getAlbumInfo: function($ul) {
+    addInfo: function($ul) {
       //Find each of the chart items
       $ul.find('li').not('.chart-header').each(function(i, v) {
         var $li = $(v);
@@ -139,40 +133,42 @@
         $.getJSON(url, function(data) {
           self.loading = false;
           $li.find('.bioshort').html('Last.FM Bio:  ' + data.artist.bio.summary + '... CLICK TO READ MORE.').bind('click', function() {
-           kexprdio.chartLoader._bioToggle(this);
+           kexprdio.bioToggle(this);
           });
           $li.find('.biolong').html('Last.FM Bio:  ' + data.artist.bio.content + ' ( Click to return to summary. )').bind('click', function() {
-           kexprdio.chartLoader._bioToggle(this);
+           kexprdio.bioToggle(this);
           });
         });
 
       });
-    },
-
-    _bioToggle: function(caller) {
-      $(caller).toggle().toggleClass('shown').siblings().toggle().toggleClass('shown');
     },
     //+++++++++
     //
     // available commands
     //
     //+++++++++
+
     appendTocharts: function() {
-      this._loadFromStorage(kexprdio.chooser.chartToLoad());
+      var newChartName = $('.monthbar .chosen').text();
+      this.changeMonth(newChartName, true);
     },
 
     //+++++++++
-    replacecharts: function() {
-      this._clearcharts();
-      var $_newChart = $('.monthbar .chosen').text();
-      this._attach($_newChart);
-    },
+    loadReplace: function(protoChart) {
+      var newChartName = $('.monthbar .chosen').text();
 
-    //++++++++++
-    loadingtest: function() {
-      this._clearcharts();
-      this._loadFromStorage(kexprdio.chooser.chartToLoad());
-    }
+      if (!this.fullCurrentChart.fileId || protoChart.fileId != this.fullCurrentChart.fileId) {
+        this.loadJson(protoChart, function(context) {
+          context.changeMonth((newChartName) ? newChartName : 0);
+        });
+      } else {
+        if (newChartName) {
+          this.changeMonth(newChartName);
+        } else {
+          return;
+        }
+      }
+    },
   };
 
 })();

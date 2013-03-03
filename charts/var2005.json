@@ -1,1026 +1,1026 @@
 KEXP Variety music charts for 2005
 January
-1. LCD Soundsystem - LCD Soundsystem (DFA/EMI)
-2. Kings of Leon - Aha Shake Heartbreak (RCA)
-3. Kasabian - Kasabian (RCA)
-4. The Chemical Brothers - Push the Button (Astralwerks)
-5. M83 - Before the Dawn Heals Us (Mute)
-6. Lou Barlow - Emoh (Merge)
-7. Ed Harcourt - Strangers (Astralwerks)
-8. Low - The Great Destroyer (Sub Pop)
-9. Ted Leo + the Pharmacists - Shake the Sheets (Lookout)
-10. Bright Eyes - Digital Ash in a Digital Urn (Saddle Creek)
-11. Robbers on High Street - Tree City (New Line)
-12. (Various) - Sweetheart 2005 (Hear Music)
-13. (Various) - Sunday Nights: The Songs of Junior Kimbrough (Fat Possum)
-14. Tea for Julie - Division (self-released)
-15. Clem Snide - End of Love (spinART)
-16. Western States - Trouble in the Union (self-released)
-17. The Ruby Doe - Always with Wings (Loveless)
-18. Brazilian Girls - Brazilian Girls (Verve Forecast)
-19. Archer Prewitt - Wilderness (Thrill Jockey)
-20. The Cribs - The Cribs (Wichita)
-21. Sage Francis - A Healthy Distrust (Epitaph)
-22. M. Ward - Transistor Radio (Merge)
-23. And You Will Know Us By the Trail of Dead - Worlds Apart (Interscope)
-24. Josh Rouse - Nashville (Rykodisc)
-25. The Valley - The Valley (Swingline)
-26. The Futureheads - The Futureheads (679)
-27. The Postal Service - We Will Become Silhouettes (Sub Pop)
-28. I Am Kloot - I Am Kloot (Echo/World's Fair)
-29. Graham Coxon - Happiness in Magazines (Astralwerks)
-30. The Go! Team - The Go! Team (Memphis Industries)
-31. The Frames - Burn the Maps (Anti-)
-32. The Arcade Fire - Funeral (Merge)
-33. The Transmissionary Six - Get Down (Film Guerrero)
-34. Death Cab for Cutie - Title and Registration (Barsuk)
-35. Bright Eyes - I'm Wide Awake, It's Morning (Saddle Creek)
-36. Bettie Serveert - Attagirl (Minty Fresh)
-37. August Anchor - August Anchor (self-released)
-38. Tim Booth - Bone (Koch)
-39. Al Green - Everything's OK (Blue Note)
-40. Two Cow Garage - The Wall Against Our Back (Shelterhouse)
-41. Willie Hightower - Willie Hightower (Honest Jons/Astralwerks)
-42. Trembling Blue Stars - The Seven Autumn Flowers (Bar/None)
-43. The Stands - All Years Leaving (Echo/World's Fair)
-44. Luna - Rendezvous (Jetset)
-45. Shivaree - Who's Got Trouble? (Zoe)
-46. The Republic - So They Ran (self-released)
-47. Petra Haden & Bill Frisell - Petra Haden & Bill Frisell (Sovereign Artists)
-48. Army Navy - Army Navy (self-released)
-49. Stereo Total - Do the Bambi (Kill Rock Stars)
-50. Bloc Party - Tulips (Dim Mak)
-51. The Fiery Furnaces - EP (Rough Trade)
-52. Neko Case - The Tigers Have Spoken (Anti-)
-53. Blanket Music - Cultural Norms (Hush)
-54. Pitty Sing - Pitty Sing (Or)
-55. Styrofoam - Nothing's Lost (Morr)
-56. Grayskul - Deadlivers (Rhymesayers)
-57. Kiss N Ride - Someone Killed My Generation (Pop Goes the Vinyl)
-58. The Cops - Why Kids Go Wrong (Mt Fuji)
-59. Rogue Wave - The Itunes EP (Sub Pop)
-60. Amos Lee - Amos Lee (Blue Note)
-61. The Tuesday Suits - Your Silver Lining (self-released)
-62. Nick Cave & the Bad Seeds - Abattoir Blues/The Lyre of Orpheus (Anti-)
+{"rank":"1", "artist":"LCD Soundsystem", "album":"LCD Soundsystem ", "label":"DFA/EMI"},
+{"rank":"2", "artist":"Kings of Leon", "album":"Aha Shake Heartbreak ", "label":"RCA"},
+{"rank":"3", "artist":"Kasabian", "album":"Kasabian ", "label":"RCA"},
+{"rank":"4", "artist":"The Chemical Brothers", "album":"Push the Button ", "label":"Astralwerks"},
+{"rank":"5", "artist":"M83", "album":"Before the Dawn Heals Us ", "label":"Mute"},
+{"rank":"6", "artist":"Lou Barlow", "album":"Emoh ", "label":"Merge"},
+{"rank":"7", "artist":"Ed Harcourt", "album":"Strangers ", "label":"Astralwerks"},
+{"rank":"8", "artist":"Low", "album":"The Great Destroyer ", "label":"Sub Pop"},
+{"rank":"9", "artist":"Ted Leo + the Pharmacists", "album":"Shake the Sheets ", "label":"Lookout"},
+{"rank":"10", "artist":"Bright Eyes", "album":"Digital Ash in a Digital Urn ", "label":"Saddle Creek"},
+{"rank":"11", "artist":"Robbers on High Street", "album":"Tree City ", "label":"New Line"},
+{"rank":"12", "artist":"(Various)", "album":"Sweetheart 2005 ", "label":"Hear Music"},
+{"rank":"13", "artist":"(Various)", "album":"Sunday Nights: The Songs of Junior Kimbrough ", "label":"Fat Possum"},
+{"rank":"14", "artist":"Tea for Julie", "album":"Division ", "label":"self-released"},
+{"rank":"15", "artist":"Clem Snide", "album":"End of Love ", "label":"spinART"},
+{"rank":"16", "artist":"Western States", "album":"Trouble in the Union ", "label":"self-released"},
+{"rank":"17", "artist":"The Ruby Doe", "album":"Always with Wings ", "label":"Loveless"},
+{"rank":"18", "artist":"Brazilian Girls", "album":"Brazilian Girls ", "label":"Verve Forecast"},
+{"rank":"19", "artist":"Archer Prewitt", "album":"Wilderness ", "label":"Thrill Jockey"},
+{"rank":"20", "artist":"The Cribs", "album":"The Cribs ", "label":"Wichita"},
+{"rank":"21", "artist":"Sage Francis", "album":"A Healthy Distrust ", "label":"Epitaph"},
+{"rank":"22", "artist":"M. Ward", "album":"Transistor Radio ", "label":"Merge"},
+{"rank":"23", "artist":"And You Will Know Us By the Trail of Dead", "album":"Worlds Apart ", "label":"Interscope"},
+{"rank":"24", "artist":"Josh Rouse", "album":"Nashville ", "label":"Rykodisc"},
+{"rank":"25", "artist":"The Valley", "album":"The Valley ", "label":"Swingline"},
+{"rank":"26", "artist":"The Futureheads", "album":"The Futureheads ", "label":"679"},
+{"rank":"27", "artist":"The Postal Service", "album":"We Will Become Silhouettes ", "label":"Sub Pop"},
+{"rank":"28", "artist":"I Am Kloot", "album":"I Am Kloot ", "label":"Echo/World's Fair"},
+{"rank":"29", "artist":"Graham Coxon", "album":"Happiness in Magazines ", "label":"Astralwerks"},
+{"rank":"30", "artist":"The Go! Team", "album":"The Go! Team ", "label":"Memphis Industries"},
+{"rank":"31", "artist":"The Frames", "album":"Burn the Maps ", "label":"Anti-"},
+{"rank":"32", "artist":"The Arcade Fire", "album":"Funeral ", "label":"Merge"},
+{"rank":"33", "artist":"The Transmissionary Six", "album":"Get Down ", "label":"Film Guerrero"},
+{"rank":"34", "artist":"Death Cab for Cutie", "album":"Title and Registration ", "label":"Barsuk"},
+{"rank":"35", "artist":"Bright Eyes", "album":"I'm Wide Awake, It's Morning ", "label":"Saddle Creek"},
+{"rank":"36", "artist":"Bettie Serveert", "album":"Attagirl ", "label":"Minty Fresh"},
+{"rank":"37", "artist":"August Anchor", "album":"August Anchor ", "label":"self-released"},
+{"rank":"38", "artist":"Tim Booth", "album":"Bone ", "label":"Koch"},
+{"rank":"39", "artist":"Al Green", "album":"Everything's OK ", "label":"Blue Note"},
+{"rank":"40", "artist":"Two Cow Garage", "album":"The Wall Against Our Back ", "label":"Shelterhouse"},
+{"rank":"41", "artist":"Willie Hightower", "album":"Willie Hightower ", "label":"Honest Jons/Astralwerks"},
+{"rank":"42", "artist":"Trembling Blue Stars", "album":"The Seven Autumn Flowers ", "label":"Bar/None"},
+{"rank":"43", "artist":"The Stands", "album":"All Years Leaving ", "label":"Echo/World's Fair"},
+{"rank":"44", "artist":"Luna", "album":"Rendezvous ", "label":"Jetset"},
+{"rank":"45", "artist":"Shivaree", "album":"Who's Got Trouble? ", "label":"Zoe"},
+{"rank":"46", "artist":"The Republic", "album":"So They Ran ", "label":"self-released"},
+{"rank":"47", "artist":"Petra Haden & Bill Frisell", "album":"Petra Haden & Bill Frisell ", "label":"Sovereign Artists"},
+{"rank":"48", "artist":"Army Navy", "album":"Army Navy ", "label":"self-released"},
+{"rank":"49", "artist":"Stereo Total", "album":"Do the Bambi ", "label":"Kill Rock Stars"},
+{"rank":"50", "artist":"Bloc Party", "album":"Tulips ", "label":"Dim Mak"},
+{"rank":"51", "artist":"The Fiery Furnaces", "album":"EP ", "label":"Rough Trade"},
+{"rank":"52", "artist":"Neko Case", "album":"The Tigers Have Spoken ", "label":"Anti-"},
+{"rank":"53", "artist":"Blanket Music", "album":"Cultural Norms ", "label":"Hush"},
+{"rank":"54", "artist":"Pitty Sing", "album":"Pitty Sing ", "label":"Or"},
+{"rank":"55", "artist":"Styrofoam", "album":"Nothing's Lost ", "label":"Morr"},
+{"rank":"56", "artist":"Grayskul", "album":"Deadlivers ", "label":"Rhymesayers"},
+{"rank":"57", "artist":"Kiss N Ride", "album":"Someone Killed My Generation ", "label":"Pop Goes the Vinyl"},
+{"rank":"58", "artist":"The Cops", "album":"Why Kids Go Wrong ", "label":"Mt Fuji"},
+{"rank":"59", "artist":"Rogue Wave", "album":"The Itunes EP ", "label":"Sub Pop"},
+{"rank":"60", "artist":"Amos Lee", "album":"Amos Lee ", "label":"Blue Note"},
+{"rank":"61", "artist":"The Tuesday Suits", "album":"Your Silver Lining ", "label":"self-released"},
+{"rank":"62", "artist":"Nick Cave & the Bad Seeds", "album":"Abattoir Blues/The Lyre of Orpheus ", "label":"Anti-"},
 
 February
-1. Stars - Set Yourself on Fire (Arts & Crafts)
-2. The Wedding Present - Take Fountain (Manifesto)
-3. Doves - Some Cities (Capitol)
-4. LCD Soundsystem - LCD Soundsystem (DFA/EMI)
-5. Kings of Leon - Aha Shake Heartbreak (RCA)
-6. The Chemical Brothers - Push the Button (Astralwerks)
-7. M83 - Before the Dawn Heals Us (Mute)
-8. Bright Eyes - I'm Wide Awake, It's Morning (Saddle Creek)
-9. Kasabian - Kasabian (RCA)
-10. Brazilian Girls - Brazilian Girls (Verve Forecast)
-11. Lou Barlow - Emoh (Merge)
-12. Crooked Fingers - Dignity and Shame (Merge)
-13. The Kills - No Wow (Rough Trade/RCA)
-14. Robbers on High Street - Tree City (New Line)
-15. Thievery Corporation - The Cosmic Game (Eighteenth Street Lounge)
-16. Sharon Jones and the Dap-Kings - Naturally (Daptone)
-17. Clem Snide - End of Love (spinART)
-18. Tea for Julie - Division (self-released)
-19. (Various) - Sunday Nights: The Songs of Junior Kimbrough (Fat Possum)
-20. Low - The Great Destroyer (Sub Pop)
-21. Ed Harcourt - Strangers (Astralwerks)
-22. Willie Hightower - Willie Hightower (Honest Jons/Astralwerks)
-23. Bettie Serveert - Attagirl (Minty Fresh)
-24. M.I.A. - Arular (XL)
-25. Archer Prewitt - Wilderness (Thrill Jockey)
-26. Sage Francis - A Healthy Distrust (Epitaph)
-27. Bright Eyes - Digital Ash in a Digital Urn (Saddle Creek)
-28. And You Will Know Us By the Trail of Dead - Worlds Apart (Interscope)
-29. Western States - Trouble in the Union (self-released)
-30. (Various) - Sweetheart 2005 (Hear Music)
-31. The Frames - Burn the Maps (Anti-)
-32. Ivy - In the Clear (Nettwerk)
-33. The Sights - The Sights (New Line)
-34. M. Ward - Transistor Radio (Merge)
-35. Damon & Naomi - The Earth is Blue (20/20/20)
-36. Mando Diao - Hurricane Bar (Mute)
-37. Graham Coxon - Happiness in Magazines (Astralwerks)
-38. The Stands - All Years Leaving (Echo/World's Fair)
-39. Maximo Park - Apply Some Pressure (Warp)
-40. The Ruby Doe - Always with Wings (Loveless)
+{"rank":"1", "artist":"Stars", "album":"Set Yourself on Fire ", "label":"Arts & Crafts"},
+{"rank":"2", "artist":"The Wedding Present", "album":"Take Fountain ", "label":"Manifesto"},
+{"rank":"3", "artist":"Doves", "album":"Some Cities ", "label":"Capitol"},
+{"rank":"4", "artist":"LCD Soundsystem", "album":"LCD Soundsystem ", "label":"DFA/EMI"},
+{"rank":"5", "artist":"Kings of Leon", "album":"Aha Shake Heartbreak ", "label":"RCA"},
+{"rank":"6", "artist":"The Chemical Brothers", "album":"Push the Button ", "label":"Astralwerks"},
+{"rank":"7", "artist":"M83", "album":"Before the Dawn Heals Us ", "label":"Mute"},
+{"rank":"8", "artist":"Bright Eyes", "album":"I'm Wide Awake, It's Morning ", "label":"Saddle Creek"},
+{"rank":"9", "artist":"Kasabian", "album":"Kasabian ", "label":"RCA"},
+{"rank":"10", "artist":"Brazilian Girls", "album":"Brazilian Girls ", "label":"Verve Forecast"},
+{"rank":"11", "artist":"Lou Barlow", "album":"Emoh ", "label":"Merge"},
+{"rank":"12", "artist":"Crooked Fingers", "album":"Dignity and Shame ", "label":"Merge"},
+{"rank":"13", "artist":"The Kills", "album":"No Wow ", "label":"Rough Trade/RCA"},
+{"rank":"14", "artist":"Robbers on High Street", "album":"Tree City ", "label":"New Line"},
+{"rank":"15", "artist":"Thievery Corporation", "album":"The Cosmic Game ", "label":"Eighteenth Street Lounge"},
+{"rank":"16", "artist":"Sharon Jones and the Dap-Kings", "album":"Naturally ", "label":"Daptone"},
+{"rank":"17", "artist":"Clem Snide", "album":"End of Love ", "label":"spinART"},
+{"rank":"18", "artist":"Tea for Julie", "album":"Division ", "label":"self-released"},
+{"rank":"19", "artist":"(Various)", "album":"Sunday Nights: The Songs of Junior Kimbrough ", "label":"Fat Possum"},
+{"rank":"20", "artist":"Low", "album":"The Great Destroyer ", "label":"Sub Pop"},
+{"rank":"21", "artist":"Ed Harcourt", "album":"Strangers ", "label":"Astralwerks"},
+{"rank":"22", "artist":"Willie Hightower", "album":"Willie Hightower ", "label":"Honest Jons/Astralwerks"},
+{"rank":"23", "artist":"Bettie Serveert", "album":"Attagirl ", "label":"Minty Fresh"},
+{"rank":"24", "artist":"M.I.A.", "album":"Arular ", "label":"XL"},
+{"rank":"25", "artist":"Archer Prewitt", "album":"Wilderness ", "label":"Thrill Jockey"},
+{"rank":"26", "artist":"Sage Francis", "album":"A Healthy Distrust ", "label":"Epitaph"},
+{"rank":"27", "artist":"Bright Eyes", "album":"Digital Ash in a Digital Urn ", "label":"Saddle Creek"},
+{"rank":"28", "artist":"And You Will Know Us By the Trail of Dead", "album":"Worlds Apart ", "label":"Interscope"},
+{"rank":"29", "artist":"Western States", "album":"Trouble in the Union ", "label":"self-released"},
+{"rank":"30", "artist":"(Various)", "album":"Sweetheart 2005 ", "label":"Hear Music"},
+{"rank":"31", "artist":"The Frames", "album":"Burn the Maps ", "label":"Anti-"},
+{"rank":"32", "artist":"Ivy", "album":"In the Clear ", "label":"Nettwerk"},
+{"rank":"33", "artist":"The Sights", "album":"The Sights ", "label":"New Line"},
+{"rank":"34", "artist":"M. Ward", "album":"Transistor Radio ", "label":"Merge"},
+{"rank":"35", "artist":"Damon & Naomi", "album":"The Earth is Blue ", "label":"20/20/20"},
+{"rank":"36", "artist":"Mando Diao", "album":"Hurricane Bar ", "label":"Mute"},
+{"rank":"37", "artist":"Graham Coxon", "album":"Happiness in Magazines ", "label":"Astralwerks"},
+{"rank":"38", "artist":"The Stands", "album":"All Years Leaving ", "label":"Echo/World's Fair"},
+{"rank":"39", "artist":"Maximo Park", "album":"Apply Some Pressure ", "label":"Warp"},
+{"rank":"40", "artist":"The Ruby Doe", "album":"Always with Wings ", "label":"Loveless"},
 41. Tim Booth - Bone (Koch) - "Down to the Sea"
-42. The Information - Mistakes We Knew We Were Making (Primary Voltage)
-43. I Am Kloot - I Am Kloot (Echo/World's Fair)
-44. Ben Lee - Awake is the New Sleep (New West)
-45. Dub Syndicate - Pure Thrillseekers (Shanachie)
-46. Beck - E-Pro (Interscope)
-47. Josh Rouse - Nashville (Rykodisc)
-48. Al Green - Everything's OK (Blue Note)
-49. Trembling Blue Stars - The Seven Autumn Flowers (Bar/None)
-50. The Bravery - College Sampler (Island)
-51. Iron & Wine - Woman King (Sub Pop)
+{"rank":"42", "artist":"The Information", "album":"Mistakes We Knew We Were Making ", "label":"Primary Voltage"},
+{"rank":"43", "artist":"I Am Kloot", "album":"I Am Kloot ", "label":"Echo/World's Fair"},
+{"rank":"44", "artist":"Ben Lee", "album":"Awake is the New Sleep ", "label":"New West"},
+{"rank":"45", "artist":"Dub Syndicate", "album":"Pure Thrillseekers ", "label":"Shanachie"},
+{"rank":"46", "artist":"Beck", "album":"E-Pro ", "label":"Interscope"},
+{"rank":"47", "artist":"Josh Rouse", "album":"Nashville ", "label":"Rykodisc"},
+{"rank":"48", "artist":"Al Green", "album":"Everything's OK ", "label":"Blue Note"},
+{"rank":"49", "artist":"Trembling Blue Stars", "album":"The Seven Autumn Flowers ", "label":"Bar/None"},
+{"rank":"50", "artist":"The Bravery", "album":"College Sampler ", "label":"Island"},
+{"rank":"51", "artist":"Iron & Wine", "album":"Woman King ", "label":"Sub Pop"},
 52. Mogwai - Government Commissions BBC Sessions
-53. Solomon Burke - Make Do With What You Got (Shout! Factory)
-54. The Postal Service - We Will Become Silhouettes (Sub Pop)
-55. August Anchor - August Anchor (self-released)
-56. The Raveonettes - A Touch of Black (Columbia)
-57. The Go! Team - The Go! Team (Memphis Industries)
-58. The Arcade Fire - Funeral (Merge)
-59. The Futureheads - The Futureheads (679)
-60. The Valley - The Valley (Swingline)
-61. Amos Lee - Amos Lee (Blue Note)
-62. Anna Coogan & North 19 - Glory (self-released)
-63. Kiss N Ride - Someone Killed My Generation (Pop Goes the Vinyl)
-64. The Cops - Why Kids Go Wrong (Mt Fuji)
-65. Interpol - Antics (Matador)
-66. Neko Case - The Tigers Have Spoken (Anti-)
-67. Stereo Total - Do the Bambi (Kill Rock Stars)
-68. Justin Rutledge and the Junction Forty - No Never Alone (Six Shooter)
-69. Ani DiFranco - Knuckle Down (Righteous Babe)
-70. The Fiery Furnaces - EP (Rough Trade)
-71. Mary Gauthier - Mercy Now (Lost Highway)
-72. Bloc Party - Tulips (Dim Mak)
-73. J.D. Hobson - Desert Road (self-released)
-74. Grayskul - Deadlivers (Rhymesayers)
-75. The Cribs - The Cribs (Wichita)
-76. The Transmissionary Six - Get Down (Film Guerrero)
-77. Death Cab for Cutie - Title and Registration (Barsuk)
-78. Key Note Speaker - Fiction (self-released)
-79. Hood - Outside Closer (Domino)
-80. Army Navy - Army Navy (self-released)
-81. Petra Haden & Bill Frisell - Petra Haden & Bill Frisell (Sovereign Artists)
+{"rank":"53", "artist":"Solomon Burke", "album":"Make Do With What You Got ", "label":"Shout! Factory"},
+{"rank":"54", "artist":"The Postal Service", "album":"We Will Become Silhouettes ", "label":"Sub Pop"},
+{"rank":"55", "artist":"August Anchor", "album":"August Anchor ", "label":"self-released"},
+{"rank":"56", "artist":"The Raveonettes", "album":"A Touch of Black ", "label":"Columbia"},
+{"rank":"57", "artist":"The Go! Team", "album":"The Go! Team ", "label":"Memphis Industries"},
+{"rank":"58", "artist":"The Arcade Fire", "album":"Funeral ", "label":"Merge"},
+{"rank":"59", "artist":"The Futureheads", "album":"The Futureheads ", "label":"679"},
+{"rank":"60", "artist":"The Valley", "album":"The Valley ", "label":"Swingline"},
+{"rank":"61", "artist":"Amos Lee", "album":"Amos Lee ", "label":"Blue Note"},
+{"rank":"62", "artist":"Anna Coogan & North 19", "album":"Glory ", "label":"self-released"},
+{"rank":"63", "artist":"Kiss N Ride", "album":"Someone Killed My Generation ", "label":"Pop Goes the Vinyl"},
+{"rank":"64", "artist":"The Cops", "album":"Why Kids Go Wrong ", "label":"Mt Fuji"},
+{"rank":"65", "artist":"Interpol", "album":"Antics ", "label":"Matador"},
+{"rank":"66", "artist":"Neko Case", "album":"The Tigers Have Spoken ", "label":"Anti-"},
+{"rank":"67", "artist":"Stereo Total", "album":"Do the Bambi ", "label":"Kill Rock Stars"},
+{"rank":"68", "artist":"Justin Rutledge and the Junction Forty", "album":"No Never Alone ", "label":"Six Shooter"},
+{"rank":"69", "artist":"Ani DiFranco", "album":"Knuckle Down ", "label":"Righteous Babe"},
+{"rank":"70", "artist":"The Fiery Furnaces", "album":"EP ", "label":"Rough Trade"},
+{"rank":"71", "artist":"Mary Gauthier", "album":"Mercy Now ", "label":"Lost Highway"},
+{"rank":"72", "artist":"Bloc Party", "album":"Tulips ", "label":"Dim Mak"},
+{"rank":"73", "artist":"J.D. Hobson", "album":"Desert Road ", "label":"self-released"},
+{"rank":"74", "artist":"Grayskul", "album":"Deadlivers ", "label":"Rhymesayers"},
+{"rank":"75", "artist":"The Cribs", "album":"The Cribs ", "label":"Wichita"},
+{"rank":"76", "artist":"The Transmissionary Six", "album":"Get Down ", "label":"Film Guerrero"},
+{"rank":"77", "artist":"Death Cab for Cutie", "album":"Title and Registration ", "label":"Barsuk"},
+{"rank":"78", "artist":"Key Note Speaker", "album":"Fiction ", "label":"self-released"},
+{"rank":"79", "artist":"Hood", "album":"Outside Closer ", "label":"Domino"},
+{"rank":"80", "artist":"Army Navy", "album":"Army Navy ", "label":"self-released"},
+{"rank":"81", "artist":"Petra Haden & Bill Frisell", "album":"Petra Haden & Bill Frisell ", "label":"Sovereign Artists"},
 
 March
-1. Beck - Guero (Interscope)
-2. The Decemberists - Picaresque (Kill Rock Stars)
-3. The Go! Team - Thunder, Lightning, Strike (Memphis Industries)
-4. Brazilian Girls - Brazilian Girls (Verve Forecast)
-5. LCD Soundsystem - LCD Soundsystem (DFA/EMI)
-6. The Wedding Present - Take Fountain (Manifesto)
-7. The Kills - No Wow (Rough Trade/RCA)
-8. Moby - Hotel (V2)
-9. Doves - Some Cities (Capitol)
-10. (Various) - Verve//Remixed 3 (Verve)
-11. Kaiser Chiefs - Employment (Universal)
-12. Stars - Set Yourself on Fire (Arts & Crafts)
-13. Ed Harcourt - Strangers (Astralwerks)
-14. M83 - Before the Dawn Heals Us (Mute)
-15. Bloc Party - Silent Alarm (Vice)
-16. The Bravery - The Bravery (Island)
-17. Clem Snide - End of Love (spinART)
-18. Thievery Corporation - The Cosmic Game (Eighteenth Street Lounge)
-19. M.I.A. - Arular (XL)
-20. Ben Lee - Awake is the New Sleep (New West)
-21. Low - The Great Destroyer (Sub Pop)
-22. Crooked Fingers - Dignity and Shame (Merge)
-23. Rockethouse - Weapons of Mass Distortion (Kanine)
-24. Sharon Jones and the Dap-Kings - Naturally (Daptone)
-25. 22-20s - 22-20s (Astralwerks)
-26. Archer Prewitt - Wilderness (Thrill Jockey)
-27. Sage Francis - A Healthy Distrust (Epitaph)
-28. Ivy - In the Clear (Nettwerk)
-29. British Sea Power - Open Season (Rough Trade)
-30. The National - Alligator (Beggars Banquet)
-31. And You Will Know Us By the Trail of Dead - Worlds Apart (Interscope)
-32. Damon & Naomi - The Earth is Blue (20/20/20)
-33. The Soundtrack of Our Lives - Origin Vol. 1 (Republic)
-34. Out Hud - Let Us Never Speak Of It Again (Kranky)
-35. M. Ward - Transistor Radio (Merge)
-36. Kings of Leon - Aha Shake Heartbreak (RCA)
-37. Josh Rouse - Nashville (Rykodisc)
-38. Graham Coxon - Happiness in Magazines (Astralwerks)
-39. The Information - Mistakes We Knew We Were Making (Primary Voltage)
-40. Fischerspooner - Odyssey (Capitol)
-41. Dub Syndicate - Pure Thrillseekers (Shanachie)
-42. Aqualung - Strange and Beautiful (Red Ink/Columbia)
-43. Iron & Wine - Woman King (Sub Pop)
-44. The Surfcoasters - Samurai Struck (Five Nine Factory)
-45. Of Montreal - The Sunlandic Twins (Polyvinyl)
-46. The Frames - Burn the Maps (Anti-)
-47. Mogwai - Government Commissions BBC Sessions 1996-2003 (Matador)
-48. Bright Eyes - I'm Wide Awake, It's Morning (Saddle Creek)
-49. 50 Foot Wave - Golden Ocean (Throwing Music)
-50. I Am Kloot - I Am Kloot (Echo/World's Fair)
-51. Solomon Burke - Make Do With What You Got (Shout! Factory)
-52. Maximo Park - Apply Some Pressure (Warp)
-53. Bettie Serveert - Attagirl (Minty Fresh)
-54. Maktub - Say What You Mean (Velour)
-55. Vic Chesnutt - Ghetto Bells (New West)
-56. Spanish for 100 - Metric (self-released)
-57. Buck 65 - This Right Here is Buck 65 (V2)
-58. Supersuckers - Devil's Food (Mid-Fi)
-59. Lou Barlow - Emoh (Merge)
-60. Sam Prekop - Who's Your New Professor (Thrill Jockey)
-61. Kasabian - Kasabian (RCA)
-62. The Arcade Fire - Funeral (Merge)
-63. Mando Diao - Hurricane Bar (Mute)
-64. The Valley - The Valley (Swingline)
-65. Math and Physics Club - Weekends Away ep (Matinee)
-66. The Sights - The Sights (New Line)
-67. Death Cab for Cutie - Title and Registration (Barsuk)
-68. Bright Eyes - Digital Ash in a Digital Urn (Saddle Creek)
-69. Stereo Total - Do the Bambi (Kill Rock Stars)
-70. Key Note Speaker - Fiction (self-released)
-71. Queens of the Stone Age - Lullabies to Paralyze (Interscope)
-72. Los Super Seven - Heard it on the X (Telarc)
-73. Al Green - Everything's OK (Blue Note)
-74. The Raveonettes - A Touch of Black (Columbia)
-75. Willie Hightower - Willie Hightower (Honest Jons/Astralwerks)
-76. Ash - Meltdown (Record Collection)
-77. At the Spine - First Day of Spring (Global Seepej)
-78. Anna Coogan & North 19 - Glory (self-released)
-79. Justin Rutledge and the Junction Forty - No Never Alone (Six Shooter)
-80. J.D. Hobson - Desert Road - (self-released)
+{"rank":"1", "artist":"Beck", "album":"Guero ", "label":"Interscope"},
+{"rank":"2", "artist":"The Decemberists", "album":"Picaresque ", "label":"Kill Rock Stars"},
+{"rank":"3", "artist":"The Go! Team", "album":"Thunder, Lightning, Strike ", "label":"Memphis Industries"},
+{"rank":"4", "artist":"Brazilian Girls", "album":"Brazilian Girls ", "label":"Verve Forecast"},
+{"rank":"5", "artist":"LCD Soundsystem", "album":"LCD Soundsystem ", "label":"DFA/EMI"},
+{"rank":"6", "artist":"The Wedding Present", "album":"Take Fountain ", "label":"Manifesto"},
+{"rank":"7", "artist":"The Kills", "album":"No Wow ", "label":"Rough Trade/RCA"},
+{"rank":"8", "artist":"Moby", "album":"Hotel ", "label":"V2"},
+{"rank":"9", "artist":"Doves", "album":"Some Cities ", "label":"Capitol"},
+{"rank":"10", "artist":"(Various)", "album":"Verve//Remixed 3 ", "label":"Verve"},
+{"rank":"11", "artist":"Kaiser Chiefs", "album":"Employment ", "label":"Universal"},
+{"rank":"12", "artist":"Stars", "album":"Set Yourself on Fire ", "label":"Arts & Crafts"},
+{"rank":"13", "artist":"Ed Harcourt", "album":"Strangers ", "label":"Astralwerks"},
+{"rank":"14", "artist":"M83", "album":"Before the Dawn Heals Us ", "label":"Mute"},
+{"rank":"15", "artist":"Bloc Party", "album":"Silent Alarm ", "label":"Vice"},
+{"rank":"16", "artist":"The Bravery", "album":"The Bravery ", "label":"Island"},
+{"rank":"17", "artist":"Clem Snide", "album":"End of Love ", "label":"spinART"},
+{"rank":"18", "artist":"Thievery Corporation", "album":"The Cosmic Game ", "label":"Eighteenth Street Lounge"},
+{"rank":"19", "artist":"M.I.A.", "album":"Arular ", "label":"XL"},
+{"rank":"20", "artist":"Ben Lee", "album":"Awake is the New Sleep ", "label":"New West"},
+{"rank":"21", "artist":"Low", "album":"The Great Destroyer ", "label":"Sub Pop"},
+{"rank":"22", "artist":"Crooked Fingers", "album":"Dignity and Shame ", "label":"Merge"},
+{"rank":"23", "artist":"Rockethouse", "album":"Weapons of Mass Distortion ", "label":"Kanine"},
+{"rank":"24", "artist":"Sharon Jones and the Dap-Kings", "album":"Naturally ", "label":"Daptone"},
+{"rank":"25", "artist":"22-20s", "album":"22-20s ", "label":"Astralwerks"},
+{"rank":"26", "artist":"Archer Prewitt", "album":"Wilderness ", "label":"Thrill Jockey"},
+{"rank":"27", "artist":"Sage Francis", "album":"A Healthy Distrust ", "label":"Epitaph"},
+{"rank":"28", "artist":"Ivy", "album":"In the Clear ", "label":"Nettwerk"},
+{"rank":"29", "artist":"British Sea Power", "album":"Open Season ", "label":"Rough Trade"},
+{"rank":"30", "artist":"The National", "album":"Alligator ", "label":"Beggars Banquet"},
+{"rank":"31", "artist":"And You Will Know Us By the Trail of Dead", "album":"Worlds Apart ", "label":"Interscope"},
+{"rank":"32", "artist":"Damon & Naomi", "album":"The Earth is Blue ", "label":"20/20/20"},
+{"rank":"33", "artist":"The Soundtrack of Our Lives", "album":"Origin Vol. 1 ", "label":"Republic"},
+{"rank":"34", "artist":"Out Hud", "album":"Let Us Never Speak Of It Again ", "label":"Kranky"},
+{"rank":"35", "artist":"M. Ward", "album":"Transistor Radio ", "label":"Merge"},
+{"rank":"36", "artist":"Kings of Leon", "album":"Aha Shake Heartbreak ", "label":"RCA"},
+{"rank":"37", "artist":"Josh Rouse", "album":"Nashville ", "label":"Rykodisc"},
+{"rank":"38", "artist":"Graham Coxon", "album":"Happiness in Magazines ", "label":"Astralwerks"},
+{"rank":"39", "artist":"The Information", "album":"Mistakes We Knew We Were Making ", "label":"Primary Voltage"},
+{"rank":"40", "artist":"Fischerspooner", "album":"Odyssey ", "label":"Capitol"},
+{"rank":"41", "artist":"Dub Syndicate", "album":"Pure Thrillseekers ", "label":"Shanachie"},
+{"rank":"42", "artist":"Aqualung", "album":"Strange and Beautiful ", "label":"Red Ink/Columbia"},
+{"rank":"43", "artist":"Iron & Wine", "album":"Woman King ", "label":"Sub Pop"},
+{"rank":"44", "artist":"The Surfcoasters", "album":"Samurai Struck ", "label":"Five Nine Factory"},
+{"rank":"45", "artist":"Of Montreal", "album":"The Sunlandic Twins ", "label":"Polyvinyl"},
+{"rank":"46", "artist":"The Frames", "album":"Burn the Maps ", "label":"Anti-"},
+{"rank":"47", "artist":"Mogwai", "album":"Government Commissions BBC Sessions 1996-2003 ", "label":"Matador"},
+{"rank":"48", "artist":"Bright Eyes", "album":"I'm Wide Awake, It's Morning ", "label":"Saddle Creek"},
+{"rank":"49", "artist":"50 Foot Wave", "album":"Golden Ocean ", "label":"Throwing Music"},
+{"rank":"50", "artist":"I Am Kloot", "album":"I Am Kloot ", "label":"Echo/World's Fair"},
+{"rank":"51", "artist":"Solomon Burke", "album":"Make Do With What You Got ", "label":"Shout! Factory"},
+{"rank":"52", "artist":"Maximo Park", "album":"Apply Some Pressure ", "label":"Warp"},
+{"rank":"53", "artist":"Bettie Serveert", "album":"Attagirl ", "label":"Minty Fresh"},
+{"rank":"54", "artist":"Maktub", "album":"Say What You Mean ", "label":"Velour"},
+{"rank":"55", "artist":"Vic Chesnutt", "album":"Ghetto Bells ", "label":"New West"},
+{"rank":"56", "artist":"Spanish for 100", "album":"Metric ", "label":"self-released"},
+{"rank":"57", "artist":"Buck 65", "album":"This Right Here is Buck 65 ", "label":"V2"},
+{"rank":"58", "artist":"Supersuckers", "album":"Devil's Food ", "label":"Mid-Fi"},
+{"rank":"59", "artist":"Lou Barlow", "album":"Emoh ", "label":"Merge"},
+{"rank":"60", "artist":"Sam Prekop", "album":"Who's Your New Professor ", "label":"Thrill Jockey"},
+{"rank":"61", "artist":"Kasabian", "album":"Kasabian ", "label":"RCA"},
+{"rank":"62", "artist":"The Arcade Fire", "album":"Funeral ", "label":"Merge"},
+{"rank":"63", "artist":"Mando Diao", "album":"Hurricane Bar ", "label":"Mute"},
+{"rank":"64", "artist":"The Valley", "album":"The Valley ", "label":"Swingline"},
+{"rank":"65", "artist":"Math and Physics Club", "album":"Weekends Away ep ", "label":"Matinee"},
+{"rank":"66", "artist":"The Sights", "album":"The Sights ", "label":"New Line"},
+{"rank":"67", "artist":"Death Cab for Cutie", "album":"Title and Registration ", "label":"Barsuk"},
+{"rank":"68", "artist":"Bright Eyes", "album":"Digital Ash in a Digital Urn ", "label":"Saddle Creek"},
+{"rank":"69", "artist":"Stereo Total", "album":"Do the Bambi ", "label":"Kill Rock Stars"},
+{"rank":"70", "artist":"Key Note Speaker", "album":"Fiction ", "label":"self-released"},
+{"rank":"71", "artist":"Queens of the Stone Age", "album":"Lullabies to Paralyze ", "label":"Interscope"},
+{"rank":"72", "artist":"Los Super Seven", "album":"Heard it on the X ", "label":"Telarc"},
+{"rank":"73", "artist":"Al Green", "album":"Everything's OK ", "label":"Blue Note"},
+{"rank":"74", "artist":"The Raveonettes", "album":"A Touch of Black ", "label":"Columbia"},
+{"rank":"75", "artist":"Willie Hightower", "album":"Willie Hightower ", "label":"Honest Jons/Astralwerks"},
+{"rank":"76", "artist":"Ash", "album":"Meltdown ", "label":"Record Collection"},
+{"rank":"77", "artist":"At the Spine", "album":"First Day of Spring ", "label":"Global Seepej"},
+{"rank":"78", "artist":"Anna Coogan & North 19", "album":"Glory ", "label":"self-released"},
+{"rank":"79", "artist":"Justin Rutledge and the Junction Forty", "album":"No Never Alone ", "label":"Six Shooter"},
+{"rank":"80", "artist":"J.D. Hobson - Desert Road", "album":"", "label":"self-released"},
 
 April
-1. Mercury Rev - The Secret Migration (V2)
-2. Bloc Party - Silent Alarm (Vice)
-3. Beck - Guero (Interscope)
-4. The Mountain Goats - The Sunset Tree (4AD)
-5. Spoon - Gimme Fiction (Merge)
-6. The Raveonettes - Pretty in Black (Columbia)
-7. Eels - Blinking Lights and Other Revelations (Vagrant)
-8. The Decemberists - Picaresque (Kill Rock Stars)
-9. Hot Hot Heat - Elevator (Sire)
-10. Damien Jurado - On My Way to Absence (Secretly Canadian)
-11. Okkervil River - Black Sheep Boy (Jagjaguwar)
-12. The Go! Team - Thunder, Lightning, Strike (Memphis Industries)
-13. Lyrics Born - Same !@#$ Different Day (Quannum)
-14. The Ponys - Celebration Castle (In the Red)
-15. Husky Rescue - Country Falls (Minty Fresh)
-16. Brazilian Girls - Brazilian Girls (Verve Forecast)
-17. (Various) - Verve//Remixed 3 (Verve)
-18. Mike Doughty - Haughty Melodic (ATO)
-19. Moby - Hotel (V2)
-20. Kaiser Chiefs - Employment (Universal)
-21. The Bravery - The Bravery (Island)
-22. M.I.A. - Arular (XL)
-23. Mando Diao - Hurricane Bar (Mute)
-24. The Go-Betweens - Oceans Apart (Yep Roc)
-25. Z-Trip - Shifting Gears (Hollywood)
-26. The Wedding Present - Take Fountain (Manifesto)
-27. The National - Alligator (Beggars Banquet)
-28. The Cloud Room - The Cloud Room (Gigantic)
-29. Nikka Costa - Can'tneverdidnothin' (Virgin)
-30. The Perceptionists - Black Dialogue (Definitive Jux)
-31. Nouvelle Vague - Nouvelle Vague (Luaka Bop)
-32. Of Montreal - The Sunlandic Twins (Polyvinyl)
-33. New Order - Waiting for the Sirens' Call (Warner Bros)
-34. Fischerspooner - Odyssey (Capitol)
-35. Devin Davis - Lonely People of the World, Unite! (Mousse)
-36. British Sea Power - Open Season (Rough Trade)
-37. Sharon Jones and the Dap-Kings - Naturally (Daptone)
-38. Heavy Trash - Heavy Trash (Yep Roc)
-39. The Kills - No Wow (Rough Trade/RCA)
-40. 22-20s - 22-20s (Astralwerks)
-41. The Soundtrack of Our Lives - Origin Vol. 1 (Republic)
-42. Doves - Some Cities (Capitol)
-43. Amusement Parks on Fire - Amusement Parks on Fire (Filter US)
-44. Stars - Set Yourself on Fire (Arts & Crafts)
-45. Aimee Mann - The Forgotten Arm (SuperEgo)
-46. Crystal Skulls - Blocked Numbers (Suicide Squeeze)
-47. (Various) - Soul Fire: The Majestic Collection (Truth & Soul/Fastlife)
-48. Thievery Corporation - The Cosmic Game (Eighteenth Street Lounge)
-49. (Various) - World Psychedelic Classics 3: Love's a Real Thing (Luaka Bop)
-50. Math and Physics Club - Weekends Away ep (Matinee)
-51. Rockethouse - Weapons of Mass Distortion (Kanine)
-52. Aqualung - Strange and Beautiful (Red Ink/Columbia)
-53. Tullycraft - Disenchanted Hearts Unite (Magic Marker)
-54. Los Super Seven - Heard it on the X (Telarc)
-55. The White Stripes - Get Behind Me Satan (V2)
-56. LCD Soundsystem - LCD Soundsystem (DFA/EMI)
-57. Ivy - In the Clear (Nettwerk)
-58. Queens of the Stone Age - Lullabies to Paralyze (Interscope)
-59. The Sights - The Sights (New Line)
-60. Solomon Burke - Make Do With What You Got (Shout! Factory)
-61. Luke Temple - Hold A Match For A Gasoline World (Mill Pond)
-62. Maktub - Say What You Mean (Velour)
-63. The Charming Snakes - Ammunition (Dirtnap)
-64. Love as Laughter - Laughter's Fifth (Sub Pop)
-65. At the Spine - First Day of Spring (Global Seepej)
-66. Out Hud - Let Us Never Speak Of It Again (Kranky)
-67. Annie - Anniemal (Big Beat)
-68. Sam Prekop - Who's Your New Professor (Thrill Jockey)
-69. Ryan Adams & the Cardinals - Cold Roses (Lost Highway)
-70. Iron & Wine - Woman King (Sub Pop)
-71. Architecture in Helsinki - In Case We Die (Bar/None)
-72. Coldplay - X&Y (Capitol)
-73. 50 Foot Wave - Golden Ocean (Throwing Music)
-74. Crooked Fingers - Dignity and Shame (Merge)
-75. Dub Syndicate - Pure Thrillseekers (Shanachie)
-76. Ben Lee - Awake is the New Sleep (New West)
-77. Spanish for 100 - Metric (self-released)
-78. Gillian Welch - Black Star (Acony)
-79. Supersuckers - Devil's Food (Mid-Fi)
-80. Vic Chesnutt - Ghetto Bells (New West)
+{"rank":"1", "artist":"Mercury Rev", "album":"The Secret Migration ", "label":"V2"},
+{"rank":"2", "artist":"Bloc Party", "album":"Silent Alarm ", "label":"Vice"},
+{"rank":"3", "artist":"Beck", "album":"Guero ", "label":"Interscope"},
+{"rank":"4", "artist":"The Mountain Goats", "album":"The Sunset Tree ", "label":"4AD"},
+{"rank":"5", "artist":"Spoon", "album":"Gimme Fiction ", "label":"Merge"},
+{"rank":"6", "artist":"The Raveonettes", "album":"Pretty in Black ", "label":"Columbia"},
+{"rank":"7", "artist":"Eels", "album":"Blinking Lights and Other Revelations ", "label":"Vagrant"},
+{"rank":"8", "artist":"The Decemberists", "album":"Picaresque ", "label":"Kill Rock Stars"},
+{"rank":"9", "artist":"Hot Hot Heat", "album":"Elevator ", "label":"Sire"},
+{"rank":"10", "artist":"Damien Jurado", "album":"On My Way to Absence ", "label":"Secretly Canadian"},
+{"rank":"11", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"12", "artist":"The Go! Team", "album":"Thunder, Lightning, Strike ", "label":"Memphis Industries"},
+{"rank":"13", "artist":"Lyrics Born", "album":"Same !@#$ Different Day ", "label":"Quannum"},
+{"rank":"14", "artist":"The Ponys", "album":"Celebration Castle ", "label":"In the Red"},
+{"rank":"15", "artist":"Husky Rescue", "album":"Country Falls ", "label":"Minty Fresh"},
+{"rank":"16", "artist":"Brazilian Girls", "album":"Brazilian Girls ", "label":"Verve Forecast"},
+{"rank":"17", "artist":"(Various)", "album":"Verve//Remixed 3 ", "label":"Verve"},
+{"rank":"18", "artist":"Mike Doughty", "album":"Haughty Melodic ", "label":"ATO"},
+{"rank":"19", "artist":"Moby", "album":"Hotel ", "label":"V2"},
+{"rank":"20", "artist":"Kaiser Chiefs", "album":"Employment ", "label":"Universal"},
+{"rank":"21", "artist":"The Bravery", "album":"The Bravery ", "label":"Island"},
+{"rank":"22", "artist":"M.I.A.", "album":"Arular ", "label":"XL"},
+{"rank":"23", "artist":"Mando Diao", "album":"Hurricane Bar ", "label":"Mute"},
+{"rank":"24", "artist":"The Go-Betweens", "album":"Oceans Apart ", "label":"Yep Roc"},
+{"rank":"25", "artist":"Z-Trip", "album":"Shifting Gears ", "label":"Hollywood"},
+{"rank":"26", "artist":"The Wedding Present", "album":"Take Fountain ", "label":"Manifesto"},
+{"rank":"27", "artist":"The National", "album":"Alligator ", "label":"Beggars Banquet"},
+{"rank":"28", "artist":"The Cloud Room", "album":"The Cloud Room ", "label":"Gigantic"},
+{"rank":"29", "artist":"Nikka Costa", "album":"Can'tneverdidnothin' ", "label":"Virgin"},
+{"rank":"30", "artist":"The Perceptionists", "album":"Black Dialogue ", "label":"Definitive Jux"},
+{"rank":"31", "artist":"Nouvelle Vague", "album":"Nouvelle Vague ", "label":"Luaka Bop"},
+{"rank":"32", "artist":"Of Montreal", "album":"The Sunlandic Twins ", "label":"Polyvinyl"},
+{"rank":"33", "artist":"New Order", "album":"Waiting for the Sirens' Call ", "label":"Warner Bros"},
+{"rank":"34", "artist":"Fischerspooner", "album":"Odyssey ", "label":"Capitol"},
+{"rank":"35", "artist":"Devin Davis", "album":"Lonely People of the World, Unite! ", "label":"Mousse"},
+{"rank":"36", "artist":"British Sea Power", "album":"Open Season ", "label":"Rough Trade"},
+{"rank":"37", "artist":"Sharon Jones and the Dap-Kings", "album":"Naturally ", "label":"Daptone"},
+{"rank":"38", "artist":"Heavy Trash", "album":"Heavy Trash ", "label":"Yep Roc"},
+{"rank":"39", "artist":"The Kills", "album":"No Wow ", "label":"Rough Trade/RCA"},
+{"rank":"40", "artist":"22-20s", "album":"22-20s ", "label":"Astralwerks"},
+{"rank":"41", "artist":"The Soundtrack of Our Lives", "album":"Origin Vol. 1 ", "label":"Republic"},
+{"rank":"42", "artist":"Doves", "album":"Some Cities ", "label":"Capitol"},
+{"rank":"43", "artist":"Amusement Parks on Fire", "album":"Amusement Parks on Fire ", "label":"Filter US"},
+{"rank":"44", "artist":"Stars", "album":"Set Yourself on Fire ", "label":"Arts & Crafts"},
+{"rank":"45", "artist":"Aimee Mann", "album":"The Forgotten Arm ", "label":"SuperEgo"},
+{"rank":"46", "artist":"Crystal Skulls", "album":"Blocked Numbers ", "label":"Suicide Squeeze"},
+{"rank":"47", "artist":"(Various)", "album":"Soul Fire: The Majestic Collection ", "label":"Truth & Soul/Fastlife"},
+{"rank":"48", "artist":"Thievery Corporation", "album":"The Cosmic Game ", "label":"Eighteenth Street Lounge"},
+{"rank":"49", "artist":"(Various)", "album":"World Psychedelic Classics 3: Love's a Real Thing ", "label":"Luaka Bop"},
+{"rank":"50", "artist":"Math and Physics Club", "album":"Weekends Away ep ", "label":"Matinee"},
+{"rank":"51", "artist":"Rockethouse", "album":"Weapons of Mass Distortion ", "label":"Kanine"},
+{"rank":"52", "artist":"Aqualung", "album":"Strange and Beautiful ", "label":"Red Ink/Columbia"},
+{"rank":"53", "artist":"Tullycraft", "album":"Disenchanted Hearts Unite ", "label":"Magic Marker"},
+{"rank":"54", "artist":"Los Super Seven", "album":"Heard it on the X ", "label":"Telarc"},
+{"rank":"55", "artist":"The White Stripes", "album":"Get Behind Me Satan ", "label":"V2"},
+{"rank":"56", "artist":"LCD Soundsystem", "album":"LCD Soundsystem ", "label":"DFA/EMI"},
+{"rank":"57", "artist":"Ivy", "album":"In the Clear ", "label":"Nettwerk"},
+{"rank":"58", "artist":"Queens of the Stone Age", "album":"Lullabies to Paralyze ", "label":"Interscope"},
+{"rank":"59", "artist":"The Sights", "album":"The Sights ", "label":"New Line"},
+{"rank":"60", "artist":"Solomon Burke", "album":"Make Do With What You Got ", "label":"Shout! Factory"},
+{"rank":"61", "artist":"Luke Temple", "album":"Hold A Match For A Gasoline World ", "label":"Mill Pond"},
+{"rank":"62", "artist":"Maktub", "album":"Say What You Mean ", "label":"Velour"},
+{"rank":"63", "artist":"The Charming Snakes", "album":"Ammunition ", "label":"Dirtnap"},
+{"rank":"64", "artist":"Love as Laughter", "album":"Laughter's Fifth ", "label":"Sub Pop"},
+{"rank":"65", "artist":"At the Spine", "album":"First Day of Spring ", "label":"Global Seepej"},
+{"rank":"66", "artist":"Out Hud", "album":"Let Us Never Speak Of It Again ", "label":"Kranky"},
+{"rank":"67", "artist":"Annie", "album":"Anniemal ", "label":"Big Beat"},
+{"rank":"68", "artist":"Sam Prekop", "album":"Who's Your New Professor ", "label":"Thrill Jockey"},
+{"rank":"69", "artist":"Ryan Adams & the Cardinals", "album":"Cold Roses ", "label":"Lost Highway"},
+{"rank":"70", "artist":"Iron & Wine", "album":"Woman King ", "label":"Sub Pop"},
+{"rank":"71", "artist":"Architecture in Helsinki", "album":"In Case We Die ", "label":"Bar/None"},
+{"rank":"72", "artist":"Coldplay", "album":"X&Y ", "label":"Capitol"},
+{"rank":"73", "artist":"50 Foot Wave", "album":"Golden Ocean ", "label":"Throwing Music"},
+{"rank":"74", "artist":"Crooked Fingers", "album":"Dignity and Shame ", "label":"Merge"},
+{"rank":"75", "artist":"Dub Syndicate", "album":"Pure Thrillseekers ", "label":"Shanachie"},
+{"rank":"76", "artist":"Ben Lee", "album":"Awake is the New Sleep ", "label":"New West"},
+{"rank":"77", "artist":"Spanish for 100", "album":"Metric ", "label":"self-released"},
+{"rank":"78", "artist":"Gillian Welch", "album":"Black Star ", "label":"Acony"},
+{"rank":"79", "artist":"Supersuckers", "album":"Devil's Food ", "label":"Mid-Fi"},
+{"rank":"80", "artist":"Vic Chesnutt", "album":"Ghetto Bells ", "label":"New West"},
 
 May
-1. (Various) - Live at KEXP Volume One (KEXP)
-2. Beck - Guero (Interscope)
-3. Sleater-Kinney - The Woods (Sub Pop)
-4. Common - Be (Good/Geffen)
-5. Spoon - Gimme Fiction (Merge)
-6. Aqualung - Strange and Beautiful (Red Ink/Columbia)
-7. Mercury Rev - The Secret Migration (V2)
-8. Bloc Party - Silent Alarm (Vice)
-9. Eels - Blinking Lights and Other Revelations (Vagrant)
-10. Gorillaz - Demon Days (Virgin)
-11. Okkervil River - Black Sheep Boy (Jagjaguwar)
-12. The Go! Team - Thunder, Lightning, Strike (Memphis Industries)
-13. The Ponys - Celebration Castle (In the Red)
-14. The Hold Steady - Separation Sunday (Frenchkiss)
-15. The Mountain Goats - The Sunset Tree (4AD)
-16. The Raveonettes - Pretty in Black (Columbia)
-17. Maximo Park - A Certain Trigger (Warp)
-18. Stephen Malkmus - Face the Truth (Matador)
-19. Of Montreal - The Sunlandic Twins (Polyvinyl)
-20. Christy McWilson - Think for Yourself (self-released)
-21. Blue Scholars - Blue Scholars (self-released)
-22. The Lucksmiths - Warmer Corners (Matinee)
-23. Ryan Adams & the Cardinals - Cold Roses (Lost Highway)
-24. The Dead 60s - The Dead 60s (Epic)
-25. Amusement Parks on Fire - Amusement Parks on Fire (Filter US)
-26. The Perceptionists - Black Dialogue (Definitive Jux)
-27. Nikka Costa - Can'tneverdidnothin' (Virgin)
-28. The Decemberists - Picaresque (Kill Rock Stars)
-29. Husky Rescue - Country Falls (Minty Fresh)
-30. British Sea Power - Open Season (Rough Trade)
-31. Lyrics Born - Same !@#$ Different Day (Quannum)
-32. Youth Group - Skeleton Jar (Epitaph)
-33. Langhorne Slim - When the Sun's Gone Down (Narnack)
-34. Hot Hot Heat - Elevator (Sire)
-35. Tom Brosseau - What I Mean to Say is Goodbye (Loveless)
-36. The Knitters - The Modern Sounds of the Knitters (Zoe)
-37. Z-Trip - Shifting Gears (Hollywood)
-38. (Various) - Verve//Remixed 3 (Verve)
-39. Longwave - There's a Fire (RCA)
-40. Heavy Trash - Heavy Trash (Yep Roc)
-41. The White Stripes - Get Behind Me Satan (V2)
-42. Thievery Corporation - The Cosmic Game (Eighteenth Street Lounge)
-43. Damien Jurado - On My Way to Absence (Secretly Canadian)
-44. Rockethouse - Weapons of Mass Distortion (Kanine)
-45. Devin Davis - Lonely People of the World, Unite! (Mousse)
-46. Caribou - The Milk of Human Kindness (Domino)
-47. Nouvelle Vague - Nouvelle Vague (Luaka Bop)
-48. Feist - Let it Die (Cherrytree/Interscope)
-49. Kaiser Chiefs - Employment (Universal)
-50. Coldplay - X&Y (Capitol)
-51. Love as Laughter - Laughter's Fifth (Sub Pop)
-52. Four Tet - Everything Ecstatic (Domino)
-53. M.I.A. - Arular (XL)
-54. Henry Hanks - Henry Hanks (self-released)
-55. M83 - Before the Dawn Heals Us (Mute)
-56. The National - Alligator (Beggars Banquet)
-57. Hal - Hal (Rough Trade)
-58. The Go-Betweens - Oceans Apart (Yep Roc)
-59. Mike Doughty - Haughty Melodic (ATO)
-60. The Bravery - The Bravery (Island)
-61. The Cloud Room - The Cloud Room (Gigantic)
-62. The Sames - You Are the Sames (Pox World Empire)
-63. Luke Temple - Hold A Match For A Gasoline World (Mill Pond)
-64. Dear Darling - Songs of Friends and Family (self-released)
-65. The Prayers & Tears of Arthur Digby Sellers - The Mother of Love Emulates the Shapes of Cynthia (Bu Hanan)
-66. DJ Spooky That Subliminal Kid & Dave Lombardo - Drums of Death (Thirsty Ear)
-67. The New Pornographers - Twin Cinema (Matador)
-68. Headphones - Headphones (Suicide Squeeze)
-69. Tullycraft - Disenchanted Hearts Unite (Magic Marker)
-70. Crystal Skulls - Blocked Numbers (Suicide Squeeze)
-71. The Pale Pacific - Rules are Predictable (SideCho)
-72. Hard Money Saints - You're Scarin' Me (self-released)
-73. Gillian Welch - Black Star (Acony)
-74. Foreign Born - In the Remote Woods (Startime International)
-75. The Surfcoasters - Samurai Struck (Five Nine Factory)
-76. Smog - A River Ain't Too Much to Love (Drag City)
-77. The Quantic Soul Orchestra - Pushin On (Ubiquity)
-78. New Order - Waiting for the Sirens' Call (Warner Bros)
-79. The Redwalls - De Nova (Capitol)
-80. Architecture in Helsinki - In Case We Die (Bar/None)
+{"rank":"1", "artist":"(Various)", "album":"Live at KEXP Volume One ", "label":"KEXP"},
+{"rank":"2", "artist":"Beck", "album":"Guero ", "label":"Interscope"},
+{"rank":"3", "artist":"Sleater-Kinney", "album":"The Woods ", "label":"Sub Pop"},
+{"rank":"4", "artist":"Common", "album":"Be ", "label":"Good/Geffen"},
+{"rank":"5", "artist":"Spoon", "album":"Gimme Fiction ", "label":"Merge"},
+{"rank":"6", "artist":"Aqualung", "album":"Strange and Beautiful ", "label":"Red Ink/Columbia"},
+{"rank":"7", "artist":"Mercury Rev", "album":"The Secret Migration ", "label":"V2"},
+{"rank":"8", "artist":"Bloc Party", "album":"Silent Alarm ", "label":"Vice"},
+{"rank":"9", "artist":"Eels", "album":"Blinking Lights and Other Revelations ", "label":"Vagrant"},
+{"rank":"10", "artist":"Gorillaz", "album":"Demon Days ", "label":"Virgin"},
+{"rank":"11", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"12", "artist":"The Go! Team", "album":"Thunder, Lightning, Strike ", "label":"Memphis Industries"},
+{"rank":"13", "artist":"The Ponys", "album":"Celebration Castle ", "label":"In the Red"},
+{"rank":"14", "artist":"The Hold Steady", "album":"Separation Sunday ", "label":"Frenchkiss"},
+{"rank":"15", "artist":"The Mountain Goats", "album":"The Sunset Tree ", "label":"4AD"},
+{"rank":"16", "artist":"The Raveonettes", "album":"Pretty in Black ", "label":"Columbia"},
+{"rank":"17", "artist":"Maximo Park", "album":"A Certain Trigger ", "label":"Warp"},
+{"rank":"18", "artist":"Stephen Malkmus", "album":"Face the Truth ", "label":"Matador"},
+{"rank":"19", "artist":"Of Montreal", "album":"The Sunlandic Twins ", "label":"Polyvinyl"},
+{"rank":"20", "artist":"Christy McWilson", "album":"Think for Yourself ", "label":"self-released"},
+{"rank":"21", "artist":"Blue Scholars", "album":"Blue Scholars ", "label":"self-released"},
+{"rank":"22", "artist":"The Lucksmiths", "album":"Warmer Corners ", "label":"Matinee"},
+{"rank":"23", "artist":"Ryan Adams & the Cardinals", "album":"Cold Roses ", "label":"Lost Highway"},
+{"rank":"24", "artist":"The Dead 60s", "album":"The Dead 60s ", "label":"Epic"},
+{"rank":"25", "artist":"Amusement Parks on Fire", "album":"Amusement Parks on Fire ", "label":"Filter US"},
+{"rank":"26", "artist":"The Perceptionists", "album":"Black Dialogue ", "label":"Definitive Jux"},
+{"rank":"27", "artist":"Nikka Costa", "album":"Can'tneverdidnothin' ", "label":"Virgin"},
+{"rank":"28", "artist":"The Decemberists", "album":"Picaresque ", "label":"Kill Rock Stars"},
+{"rank":"29", "artist":"Husky Rescue", "album":"Country Falls ", "label":"Minty Fresh"},
+{"rank":"30", "artist":"British Sea Power", "album":"Open Season ", "label":"Rough Trade"},
+{"rank":"31", "artist":"Lyrics Born", "album":"Same !@#$ Different Day ", "label":"Quannum"},
+{"rank":"32", "artist":"Youth Group", "album":"Skeleton Jar ", "label":"Epitaph"},
+{"rank":"33", "artist":"Langhorne Slim", "album":"When the Sun's Gone Down ", "label":"Narnack"},
+{"rank":"34", "artist":"Hot Hot Heat", "album":"Elevator ", "label":"Sire"},
+{"rank":"35", "artist":"Tom Brosseau", "album":"What I Mean to Say is Goodbye ", "label":"Loveless"},
+{"rank":"36", "artist":"The Knitters", "album":"The Modern Sounds of the Knitters ", "label":"Zoe"},
+{"rank":"37", "artist":"Z-Trip", "album":"Shifting Gears ", "label":"Hollywood"},
+{"rank":"38", "artist":"(Various)", "album":"Verve//Remixed 3 ", "label":"Verve"},
+{"rank":"39", "artist":"Longwave", "album":"There's a Fire ", "label":"RCA"},
+{"rank":"40", "artist":"Heavy Trash", "album":"Heavy Trash ", "label":"Yep Roc"},
+{"rank":"41", "artist":"The White Stripes", "album":"Get Behind Me Satan ", "label":"V2"},
+{"rank":"42", "artist":"Thievery Corporation", "album":"The Cosmic Game ", "label":"Eighteenth Street Lounge"},
+{"rank":"43", "artist":"Damien Jurado", "album":"On My Way to Absence ", "label":"Secretly Canadian"},
+{"rank":"44", "artist":"Rockethouse", "album":"Weapons of Mass Distortion ", "label":"Kanine"},
+{"rank":"45", "artist":"Devin Davis", "album":"Lonely People of the World, Unite! ", "label":"Mousse"},
+{"rank":"46", "artist":"Caribou", "album":"The Milk of Human Kindness ", "label":"Domino"},
+{"rank":"47", "artist":"Nouvelle Vague", "album":"Nouvelle Vague ", "label":"Luaka Bop"},
+{"rank":"48", "artist":"Feist", "album":"Let it Die ", "label":"Cherrytree/Interscope"},
+{"rank":"49", "artist":"Kaiser Chiefs", "album":"Employment ", "label":"Universal"},
+{"rank":"50", "artist":"Coldplay", "album":"X&Y ", "label":"Capitol"},
+{"rank":"51", "artist":"Love as Laughter", "album":"Laughter's Fifth ", "label":"Sub Pop"},
+{"rank":"52", "artist":"Four Tet", "album":"Everything Ecstatic ", "label":"Domino"},
+{"rank":"53", "artist":"M.I.A.", "album":"Arular ", "label":"XL"},
+{"rank":"54", "artist":"Henry Hanks", "album":"Henry Hanks ", "label":"self-released"},
+{"rank":"55", "artist":"M83", "album":"Before the Dawn Heals Us ", "label":"Mute"},
+{"rank":"56", "artist":"The National", "album":"Alligator ", "label":"Beggars Banquet"},
+{"rank":"57", "artist":"Hal", "album":"Hal ", "label":"Rough Trade"},
+{"rank":"58", "artist":"The Go-Betweens", "album":"Oceans Apart ", "label":"Yep Roc"},
+{"rank":"59", "artist":"Mike Doughty", "album":"Haughty Melodic ", "label":"ATO"},
+{"rank":"60", "artist":"The Bravery", "album":"The Bravery ", "label":"Island"},
+{"rank":"61", "artist":"The Cloud Room", "album":"The Cloud Room ", "label":"Gigantic"},
+{"rank":"62", "artist":"The Sames", "album":"You Are the Sames ", "label":"Pox World Empire"},
+{"rank":"63", "artist":"Luke Temple", "album":"Hold A Match For A Gasoline World ", "label":"Mill Pond"},
+{"rank":"64", "artist":"Dear Darling", "album":"Songs of Friends and Family ", "label":"self-released"},
+{"rank":"65", "artist":"The Prayers & Tears of Arthur Digby Sellers", "album":"The Mother of Love Emulates the Shapes of Cynthia ", "label":"Bu Hanan"},
+{"rank":"66", "artist":"DJ Spooky That Subliminal Kid & Dave Lombardo", "album":"Drums of Death ", "label":"Thirsty Ear"},
+{"rank":"67", "artist":"The New Pornographers", "album":"Twin Cinema ", "label":"Matador"},
+{"rank":"68", "artist":"Headphones", "album":"Headphones ", "label":"Suicide Squeeze"},
+{"rank":"69", "artist":"Tullycraft", "album":"Disenchanted Hearts Unite ", "label":"Magic Marker"},
+{"rank":"70", "artist":"Crystal Skulls", "album":"Blocked Numbers ", "label":"Suicide Squeeze"},
+{"rank":"71", "artist":"The Pale Pacific", "album":"Rules are Predictable ", "label":"SideCho"},
+{"rank":"72", "artist":"Hard Money Saints", "album":"You're Scarin' Me ", "label":"self-released"},
+{"rank":"73", "artist":"Gillian Welch", "album":"Black Star ", "label":"Acony"},
+{"rank":"74", "artist":"Foreign Born", "album":"In the Remote Woods ", "label":"Startime International"},
+{"rank":"75", "artist":"The Surfcoasters", "album":"Samurai Struck ", "label":"Five Nine Factory"},
+{"rank":"76", "artist":"Smog", "album":"A River Ain't Too Much to Love ", "label":"Drag City"},
+{"rank":"77", "artist":"The Quantic Soul Orchestra", "album":"Pushin On ", "label":"Ubiquity"},
+{"rank":"78", "artist":"New Order", "album":"Waiting for the Sirens' Call ", "label":"Warner Bros"},
+{"rank":"79", "artist":"The Redwalls", "album":"De Nova ", "label":"Capitol"},
+{"rank":"80", "artist":"Architecture in Helsinki", "album":"In Case We Die ", "label":"Bar/None"},
 
 June
-1. Spoon - Gimme Fiction (Merge)
-2. Youth Group - Skeleton Jar (Epitaph)
-3. Sufjan Stevens - Illinois (Asthmatic Kitty)
-4. Common - Be (Good/Geffen)
-5. Eels - Blinking Lights and Other Revelations (Vagrant)
-6. Beck - Guero (Interscope)
-7. The White Stripes - Get Behind Me Satan (V2)
-8. Sleater-Kinney - The Woods (Sub Pop)
-9. The Mountain Goats - The Sunset Tree (4AD)
-10. The Raveonettes - Pretty in Black (Columbia)
-11. Okkervil River - Black Sheep Boy (Jagjaguwar)
-12. The Go! Team - Thunder, Lightning, Strike (Memphis Industries)
-13. Maximo Park - A Certain Trigger (Warp)
-14. The Ponys - Celebration Castle (In the Red)
-15. The Hold Steady - Separation Sunday (Frenchkiss)
-16. DJ Shadow - Endtroducing (Deluxe Edition) (Island)
-17. Mono in VCF - The Voltage Control EP (self-released)
-18. Gorillaz - Demon Days (Virgin)
-19. Rachid Taha - Tekitoi (Wrasse)
-20. Tom Brosseau - What I Mean to Say is Goodbye (Loveless)
-21. Longwave - There's a Fire (RCA)
-22. Stephen Malkmus - Face the Truth (Matador)
-23. Husky Rescue - Country Falls (Minty Fresh)
-24. Bloc Party - Silent Alarm (Vice)
-25. Lyrics Born - Same !@#$ Different Day (Quannum)
-26. Cloud Cult - Advice from the Happy Hippopotamus (Earthology)
-27. Teenage Fanclub - Man-Made (Merge)
-28. Nikka Costa - Can'tneverdidnothin' (Virgin)
-29. Son Volt - Okemah and the Melody of Riot (Transmit Sound/Legacy)
-30. Caribou - The Milk of Human Kindness (Domino)
-31. Ryan Adams & the Cardinals - Cold Roses (Lost Highway)
-32. Blue Scholars - Blue Scholars (self-released)
-33. The Perceptionists - Black Dialogue (Definitive Jux)
-34. A Band of Bees - Free the Bees (Astralwerks)
-35. Coldplay - X&Y (Capitol)
-36. The Dead 60s - The Dead 60s (Epic)
-37. Pernice Brothers - Discover a Lovelier You (Ashmont)
-38. Feist - Let it Die (Cherrytree/Interscope)
-39. Sharon Jones and the Dap-Kings - Naturally (Daptone)
-40. Z-Trip - Shifting Gears (Hollywood)
-41. Hot Hot Heat - Elevator (Sire)
-42. Mercury Rev - The Secret Migration (V2)
-43. The Knitters - The Modern Sounds of the Knitters (Zoe)
-44. Damien Jurado - On My Way to Absence (Secretly Canadian)
-45. The Cloud Room - The Cloud Room (Gigantic)
-46. Devin Davis - Lonely People of the World, Unite! (Mousse)
-47. Langhorne Slim - When the Sun's Gone Down (Narnack)
-48. The Earaches - Get the Revolution Out of Your Head (Steel Cage)
-49. (Various) - Verve//Remixed 3 (Verve)
-50. The Quantic Soul Orchestra - Pushin On (Ubiquity)
-51. Amusement Parks on Fire - Amusement Parks on Fire (Filter US)
-52. The Lucksmiths - Warmer Corners (Matinee)
-53. Christy McWilson - Think for Yourself (self-released)
-54. Troubled Hubble - Making Beds in a Burning House (Lookout)
-55. Corey Harris - Daily Bread (Rounder)
-56. Rock 'n' Roll Soldiers - The Two EPs (Eastwest)
-57. The Prayers & Tears of Arthur Digby Sellers - The Mother of Love Emulates the Shapes of Cynthia (Bu Hanan)
-58. Smog - A River Ain't Too Much to Love (Drag City)
-59. The Go-Betweens - Oceans Apart (Yep Roc)
-60. Silver Screen - The Greatest Story Never Told (Clairecords)
-61. The Sames - You Are the Sames (Pox World Empire)
-62. Hal - Hal (Rough Trade)
-63. The Emergency - Far Out! (Heavy Soul)
-64. Tullycraft - Disenchanted Hearts Unite (Magic Marker)
-65. Dear Darling - Songs of Friends and Family (self-released)
-66. Kimone - The Mill (Silverthree)
-67. The National - Alligator (Beggars Banquet)
-68. Four Tet - Everything Ecstatic (Domino)
-69. The Decemberists - Picaresque (Kill Rock Stars)
-70. M.I.A. - Arular (XL)
-71. The Wedding Present - Take Fountain (Manifesto)
-72. Brazilian Girls - Brazilian Girls (Verve Forecast)
-73. New Order - Waiting for the Sirens' Call (Warner Bros)
-74. Turin Brakes - Jackinabox (Astralwerks)
-75. M83 - Before the Dawn Heals Us (Mute)
-76. Shelby Lynne - Suit Yourself (Capitol)
-77. The Charming Snakes - Ammunition (Dirtnap)
-78. Seashells - Remains of Something Sweet (Quince)
-79. Foreign Born - In the Remote Woods (Startime International)
-80. (Various) - Soul Fire: The Majestic Collection (Truth & Soul/Fastlife)
+{"rank":"1", "artist":"Spoon", "album":"Gimme Fiction ", "label":"Merge"},
+{"rank":"2", "artist":"Youth Group", "album":"Skeleton Jar ", "label":"Epitaph"},
+{"rank":"3", "artist":"Sufjan Stevens", "album":"Illinois ", "label":"Asthmatic Kitty"},
+{"rank":"4", "artist":"Common", "album":"Be ", "label":"Good/Geffen"},
+{"rank":"5", "artist":"Eels", "album":"Blinking Lights and Other Revelations ", "label":"Vagrant"},
+{"rank":"6", "artist":"Beck", "album":"Guero ", "label":"Interscope"},
+{"rank":"7", "artist":"The White Stripes", "album":"Get Behind Me Satan ", "label":"V2"},
+{"rank":"8", "artist":"Sleater-Kinney", "album":"The Woods ", "label":"Sub Pop"},
+{"rank":"9", "artist":"The Mountain Goats", "album":"The Sunset Tree ", "label":"4AD"},
+{"rank":"10", "artist":"The Raveonettes", "album":"Pretty in Black ", "label":"Columbia"},
+{"rank":"11", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"12", "artist":"The Go! Team", "album":"Thunder, Lightning, Strike ", "label":"Memphis Industries"},
+{"rank":"13", "artist":"Maximo Park", "album":"A Certain Trigger ", "label":"Warp"},
+{"rank":"14", "artist":"The Ponys", "album":"Celebration Castle ", "label":"In the Red"},
+{"rank":"15", "artist":"The Hold Steady", "album":"Separation Sunday ", "label":"Frenchkiss"},
+{"rank":"16", "artist":"DJ Shadow", "album":"Endtroducing (Deluxe Edition) ", "label":"Island"},
+{"rank":"17", "artist":"Mono in VCF", "album":"The Voltage Control EP ", "label":"self-released"},
+{"rank":"18", "artist":"Gorillaz", "album":"Demon Days ", "label":"Virgin"},
+{"rank":"19", "artist":"Rachid Taha", "album":"Tekitoi ", "label":"Wrasse"},
+{"rank":"20", "artist":"Tom Brosseau", "album":"What I Mean to Say is Goodbye ", "label":"Loveless"},
+{"rank":"21", "artist":"Longwave", "album":"There's a Fire ", "label":"RCA"},
+{"rank":"22", "artist":"Stephen Malkmus", "album":"Face the Truth ", "label":"Matador"},
+{"rank":"23", "artist":"Husky Rescue", "album":"Country Falls ", "label":"Minty Fresh"},
+{"rank":"24", "artist":"Bloc Party", "album":"Silent Alarm ", "label":"Vice"},
+{"rank":"25", "artist":"Lyrics Born", "album":"Same !@#$ Different Day ", "label":"Quannum"},
+{"rank":"26", "artist":"Cloud Cult", "album":"Advice from the Happy Hippopotamus ", "label":"Earthology"},
+{"rank":"27", "artist":"Teenage Fanclub", "album":"Man-Made ", "label":"Merge"},
+{"rank":"28", "artist":"Nikka Costa", "album":"Can'tneverdidnothin' ", "label":"Virgin"},
+{"rank":"29", "artist":"Son Volt", "album":"Okemah and the Melody of Riot ", "label":"Transmit Sound/Legacy"},
+{"rank":"30", "artist":"Caribou", "album":"The Milk of Human Kindness ", "label":"Domino"},
+{"rank":"31", "artist":"Ryan Adams & the Cardinals", "album":"Cold Roses ", "label":"Lost Highway"},
+{"rank":"32", "artist":"Blue Scholars", "album":"Blue Scholars ", "label":"self-released"},
+{"rank":"33", "artist":"The Perceptionists", "album":"Black Dialogue ", "label":"Definitive Jux"},
+{"rank":"34", "artist":"A Band of Bees", "album":"Free the Bees ", "label":"Astralwerks"},
+{"rank":"35", "artist":"Coldplay", "album":"X&Y ", "label":"Capitol"},
+{"rank":"36", "artist":"The Dead 60s", "album":"The Dead 60s ", "label":"Epic"},
+{"rank":"37", "artist":"Pernice Brothers", "album":"Discover a Lovelier You ", "label":"Ashmont"},
+{"rank":"38", "artist":"Feist", "album":"Let it Die ", "label":"Cherrytree/Interscope"},
+{"rank":"39", "artist":"Sharon Jones and the Dap-Kings", "album":"Naturally ", "label":"Daptone"},
+{"rank":"40", "artist":"Z-Trip", "album":"Shifting Gears ", "label":"Hollywood"},
+{"rank":"41", "artist":"Hot Hot Heat", "album":"Elevator ", "label":"Sire"},
+{"rank":"42", "artist":"Mercury Rev", "album":"The Secret Migration ", "label":"V2"},
+{"rank":"43", "artist":"The Knitters", "album":"The Modern Sounds of the Knitters ", "label":"Zoe"},
+{"rank":"44", "artist":"Damien Jurado", "album":"On My Way to Absence ", "label":"Secretly Canadian"},
+{"rank":"45", "artist":"The Cloud Room", "album":"The Cloud Room ", "label":"Gigantic"},
+{"rank":"46", "artist":"Devin Davis", "album":"Lonely People of the World, Unite! ", "label":"Mousse"},
+{"rank":"47", "artist":"Langhorne Slim", "album":"When the Sun's Gone Down ", "label":"Narnack"},
+{"rank":"48", "artist":"The Earaches", "album":"Get the Revolution Out of Your Head ", "label":"Steel Cage"},
+{"rank":"49", "artist":"(Various)", "album":"Verve//Remixed 3 ", "label":"Verve"},
+{"rank":"50", "artist":"The Quantic Soul Orchestra", "album":"Pushin On ", "label":"Ubiquity"},
+{"rank":"51", "artist":"Amusement Parks on Fire", "album":"Amusement Parks on Fire ", "label":"Filter US"},
+{"rank":"52", "artist":"The Lucksmiths", "album":"Warmer Corners ", "label":"Matinee"},
+{"rank":"53", "artist":"Christy McWilson", "album":"Think for Yourself ", "label":"self-released"},
+{"rank":"54", "artist":"Troubled Hubble", "album":"Making Beds in a Burning House ", "label":"Lookout"},
+{"rank":"55", "artist":"Corey Harris", "album":"Daily Bread ", "label":"Rounder"},
+{"rank":"56", "artist":"Rock 'n' Roll Soldiers", "album":"The Two EPs ", "label":"Eastwest"},
+{"rank":"57", "artist":"The Prayers & Tears of Arthur Digby Sellers", "album":"The Mother of Love Emulates the Shapes of Cynthia ", "label":"Bu Hanan"},
+{"rank":"58", "artist":"Smog", "album":"A River Ain't Too Much to Love ", "label":"Drag City"},
+{"rank":"59", "artist":"The Go-Betweens", "album":"Oceans Apart ", "label":"Yep Roc"},
+{"rank":"60", "artist":"Silver Screen", "album":"The Greatest Story Never Told ", "label":"Clairecords"},
+{"rank":"61", "artist":"The Sames", "album":"You Are the Sames ", "label":"Pox World Empire"},
+{"rank":"62", "artist":"Hal", "album":"Hal ", "label":"Rough Trade"},
+{"rank":"63", "artist":"The Emergency", "album":"Far Out! ", "label":"Heavy Soul"},
+{"rank":"64", "artist":"Tullycraft", "album":"Disenchanted Hearts Unite ", "label":"Magic Marker"},
+{"rank":"65", "artist":"Dear Darling", "album":"Songs of Friends and Family ", "label":"self-released"},
+{"rank":"66", "artist":"Kimone", "album":"The Mill ", "label":"Silverthree"},
+{"rank":"67", "artist":"The National", "album":"Alligator ", "label":"Beggars Banquet"},
+{"rank":"68", "artist":"Four Tet", "album":"Everything Ecstatic ", "label":"Domino"},
+{"rank":"69", "artist":"The Decemberists", "album":"Picaresque ", "label":"Kill Rock Stars"},
+{"rank":"70", "artist":"M.I.A.", "album":"Arular ", "label":"XL"},
+{"rank":"71", "artist":"The Wedding Present", "album":"Take Fountain ", "label":"Manifesto"},
+{"rank":"72", "artist":"Brazilian Girls", "album":"Brazilian Girls ", "label":"Verve Forecast"},
+{"rank":"73", "artist":"New Order", "album":"Waiting for the Sirens' Call ", "label":"Warner Bros"},
+{"rank":"74", "artist":"Turin Brakes", "album":"Jackinabox ", "label":"Astralwerks"},
+{"rank":"75", "artist":"M83", "album":"Before the Dawn Heals Us ", "label":"Mute"},
+{"rank":"76", "artist":"Shelby Lynne", "album":"Suit Yourself ", "label":"Capitol"},
+{"rank":"77", "artist":"The Charming Snakes", "album":"Ammunition ", "label":"Dirtnap"},
+{"rank":"78", "artist":"Seashells", "album":"Remains of Something Sweet ", "label":"Quince"},
+{"rank":"79", "artist":"Foreign Born", "album":"In the Remote Woods ", "label":"Startime International"},
+{"rank":"80", "artist":"(Various)", "album":"Soul Fire: The Majestic Collection ", "label":"Truth & Soul/Fastlife"},
 
 July
-1. Sufjan Stevens - Illinois (Asthmatic Kitty)
-2. Boom Bap Project - Reprogram (Rhymesayers)
-3. Common - Be (Good/Geffen)
-4. The Purrs - The Dreams Our Stuff Is Made Of (self-released)
-5. Kinski - Alpine Static (Sub Pop)
-6. Cloud Cult - Advice from the Happy Hippopotamus (Earthology)
-7. The New Pornographers - Twin Cinema (Matador)
-8. The White Stripes - Get Behind Me Satan (V2)
-9. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (self-released)
-10. Tim Seely - Funeral Music (Slow Love)
-11. Son Volt - Okemah and the Melody of Riot (Transmit Sound/Legacy)
-12. Nortec Collective - Tijuana Sessions Vol. 3 (Nacional)
-13. Teenage Fanclub - Man-Made (Merge)
-14. Maximo Park - A Certain Trigger (Warp)
-15. Zion I - True & Livin' (Live:Up)
-16. A Band of Bees - Free the Bees (Astralwerks)
-17. Longwave - There's a Fire (RCA)
-18. The Magic Numbers - The Magic Numbers (Heavenly)
-19. Bob Mould - Body of Song (Yep Roc)
-20. Royksopp - The Understanding (Astralwerks)
-21. The Hold Steady - Separation Sunday (Frenchkiss)
-22. Gorillaz - Demon Days (Virgin)
-23. Sleater-Kinney - The Woods (Sub Pop)
-24. Laura Veirs - Year of Meteors (Nonesuch)
-25. Voyager One - Dissolver (Tokyoidaho)
-26. The High Dials - War of the Wakening Phantoms (Rainbow Quartz)
-27. Hot Hot Heat - Elevator (Sire)
-28. The Lucksmiths - Warmer Corners (Matinee)
-29. Bill Ricchini - Tonight I Burn Brightly (Transdreamer)
-30. Pernice Brothers - Discover a Lovelier You (Ashmont)
-31. Lali Puna - I Thought I Was Over That (Morr)
-32. Devin Davis - Lonely People of the World, Unite! (Mousse)
-33. Fruit Bats - Spelled in Bones (Sub Pop)
-34. Zuco 103 - Whaa! (Ziriguiboom/Six Degrees)
-35. The Herbaliser - Take London (Ninja Tune)
-36. Beck - Guero (Interscope)
-37. Mono in VCF - The Voltage Control EP (self-released)
-38. The Dead 60s - The Dead 60s (Epic)
-39. Ryan Adams & the Cardinals - Cold Roses (Lost Highway)
-40. The Knitters - The Modern Sounds of the Knitters (Zoe)
-41. Kimone - The Mill (Silverthree)
-42. The Fading Collection - Supertron (self-released)
-43. Emiliana Torrini - Fisherman's Woman (Rough Trade)
-44. Wolf Parade - Wolf Parade (Sub Pop)
-45. Langhorne Slim - When the Sun's Gone Down (Narnack)
-46. Caribou - The Milk of Human Kindness (Domino)
-47. Stephen Malkmus - Face the Truth (Matador)
-48. The Free Design - The Now Sound Redesigned (Light in the Attic)
-49. Four Tet - Everything Ecstatic (Domino)
-50. Amadou and Mariam - Dimanche A Bamako (Nonesuch)
-51. Death Cab for Cutie - Plans (Atlantic)
-52. Bloc Party - Silent Alarm (Vice)
-53. DJ Shadow - Endtroducing (Deluxe Edition) (Island)
-54. Turin Brakes - Jackinabox (Astralwerks)
+{"rank":"1", "artist":"Sufjan Stevens", "album":"Illinois ", "label":"Asthmatic Kitty"},
+{"rank":"2", "artist":"Boom Bap Project", "album":"Reprogram ", "label":"Rhymesayers"},
+{"rank":"3", "artist":"Common", "album":"Be ", "label":"Good/Geffen"},
+{"rank":"4", "artist":"The Purrs", "album":"The Dreams Our Stuff Is Made Of ", "label":"self-released"},
+{"rank":"5", "artist":"Kinski", "album":"Alpine Static ", "label":"Sub Pop"},
+{"rank":"6", "artist":"Cloud Cult", "album":"Advice from the Happy Hippopotamus ", "label":"Earthology"},
+{"rank":"7", "artist":"The New Pornographers", "album":"Twin Cinema ", "label":"Matador"},
+{"rank":"8", "artist":"The White Stripes", "album":"Get Behind Me Satan ", "label":"V2"},
+{"rank":"9", "artist":"Clap Your Hands Say Yeah", "album":"Clap Your Hands Say Yeah ", "label":"self-released"},
+{"rank":"10", "artist":"Tim Seely", "album":"Funeral Music ", "label":"Slow Love"},
+{"rank":"11", "artist":"Son Volt", "album":"Okemah and the Melody of Riot ", "label":"Transmit Sound/Legacy"},
+{"rank":"12", "artist":"Nortec Collective", "album":"Tijuana Sessions Vol. 3 ", "label":"Nacional"},
+{"rank":"13", "artist":"Teenage Fanclub", "album":"Man-Made ", "label":"Merge"},
+{"rank":"14", "artist":"Maximo Park", "album":"A Certain Trigger ", "label":"Warp"},
+{"rank":"15", "artist":"Zion I", "album":"True & Livin' ", "label":"Live:Up"},
+{"rank":"16", "artist":"A Band of Bees", "album":"Free the Bees ", "label":"Astralwerks"},
+{"rank":"17", "artist":"Longwave", "album":"There's a Fire ", "label":"RCA"},
+{"rank":"18", "artist":"The Magic Numbers", "album":"The Magic Numbers ", "label":"Heavenly"},
+{"rank":"19", "artist":"Bob Mould", "album":"Body of Song ", "label":"Yep Roc"},
+{"rank":"20", "artist":"Royksopp", "album":"The Understanding ", "label":"Astralwerks"},
+{"rank":"21", "artist":"The Hold Steady", "album":"Separation Sunday ", "label":"Frenchkiss"},
+{"rank":"22", "artist":"Gorillaz", "album":"Demon Days ", "label":"Virgin"},
+{"rank":"23", "artist":"Sleater-Kinney", "album":"The Woods ", "label":"Sub Pop"},
+{"rank":"24", "artist":"Laura Veirs", "album":"Year of Meteors ", "label":"Nonesuch"},
+{"rank":"25", "artist":"Voyager One", "album":"Dissolver ", "label":"Tokyoidaho"},
+{"rank":"26", "artist":"The High Dials", "album":"War of the Wakening Phantoms ", "label":"Rainbow Quartz"},
+{"rank":"27", "artist":"Hot Hot Heat", "album":"Elevator ", "label":"Sire"},
+{"rank":"28", "artist":"The Lucksmiths", "album":"Warmer Corners ", "label":"Matinee"},
+{"rank":"29", "artist":"Bill Ricchini", "album":"Tonight I Burn Brightly ", "label":"Transdreamer"},
+{"rank":"30", "artist":"Pernice Brothers", "album":"Discover a Lovelier You ", "label":"Ashmont"},
+{"rank":"31", "artist":"Lali Puna", "album":"I Thought I Was Over That ", "label":"Morr"},
+{"rank":"32", "artist":"Devin Davis", "album":"Lonely People of the World, Unite! ", "label":"Mousse"},
+{"rank":"33", "artist":"Fruit Bats", "album":"Spelled in Bones ", "label":"Sub Pop"},
+{"rank":"34", "artist":"Zuco 103", "album":"Whaa! ", "label":"Ziriguiboom/Six Degrees"},
+{"rank":"35", "artist":"The Herbaliser", "album":"Take London ", "label":"Ninja Tune"},
+{"rank":"36", "artist":"Beck", "album":"Guero ", "label":"Interscope"},
+{"rank":"37", "artist":"Mono in VCF", "album":"The Voltage Control EP ", "label":"self-released"},
+{"rank":"38", "artist":"The Dead 60s", "album":"The Dead 60s ", "label":"Epic"},
+{"rank":"39", "artist":"Ryan Adams & the Cardinals", "album":"Cold Roses ", "label":"Lost Highway"},
+{"rank":"40", "artist":"The Knitters", "album":"The Modern Sounds of the Knitters ", "label":"Zoe"},
+{"rank":"41", "artist":"Kimone", "album":"The Mill ", "label":"Silverthree"},
+{"rank":"42", "artist":"The Fading Collection", "album":"Supertron ", "label":"self-released"},
+{"rank":"43", "artist":"Emiliana Torrini", "album":"Fisherman's Woman ", "label":"Rough Trade"},
+{"rank":"44", "artist":"Wolf Parade", "album":"Wolf Parade ", "label":"Sub Pop"},
+{"rank":"45", "artist":"Langhorne Slim", "album":"When the Sun's Gone Down ", "label":"Narnack"},
+{"rank":"46", "artist":"Caribou", "album":"The Milk of Human Kindness ", "label":"Domino"},
+{"rank":"47", "artist":"Stephen Malkmus", "album":"Face the Truth ", "label":"Matador"},
+{"rank":"48", "artist":"The Free Design", "album":"The Now Sound Redesigned ", "label":"Light in the Attic"},
+{"rank":"49", "artist":"Four Tet", "album":"Everything Ecstatic ", "label":"Domino"},
+{"rank":"50", "artist":"Amadou and Mariam", "album":"Dimanche A Bamako ", "label":"Nonesuch"},
+{"rank":"51", "artist":"Death Cab for Cutie", "album":"Plans ", "label":"Atlantic"},
+{"rank":"52", "artist":"Bloc Party", "album":"Silent Alarm ", "label":"Vice"},
+{"rank":"53", "artist":"DJ Shadow", "album":"Endtroducing (Deluxe Edition) ", "label":"Island"},
+{"rank":"54", "artist":"Turin Brakes", "album":"Jackinabox ", "label":"Astralwerks"},
 55. The Earaches - Get the Revolution Out of Your Head
-56. Rachid Taha - Tekitoi (Wrasse)
-57. Silver Screen - The Greatest Story Never Told (Clairecords)
-58. The Willowz - Talk in Circles (Sympathy for the Record Industry)
-59. Coldplay - X&Y (Capitol)
-60. New York Rifles - Faraway Faster (Empty)
-61. Silversun Pickups - Pikul (Dangerbird)
-62. Okkervil River - Black Sheep Boy (Jagjaguwar)
-63. Stellastarr* - Harmonies for the Haunted (RCA)
-64. The Mountain Goats - The Sunset Tree (4AD)
-65. The Emergency - Far Out! (Heavy Soul)
-66. Stars of Track and Field - You Came Here for Sunset Last Year (self-released)
-67. Tom Brosseau - What I Mean to Say is Goodbye (Loveless)
-68. Amusement Parks on Fire - Amusement Parks on Fire (Filter US)
-69. The Capes - Taste (Hard Soul)
-70. Spoon - Gimme Fiction (Merge)
-71. In Praise of Folly - Means/Ends (Lujo)
-72. Foscil - Foscil (Fourthcity)
-73. Wide Right - Sleeping on the Couch (Poptop)
-74. Christy McWilson - Think for Yourself (self-released)
-75. Ian Knapp - Into These Oceans (self-released)
-76. Super Love Attack - This Up Here (Rightplace)
-77. Corey Harris - Daily Bread (Rounder)
-78. Innaway - Innaway (Some)
-79. The Narrator - Such Triumph (Flameshovel)
-81. Lyrics Born - Same !@#$ Different Day (Quannum)
-82. Hopewell - Hopewell & the Birds of Appetite (Tee Pee)
-83. The Ponys - Celebration Castle (In the Red)
-84. Idlewild - Warnings/Promises (Capitol)
-85. The Posies - Every Kind of Light (Rykodisc)
-86. Youth Group - Skeleton Jar (Epitaph)
-87. The Decemberists - Picaresque (Kill Rock Stars)
-88. Danny Barnes - Get Myself Together (Terminus)
-89. Sky Cries Mary - Here & Now (Hoodooh)
-90. Xiu Xiu - La Foret (5RC)
+{"rank":"56", "artist":"Rachid Taha", "album":"Tekitoi ", "label":"Wrasse"},
+{"rank":"57", "artist":"Silver Screen", "album":"The Greatest Story Never Told ", "label":"Clairecords"},
+{"rank":"58", "artist":"The Willowz", "album":"Talk in Circles ", "label":"Sympathy for the Record Industry"},
+{"rank":"59", "artist":"Coldplay", "album":"X&Y ", "label":"Capitol"},
+{"rank":"60", "artist":"New York Rifles", "album":"Faraway Faster ", "label":"Empty"},
+{"rank":"61", "artist":"Silversun Pickups", "album":"Pikul ", "label":"Dangerbird"},
+{"rank":"62", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"63", "artist":"Stellastarr*", "album":"Harmonies for the Haunted ", "label":"RCA"},
+{"rank":"64", "artist":"The Mountain Goats", "album":"The Sunset Tree ", "label":"4AD"},
+{"rank":"65", "artist":"The Emergency", "album":"Far Out! ", "label":"Heavy Soul"},
+{"rank":"66", "artist":"Stars of Track and Field", "album":"You Came Here for Sunset Last Year ", "label":"self-released"},
+{"rank":"67", "artist":"Tom Brosseau", "album":"What I Mean to Say is Goodbye ", "label":"Loveless"},
+{"rank":"68", "artist":"Amusement Parks on Fire", "album":"Amusement Parks on Fire ", "label":"Filter US"},
+{"rank":"69", "artist":"The Capes", "album":"Taste ", "label":"Hard Soul"},
+{"rank":"70", "artist":"Spoon", "album":"Gimme Fiction ", "label":"Merge"},
+{"rank":"71", "artist":"In Praise of Folly", "album":"Means/Ends ", "label":"Lujo"},
+{"rank":"72", "artist":"Foscil", "album":"Foscil ", "label":"Fourthcity"},
+{"rank":"73", "artist":"Wide Right", "album":"Sleeping on the Couch ", "label":"Poptop"},
+{"rank":"74", "artist":"Christy McWilson", "album":"Think for Yourself ", "label":"self-released"},
+{"rank":"75", "artist":"Ian Knapp", "album":"Into These Oceans ", "label":"self-released"},
+{"rank":"76", "artist":"Super Love Attack", "album":"This Up Here ", "label":"Rightplace"},
+{"rank":"77", "artist":"Corey Harris", "album":"Daily Bread ", "label":"Rounder"},
+{"rank":"78", "artist":"Innaway", "album":"Innaway ", "label":"Some"},
+{"rank":"79", "artist":"The Narrator", "album":"Such Triumph ", "label":"Flameshovel"},
+{"rank":"81", "artist":"Lyrics Born", "album":"Same !@#$ Different Day ", "label":"Quannum"},
+{"rank":"82", "artist":"Hopewell", "album":"Hopewell & the Birds of Appetite ", "label":"Tee Pee"},
+{"rank":"83", "artist":"The Ponys", "album":"Celebration Castle ", "label":"In the Red"},
+{"rank":"84", "artist":"Idlewild", "album":"Warnings/Promises ", "label":"Capitol"},
+{"rank":"85", "artist":"The Posies", "album":"Every Kind of Light ", "label":"Rykodisc"},
+{"rank":"86", "artist":"Youth Group", "album":"Skeleton Jar ", "label":"Epitaph"},
+{"rank":"87", "artist":"The Decemberists", "album":"Picaresque ", "label":"Kill Rock Stars"},
+{"rank":"88", "artist":"Danny Barnes", "album":"Get Myself Together ", "label":"Terminus"},
+{"rank":"89", "artist":"Sky Cries Mary", "album":"Here & Now ", "label":"Hoodooh"},
+{"rank":"90", "artist":"Xiu Xiu", "album":"La Foret ", "label":"5RC"},
 
 August
-1. (Various) - Live at KEXP Volume One (KEXP)
-2. Death Cab for Cutie - Plans - (Atlantic)
-3. Sufjan Stevens - Illinois (Asthmatic Kitty)
-4. Nortec Collective - Tijuana Sessions Vol. 3 (Nacional)
-5. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (self-released)
-6. Minus the Bear - Menos El Oso (Suicide Squeeze)
-7. Son Volt - Okemah and the Melody of Riot (Transmit Sound/Legacy)
-8. Boom Bap Project - Reprogram (Rhymesayers)
-9. Editors - The Back Room (Kitchenware)
-10. Gabin - Mr. Freedom (Astralwerks)
-11. The Purrs - The Dreams Our Stuff Is Made Of (self-released)
-12. The New Pornographers - Twin Cinema (Matador)
-13. Sons and Daughters - The Repulsion Box - (Domino)
-14. Royksopp - The Understanding (Astralwerks)
-15. The Divorce - The Gifted Program (Made in Mexico)
-16. Slender Means - Neon & Ruin (Mt Fuji)
-17. Kinski - Alpine Static (Sub Pop)
-18. The Warlocks - Surgery (Mute)
-19. The White Stripes - Get Behind Me Satan (V2)
-20. Zion I - True & Livin' (Live:Up)
-21. Black Rebel Motorcycle Club - Howl (RCA)
-22. The Makers - Everybody Rise! (Kill Rock Stars)
-23. Nada Surf - The Weight is a Gift (Barsuk)
-24. A Band of Bees - Free the Bees (Astralwerks)
-25. Emiliana Torrini - Fisherman's Woman (Rough Trade)
-26. Laura Veirs - Year of Meteors (Nonesuch)
-27. Voyager One - Dissolver (Tokyoidaho)
-28. John Vanderslice - Pixel Revolt (Barsuk)
-29. The Coral - The Invisible Invasion (Deltasonic/Columbia)
-30. The Dandy Warhols - Odditorium or Warlords of Mars (Capitol)
-31. The Magic Numbers - The Magic Numbers (Heavenly)
-32. Bob Mould - Body of Song (Yep Roc)
-33. Zuco 103 - Whaa! (Ziriguiboom/Six Degrees)
-34. Cloud Cult - Advice from the Happy Hippopotamus (Earthology)
-35. The High Dials - War of the Wakening Phantoms (Rainbow Quartz)
-36. The Pale Pacific - Urgency (SideCho)
-37. Waco Brothers - Freedom and Weep (Bloodshot)
-38. The Rosebuds - Birds Make Good Neighbors (Merge)
-39. Beck - Guero (Interscope)
-40. Fruit Bats - Spelled in Bones (Sub Pop)
-41. Amadou and Mariam - Dimanche A Bamako (Nonesuch)
-42. Portastatic - Bright Ideas (Merge)
-43. Bill Ricchini - Tonight I Burn Brightly (Transdreamer)
-44. DJ Shadow - Endtroducing (Deluxe Edition) (Island)
-45. The Earaches - Get the Revolution Out of Your Head (Steel Cage)
-46. Stars of Track and Field - You Came Here for Sunset Last Year (self-released)
-47. Tim Seely - Funeral Music (Slow Love)
-48. I Am Kloot - Gods and Monsters (Echo/World's Fair)
-49. The Cribs - The New Fellas (Wichita/World's Fair)
-50. Sigur Ros - Takk (Geffen)
-51. The Capes - Taste (Hard Soul)
-52. Leela James - A Change is Gonna Come (Warner Bros)
-53. Sky Cries Mary - Here & Now (Hoodooh)
-54. Goldspot - Tally of the Yes Men (Union)
-55. The Herbaliser - Take London (Ninja Tune)
-56. Math and Physics Club - Movie Ending Romance (Matinee)
-57. Harvey Danger - Little By Little (Phonographic)
-58. Wide Right - Sleeping on the Couch (Poptop)
-59. The Free Design - The Now Sound Redesigned (Light in the Attic)
-60. Wolf Parade - Wolf Parade (Sub Pop)
-61. Chad VanGaalen - Infiniheart (Sub Pop)
-62. New York Rifles - Faraway Faster (Empty)
-63. Foscil - Foscil (Fourthcity)
-64. Silversun Pickups - Pikul (Dangerbird)
-65. Greg Dulli - Greg Dulli's Amber Headlights (Infernal)
-66. In Praise of Folly - Means/Ends (Lujo)
-67. Engineers - Engineers (Echo)
-68. Gorillaz - Demon Days (Virgin)
-69. Spoon - Gimme Fiction (Merge)
-70. Bloc Party - Silent Alarm (Vice)
-71. Holopaw - Quit +/or Fight (Sub Pop)
-72. The Emergency - Far Out! (Heavy Soul)
-73. Ian Knapp - Into These Oceans (self-released)
-74. The Fading Collection - Supertron (self-released)
-75. Danny Barnes - Get Myself Together (Terminus)
-76. The Posies - Every Kind of Light (Rykodisc)
-77. Franz Ferdinand - You Could Have It So Much Better (Domino)
-78. The Narrator - Such Triumph (Flameshovel)
-79. Okkervil River - Black Sheep Boy (Jagjaguwar)
-80. Innaway - Innaway (Some)
-81. Lali Puna - I Thought I Was Over That (Morr)
-82. (Various) - Dimension Mix (Eenie Meenie)
-83. The Ponys - Celebration Castle (In the Red)
-84. Stellastarr* - Harmonies for the Haunted (RCA)
-85. The Willowz - Talk in Circles (Sympathy for the Record Industry)
-86. Vendetta Red - Sisters of the Red Death (Epic)
-87. Sleater-Kinney - The Woods (Sub Pop)
-88. Huge Spacebird - Three (Book)
-89. Cerulean - No Sense in Waiting (Spinwheel)
-90. Super Love Attack - This Up Here (Rightplace)
+{"rank":"1", "artist":"(Various)", "album":"Live at KEXP Volume One ", "label":"KEXP"},
+{"rank":"2", "artist":"Death Cab for Cutie - Plans", "album":"", "label":"Atlantic"},
+{"rank":"3", "artist":"Sufjan Stevens", "album":"Illinois ", "label":"Asthmatic Kitty"},
+{"rank":"4", "artist":"Nortec Collective", "album":"Tijuana Sessions Vol. 3 ", "label":"Nacional"},
+{"rank":"5", "artist":"Clap Your Hands Say Yeah", "album":"Clap Your Hands Say Yeah ", "label":"self-released"},
+{"rank":"6", "artist":"Minus the Bear", "album":"Menos El Oso ", "label":"Suicide Squeeze"},
+{"rank":"7", "artist":"Son Volt", "album":"Okemah and the Melody of Riot ", "label":"Transmit Sound/Legacy"},
+{"rank":"8", "artist":"Boom Bap Project", "album":"Reprogram ", "label":"Rhymesayers"},
+{"rank":"9", "artist":"Editors", "album":"The Back Room ", "label":"Kitchenware"},
+{"rank":"10", "artist":"Gabin", "album":"Mr. Freedom ", "label":"Astralwerks"},
+{"rank":"11", "artist":"The Purrs", "album":"The Dreams Our Stuff Is Made Of ", "label":"self-released"},
+{"rank":"12", "artist":"The New Pornographers", "album":"Twin Cinema ", "label":"Matador"},
+{"rank":"13", "artist":"Sons and Daughters - The Repulsion Box", "album":"", "label":"Domino"},
+{"rank":"14", "artist":"Royksopp", "album":"The Understanding ", "label":"Astralwerks"},
+{"rank":"15", "artist":"The Divorce", "album":"The Gifted Program ", "label":"Made in Mexico"},
+{"rank":"16", "artist":"Slender Means", "album":"Neon & Ruin ", "label":"Mt Fuji"},
+{"rank":"17", "artist":"Kinski", "album":"Alpine Static ", "label":"Sub Pop"},
+{"rank":"18", "artist":"The Warlocks", "album":"Surgery ", "label":"Mute"},
+{"rank":"19", "artist":"The White Stripes", "album":"Get Behind Me Satan ", "label":"V2"},
+{"rank":"20", "artist":"Zion I", "album":"True & Livin' ", "label":"Live:Up"},
+{"rank":"21", "artist":"Black Rebel Motorcycle Club", "album":"Howl ", "label":"RCA"},
+{"rank":"22", "artist":"The Makers", "album":"Everybody Rise! ", "label":"Kill Rock Stars"},
+{"rank":"23", "artist":"Nada Surf", "album":"The Weight is a Gift ", "label":"Barsuk"},
+{"rank":"24", "artist":"A Band of Bees", "album":"Free the Bees ", "label":"Astralwerks"},
+{"rank":"25", "artist":"Emiliana Torrini", "album":"Fisherman's Woman ", "label":"Rough Trade"},
+{"rank":"26", "artist":"Laura Veirs", "album":"Year of Meteors ", "label":"Nonesuch"},
+{"rank":"27", "artist":"Voyager One", "album":"Dissolver ", "label":"Tokyoidaho"},
+{"rank":"28", "artist":"John Vanderslice", "album":"Pixel Revolt ", "label":"Barsuk"},
+{"rank":"29", "artist":"The Coral", "album":"The Invisible Invasion ", "label":"Deltasonic/Columbia"},
+{"rank":"30", "artist":"The Dandy Warhols", "album":"Odditorium or Warlords of Mars ", "label":"Capitol"},
+{"rank":"31", "artist":"The Magic Numbers", "album":"The Magic Numbers ", "label":"Heavenly"},
+{"rank":"32", "artist":"Bob Mould", "album":"Body of Song ", "label":"Yep Roc"},
+{"rank":"33", "artist":"Zuco 103", "album":"Whaa! ", "label":"Ziriguiboom/Six Degrees"},
+{"rank":"34", "artist":"Cloud Cult", "album":"Advice from the Happy Hippopotamus ", "label":"Earthology"},
+{"rank":"35", "artist":"The High Dials", "album":"War of the Wakening Phantoms ", "label":"Rainbow Quartz"},
+{"rank":"36", "artist":"The Pale Pacific", "album":"Urgency ", "label":"SideCho"},
+{"rank":"37", "artist":"Waco Brothers", "album":"Freedom and Weep ", "label":"Bloodshot"},
+{"rank":"38", "artist":"The Rosebuds", "album":"Birds Make Good Neighbors ", "label":"Merge"},
+{"rank":"39", "artist":"Beck", "album":"Guero ", "label":"Interscope"},
+{"rank":"40", "artist":"Fruit Bats", "album":"Spelled in Bones ", "label":"Sub Pop"},
+{"rank":"41", "artist":"Amadou and Mariam", "album":"Dimanche A Bamako ", "label":"Nonesuch"},
+{"rank":"42", "artist":"Portastatic", "album":"Bright Ideas ", "label":"Merge"},
+{"rank":"43", "artist":"Bill Ricchini", "album":"Tonight I Burn Brightly ", "label":"Transdreamer"},
+{"rank":"44", "artist":"DJ Shadow", "album":"Endtroducing (Deluxe Edition) ", "label":"Island"},
+{"rank":"45", "artist":"The Earaches", "album":"Get the Revolution Out of Your Head ", "label":"Steel Cage"},
+{"rank":"46", "artist":"Stars of Track and Field", "album":"You Came Here for Sunset Last Year ", "label":"self-released"},
+{"rank":"47", "artist":"Tim Seely", "album":"Funeral Music ", "label":"Slow Love"},
+{"rank":"48", "artist":"I Am Kloot", "album":"Gods and Monsters ", "label":"Echo/World's Fair"},
+{"rank":"49", "artist":"The Cribs", "album":"The New Fellas ", "label":"Wichita/World's Fair"},
+{"rank":"50", "artist":"Sigur Ros", "album":"Takk ", "label":"Geffen"},
+{"rank":"51", "artist":"The Capes", "album":"Taste ", "label":"Hard Soul"},
+{"rank":"52", "artist":"Leela James", "album":"A Change is Gonna Come ", "label":"Warner Bros"},
+{"rank":"53", "artist":"Sky Cries Mary", "album":"Here & Now ", "label":"Hoodooh"},
+{"rank":"54", "artist":"Goldspot", "album":"Tally of the Yes Men ", "label":"Union"},
+{"rank":"55", "artist":"The Herbaliser", "album":"Take London ", "label":"Ninja Tune"},
+{"rank":"56", "artist":"Math and Physics Club", "album":"Movie Ending Romance ", "label":"Matinee"},
+{"rank":"57", "artist":"Harvey Danger", "album":"Little By Little ", "label":"Phonographic"},
+{"rank":"58", "artist":"Wide Right", "album":"Sleeping on the Couch ", "label":"Poptop"},
+{"rank":"59", "artist":"The Free Design", "album":"The Now Sound Redesigned ", "label":"Light in the Attic"},
+{"rank":"60", "artist":"Wolf Parade", "album":"Wolf Parade ", "label":"Sub Pop"},
+{"rank":"61", "artist":"Chad VanGaalen", "album":"Infiniheart ", "label":"Sub Pop"},
+{"rank":"62", "artist":"New York Rifles", "album":"Faraway Faster ", "label":"Empty"},
+{"rank":"63", "artist":"Foscil", "album":"Foscil ", "label":"Fourthcity"},
+{"rank":"64", "artist":"Silversun Pickups", "album":"Pikul ", "label":"Dangerbird"},
+{"rank":"65", "artist":"Greg Dulli", "album":"Greg Dulli's Amber Headlights ", "label":"Infernal"},
+{"rank":"66", "artist":"In Praise of Folly", "album":"Means/Ends ", "label":"Lujo"},
+{"rank":"67", "artist":"Engineers", "album":"Engineers ", "label":"Echo"},
+{"rank":"68", "artist":"Gorillaz", "album":"Demon Days ", "label":"Virgin"},
+{"rank":"69", "artist":"Spoon", "album":"Gimme Fiction ", "label":"Merge"},
+{"rank":"70", "artist":"Bloc Party", "album":"Silent Alarm ", "label":"Vice"},
+{"rank":"71", "artist":"Holopaw", "album":"Quit +/or Fight ", "label":"Sub Pop"},
+{"rank":"72", "artist":"The Emergency", "album":"Far Out! ", "label":"Heavy Soul"},
+{"rank":"73", "artist":"Ian Knapp", "album":"Into These Oceans ", "label":"self-released"},
+{"rank":"74", "artist":"The Fading Collection", "album":"Supertron ", "label":"self-released"},
+{"rank":"75", "artist":"Danny Barnes", "album":"Get Myself Together ", "label":"Terminus"},
+{"rank":"76", "artist":"The Posies", "album":"Every Kind of Light ", "label":"Rykodisc"},
+{"rank":"77", "artist":"Franz Ferdinand", "album":"You Could Have It So Much Better ", "label":"Domino"},
+{"rank":"78", "artist":"The Narrator", "album":"Such Triumph ", "label":"Flameshovel"},
+{"rank":"79", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"80", "artist":"Innaway", "album":"Innaway ", "label":"Some"},
+{"rank":"81", "artist":"Lali Puna", "album":"I Thought I Was Over That ", "label":"Morr"},
+{"rank":"82", "artist":"(Various)", "album":"Dimension Mix ", "label":"Eenie Meenie"},
+{"rank":"83", "artist":"The Ponys", "album":"Celebration Castle ", "label":"In the Red"},
+{"rank":"84", "artist":"Stellastarr*", "album":"Harmonies for the Haunted ", "label":"RCA"},
+{"rank":"85", "artist":"The Willowz", "album":"Talk in Circles ", "label":"Sympathy for the Record Industry"},
+{"rank":"86", "artist":"Vendetta Red", "album":"Sisters of the Red Death ", "label":"Epic"},
+{"rank":"87", "artist":"Sleater-Kinney", "album":"The Woods ", "label":"Sub Pop"},
+{"rank":"88", "artist":"Huge Spacebird", "album":"Three ", "label":"Book"},
+{"rank":"89", "artist":"Cerulean", "album":"No Sense in Waiting ", "label":"Spinwheel"},
+{"rank":"90", "artist":"Super Love Attack", "album":"This Up Here ", "label":"Rightplace"},
 
 September
-1. Blackalicious - The Craft (Anti-)
-2. Sigur Ros - Takk (Geffen)
-3. Broadcast - Tender Buttons (Warp)
-4. Devendra Banhart - Cripple Crow (XL)
-5. (Various) - Live at KEXP Volume One (KEXP)
-6. The Warlocks - Surgery (Mute)
-7. Death Cab for Cutie - Plans - (Atlantic)
-8. Editors - The Back Room (Kitchenware)
-9. The Sun - Blame it on the Youth (Warner Bros)
-10. The Detroit Cobras - Baby (Bloodshot)
-11. Minus the Bear - Menos El Oso (Suicide Squeeze)
-12. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (self-released)
-13. Sons and Daughters - The Repulsion Box - (Domino)
-14. Slender Means - Neon & Ruin (Mt Fuji)
-15. The New Pornographers - Twin Cinema (Matador)
-16. Ladytron - Witching Hour (Rykodisc)
-17. Her Space Holiday - The Past Presents the Future (Wichita)
-18. The Fall - Fall Heads Roll (Narnack)
-19. Kanye West - Late Registration (Roc-A-Fella)
-20. Matt Pond PA - Several Arrows Later (Altitude)
-21. Gabin - Mr. Freedom (Astralwerks)
-22. The Rosebuds - Birds Make Good Neighbors (Merge)
-23. Morcheeba - The Antidote (Echo/World's Fair)
-24. Black Rebel Motorcycle Club - Howl (RCA)
-25. Calexico/Iron and Wine - In the Reins (Overcoat)
-26. Portastatic - Bright Ideas (Merge)
-27. The Divorce - The Gifted Program (Made in Mexico)
-28. Waco Brothers - Freedom and Weep (Bloodshot)
-29. Atmosphere - You Can't Imagine How Much Fun We're Having (Rhymesayers)
-30. Silversun Pickups - Pikul (Dangerbird)
-31. The Dandy Warhols - Odditorium or Warlords of Mars (Capitol)
-32. Bettye LaVette - I've Got My Own Hell to Raise (Anti-)
-33. Laura Veirs - Year of Meteors (Nonesuch)
-34. Richard Hawley - Coles Corner (Mute)
-35. Calla - Collisions (Beggars Banquet)
-36. Ryan Adams & the Cardinals - Jacksonville City Nights (Lost Highway)
-37. Wolf Parade - Apologies to the Queen Mary (Sub Pop)
-38. Sufjan Stevens - Illinois (Asthmatic Kitty)
-39. Nada Surf - The Weight is a Gift (Barsuk)
-40. Bob Dylan - No Direction Home (Columbia/Legacy)
-41. Tim Seely - Funeral Music (Slow Love)
-42. Dengue Fever - Escape from Dragon House (M80/Birdman)
-43. Nortec Collective - Tijuana Sessions Vol. 3 (Nacional)
-44. The Makers - Everybody Rise! (Kill Rock Stars)
-45. Harvey Danger - Little By Little (Phonographic)
-46. Fruit Bats - Spelled in Bones (Sub Pop)
-47. Cloud Cult - Advice from the Happy Hippopotamus (Earthology)
-48. John Vanderslice - Pixel Revolt (Barsuk)
-49. Bloc Party - Silent Alarm Remixed (Vice)
-50. General Elektriks - Cliquety Kliqk (Quannum)
-51. The Strokes - First Impressions of Earth - (RCA)
-52. Eddie Spaghetti - Old No. 2 (Mid-Fi)
-53. The Pale Pacific - Urgency (SideCho)
-54. Greg Dulli - Greg Dulli's Amber Headlights (Infernal)
-55. The Magic Numbers - The Magic Numbers (Heavenly)
-56. Brakes - Give Blood (Rough Trade)
-57. Super Furry Animals - Love Kraft (XL)
-58. The Bats - At the National Grid (Magic Marker)
-59. (Various) - Night Train to Nashville Vol. Two (CMF/Lost Highway)
-60. The Cribs - The New Fellas (Wichita/World's Fair)
-61. Ohmega Watts - The Find (Ubiquity)
+{"rank":"1", "artist":"Blackalicious", "album":"The Craft ", "label":"Anti-"},
+{"rank":"2", "artist":"Sigur Ros", "album":"Takk ", "label":"Geffen"},
+{"rank":"3", "artist":"Broadcast", "album":"Tender Buttons ", "label":"Warp"},
+{"rank":"4", "artist":"Devendra Banhart", "album":"Cripple Crow ", "label":"XL"},
+{"rank":"5", "artist":"(Various)", "album":"Live at KEXP Volume One ", "label":"KEXP"},
+{"rank":"6", "artist":"The Warlocks", "album":"Surgery ", "label":"Mute"},
+{"rank":"7", "artist":"Death Cab for Cutie - Plans", "album":"", "label":"Atlantic"},
+{"rank":"8", "artist":"Editors", "album":"The Back Room ", "label":"Kitchenware"},
+{"rank":"9", "artist":"The Sun", "album":"Blame it on the Youth ", "label":"Warner Bros"},
+{"rank":"10", "artist":"The Detroit Cobras", "album":"Baby ", "label":"Bloodshot"},
+{"rank":"11", "artist":"Minus the Bear", "album":"Menos El Oso ", "label":"Suicide Squeeze"},
+{"rank":"12", "artist":"Clap Your Hands Say Yeah", "album":"Clap Your Hands Say Yeah ", "label":"self-released"},
+{"rank":"13", "artist":"Sons and Daughters - The Repulsion Box", "album":"", "label":"Domino"},
+{"rank":"14", "artist":"Slender Means", "album":"Neon & Ruin ", "label":"Mt Fuji"},
+{"rank":"15", "artist":"The New Pornographers", "album":"Twin Cinema ", "label":"Matador"},
+{"rank":"16", "artist":"Ladytron", "album":"Witching Hour ", "label":"Rykodisc"},
+{"rank":"17", "artist":"Her Space Holiday", "album":"The Past Presents the Future ", "label":"Wichita"},
+{"rank":"18", "artist":"The Fall", "album":"Fall Heads Roll ", "label":"Narnack"},
+{"rank":"19", "artist":"Kanye West", "album":"Late Registration ", "label":"Roc-A-Fella"},
+{"rank":"20", "artist":"Matt Pond PA", "album":"Several Arrows Later ", "label":"Altitude"},
+{"rank":"21", "artist":"Gabin", "album":"Mr. Freedom ", "label":"Astralwerks"},
+{"rank":"22", "artist":"The Rosebuds", "album":"Birds Make Good Neighbors ", "label":"Merge"},
+{"rank":"23", "artist":"Morcheeba", "album":"The Antidote ", "label":"Echo/World's Fair"},
+{"rank":"24", "artist":"Black Rebel Motorcycle Club", "album":"Howl ", "label":"RCA"},
+{"rank":"25", "artist":"Calexico/Iron and Wine", "album":"In the Reins ", "label":"Overcoat"},
+{"rank":"26", "artist":"Portastatic", "album":"Bright Ideas ", "label":"Merge"},
+{"rank":"27", "artist":"The Divorce", "album":"The Gifted Program ", "label":"Made in Mexico"},
+{"rank":"28", "artist":"Waco Brothers", "album":"Freedom and Weep ", "label":"Bloodshot"},
+{"rank":"29", "artist":"Atmosphere", "album":"You Can't Imagine How Much Fun We're Having ", "label":"Rhymesayers"},
+{"rank":"30", "artist":"Silversun Pickups", "album":"Pikul ", "label":"Dangerbird"},
+{"rank":"31", "artist":"The Dandy Warhols", "album":"Odditorium or Warlords of Mars ", "label":"Capitol"},
+{"rank":"32", "artist":"Bettye LaVette", "album":"I've Got My Own Hell to Raise ", "label":"Anti-"},
+{"rank":"33", "artist":"Laura Veirs", "album":"Year of Meteors ", "label":"Nonesuch"},
+{"rank":"34", "artist":"Richard Hawley", "album":"Coles Corner ", "label":"Mute"},
+{"rank":"35", "artist":"Calla", "album":"Collisions ", "label":"Beggars Banquet"},
+{"rank":"36", "artist":"Ryan Adams & the Cardinals", "album":"Jacksonville City Nights ", "label":"Lost Highway"},
+{"rank":"37", "artist":"Wolf Parade", "album":"Apologies to the Queen Mary ", "label":"Sub Pop"},
+{"rank":"38", "artist":"Sufjan Stevens", "album":"Illinois ", "label":"Asthmatic Kitty"},
+{"rank":"39", "artist":"Nada Surf", "album":"The Weight is a Gift ", "label":"Barsuk"},
+{"rank":"40", "artist":"Bob Dylan", "album":"No Direction Home ", "label":"Columbia/Legacy"},
+{"rank":"41", "artist":"Tim Seely", "album":"Funeral Music ", "label":"Slow Love"},
+{"rank":"42", "artist":"Dengue Fever", "album":"Escape from Dragon House ", "label":"M80/Birdman"},
+{"rank":"43", "artist":"Nortec Collective", "album":"Tijuana Sessions Vol. 3 ", "label":"Nacional"},
+{"rank":"44", "artist":"The Makers", "album":"Everybody Rise! ", "label":"Kill Rock Stars"},
+{"rank":"45", "artist":"Harvey Danger", "album":"Little By Little ", "label":"Phonographic"},
+{"rank":"46", "artist":"Fruit Bats", "album":"Spelled in Bones ", "label":"Sub Pop"},
+{"rank":"47", "artist":"Cloud Cult", "album":"Advice from the Happy Hippopotamus ", "label":"Earthology"},
+{"rank":"48", "artist":"John Vanderslice", "album":"Pixel Revolt ", "label":"Barsuk"},
+{"rank":"49", "artist":"Bloc Party", "album":"Silent Alarm Remixed ", "label":"Vice"},
+{"rank":"50", "artist":"General Elektriks", "album":"Cliquety Kliqk ", "label":"Quannum"},
+{"rank":"51", "artist":"The Strokes - First Impressions of Earth", "album":"", "label":"RCA"},
+{"rank":"52", "artist":"Eddie Spaghetti", "album":"Old No. 2 ", "label":"Mid-Fi"},
+{"rank":"53", "artist":"The Pale Pacific", "album":"Urgency ", "label":"SideCho"},
+{"rank":"54", "artist":"Greg Dulli", "album":"Greg Dulli's Amber Headlights ", "label":"Infernal"},
+{"rank":"55", "artist":"The Magic Numbers", "album":"The Magic Numbers ", "label":"Heavenly"},
+{"rank":"56", "artist":"Brakes", "album":"Give Blood ", "label":"Rough Trade"},
+{"rank":"57", "artist":"Super Furry Animals", "album":"Love Kraft ", "label":"XL"},
+{"rank":"58", "artist":"The Bats", "album":"At the National Grid ", "label":"Magic Marker"},
+{"rank":"59", "artist":"(Various)", "album":"Night Train to Nashville Vol. Two ", "label":"CMF/Lost Highway"},
+{"rank":"60", "artist":"The Cribs", "album":"The New Fellas ", "label":"Wichita/World's Fair"},
+{"rank":"61", "artist":"Ohmega Watts", "album":"The Find ", "label":"Ubiquity"},
 62. Thumbsucker soundtrack (Good/Hollywood)
-63. (Various) - Latin Travels 2 (Six Degrees)
-64. The Free Design - The Now Sound Redesigned (Light in the Attic)
-65. Stellastarr* - Harmonies for the Haunted (RCA)
-66. The Coral - The Invisible Invasion (Deltasonic/Columbia)
-67. Emiliana Torrini - Fisherman's Woman (Rough Trade)
-68. Zion I - True & Livin' (Live:Up)
-69. Leela James - A Change is Gonna Come (Warner Bros)
-70. Franz Ferdinand - You Could Have It So Much Better (Domino)
-71. Okkervil River - Black Sheep Boy (Jagjaguwar)
-72. The Fading Collection - Supertron (self-released)
-73. Giant Drag - Hearts and Unicorns (Kickball)
-74. Little Brother - The Minstrel Show (Atlantic)
-75. The Melody Unit - Songs for the New American Century (self-released)
-76. Amadou and Mariam - Dimanche A Bamako (Nonesuch)
-77. Math and Physics Club - Movie Ending Romance (Matinee)
-78. Velella Velella - The Bay of Biscay (Big V)
-79. Kronos Quartet and Asha Bhosle - You've Stolen My Heart (Nonesuch)
-80. The Bloody Hollies - If Footmen Tire You (Alive)
-81. Dave Douglas - Keystone (Greenleaf)
-82. Cerulean - No Sense in Waiting (Spinwheel)
-83. (Various) - ASAP: The Afrobeat Sudan Aid Project (Modiba)
-84. Rosie Thomas - If Songs Could Be Held (Sub Pop)
-85. Sameer Shukla - There's Only One Side Tonight (Cabin Essence)
-86. I Am Kloot - Gods and Monsters (Echo/World's Fair)
-87. The Standard - Albatross (Yep Roc)
-88. In Praise of Folly - Means/Ends (Lujo)
-89. Holopaw - Quit +/or Fight (Sub Pop)
-90. Stars of Track and Field - You Came Here for Sunset Last Year (self-released)
+{"rank":"63", "artist":"(Various)", "album":"Latin Travels 2 ", "label":"Six Degrees"},
+{"rank":"64", "artist":"The Free Design", "album":"The Now Sound Redesigned ", "label":"Light in the Attic"},
+{"rank":"65", "artist":"Stellastarr*", "album":"Harmonies for the Haunted ", "label":"RCA"},
+{"rank":"66", "artist":"The Coral", "album":"The Invisible Invasion ", "label":"Deltasonic/Columbia"},
+{"rank":"67", "artist":"Emiliana Torrini", "album":"Fisherman's Woman ", "label":"Rough Trade"},
+{"rank":"68", "artist":"Zion I", "album":"True & Livin' ", "label":"Live:Up"},
+{"rank":"69", "artist":"Leela James", "album":"A Change is Gonna Come ", "label":"Warner Bros"},
+{"rank":"70", "artist":"Franz Ferdinand", "album":"You Could Have It So Much Better ", "label":"Domino"},
+{"rank":"71", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"72", "artist":"The Fading Collection", "album":"Supertron ", "label":"self-released"},
+{"rank":"73", "artist":"Giant Drag", "album":"Hearts and Unicorns ", "label":"Kickball"},
+{"rank":"74", "artist":"Little Brother", "album":"The Minstrel Show ", "label":"Atlantic"},
+{"rank":"75", "artist":"The Melody Unit", "album":"Songs for the New American Century ", "label":"self-released"},
+{"rank":"76", "artist":"Amadou and Mariam", "album":"Dimanche A Bamako ", "label":"Nonesuch"},
+{"rank":"77", "artist":"Math and Physics Club", "album":"Movie Ending Romance ", "label":"Matinee"},
+{"rank":"78", "artist":"Velella Velella", "album":"The Bay of Biscay ", "label":"Big V"},
+{"rank":"79", "artist":"Kronos Quartet and Asha Bhosle", "album":"You've Stolen My Heart ", "label":"Nonesuch"},
+{"rank":"80", "artist":"The Bloody Hollies", "album":"If Footmen Tire You ", "label":"Alive"},
+{"rank":"81", "artist":"Dave Douglas", "album":"Keystone ", "label":"Greenleaf"},
+{"rank":"82", "artist":"Cerulean", "album":"No Sense in Waiting ", "label":"Spinwheel"},
+{"rank":"83", "artist":"(Various)", "album":"ASAP: The Afrobeat Sudan Aid Project ", "label":"Modiba"},
+{"rank":"84", "artist":"Rosie Thomas", "album":"If Songs Could Be Held ", "label":"Sub Pop"},
+{"rank":"85", "artist":"Sameer Shukla", "album":"There's Only One Side Tonight ", "label":"Cabin Essence"},
+{"rank":"86", "artist":"I Am Kloot", "album":"Gods and Monsters ", "label":"Echo/World's Fair"},
+{"rank":"87", "artist":"The Standard", "album":"Albatross ", "label":"Yep Roc"},
+{"rank":"88", "artist":"In Praise of Folly", "album":"Means/Ends ", "label":"Lujo"},
+{"rank":"89", "artist":"Holopaw", "album":"Quit +/or Fight ", "label":"Sub Pop"},
+{"rank":"90", "artist":"Stars of Track and Field", "album":"You Came Here for Sunset Last Year ", "label":"self-released"},
 
 October
-1. Breakestra - Hit the Floor (Ubiquity)
-2. (Various) - Live at KEXP Volume One (KEXP)
-3. My Morning Jacket - Z (ATO/RCA)
-4. Broadcast - Tender Buttons (Warp)
-5. The Sun - Blame it on the Youth (Warner Bros)
-6. Rogue Wave - Descended Like Vultures (Sub Pop)
-7. The Fall - Fall Heads Roll (Narnack)
-8. Calexico/Iron and Wine - In the Reins (Overcoat)
-9. Editors - The Back Room (Kitchenware)
-10. Blackalicious - The Craft (Anti-)
-11. Franz Ferdinand - You Could Have It So Much Better (Domino)
-12. Sigur Ros - Takk (Geffen)
-13. Boards of Canada - The Campfire Headphase (Warp)
-14. Death Cab for Cutie - Plans - (Atlantic)
-15. Minus the Bear - Menos El Oso (Suicide Squeeze)
-16. Devendra Banhart - Cripple Crow (XL)
-17. Slender Means - Neon & Ruin (Mt Fuji)
-18. The Detroit Cobras - Baby (Bloodshot)
-19. Calla - Collisions (Beggars Banquet)
-20. Ladytron - Witching Hour (Rykodisc)
-21. Nickodemus - Endangered Species (Wonderwheel)
-22. Morcheeba - The Antidote (Echo/World's Fair)
-23. Nada Surf - The Weight is a Gift (Barsuk)
-24. American Analog Set - Set Free (Arts & Crafts)
-25. The New Pornographers - Twin Cinema (Matador)
-26. Silver Jews - Tanglewood Numbers (Drag City)
-27. The Morning After Girls - Prelude: ep's 1 & 2 (Rainbow Quartz)
-28. The Clientele - Strange Geometry (Merge)
-29. Broken Social Scene - Broken Social Scene (Arts & Crafts)
-30. The Rosebuds - Birds Make Good Neighbors (Merge)
-31. Gang of Four - Return the Gift (V2)
-32. Matt Pond PA - Several Arrows Later (Altitude)
-33. The Go! Team - Thunder, Lightning, Strike (Columbia)
-34. Izabelle - A Pleasant Fiction (self-released)
-35. The Warlocks - Surgery (Mute)
-36. Kanye West - Late Registration (Roc-A-Fella)
-37. The Briefs - Steal Yer Heart (BYO)
-38. Dangerdoom - The Mouse and the Mask (Epitaph)
-39. Metric - Live it Out (Last Gang)
-40. Wolf Parade - Apologies to the Queen Mary (Sub Pop)
-41. Gabin - Mr. Freedom (Astralwerks)
-42. Richard Hawley - Coles Corner (Mute)
-43. Harvey Danger - Little By Little (Phonographic)
-44. Silversun Pickups - Pikul (Dangerbird)
-45. Bettye LaVette - I've Got My Own Hell to Raise (Anti-)
-46. The Joggers - With a Cape and a Cane (Startime International)
-47. (Various) - For a Decade of Sin: 11 Years of Bloodshot Records (Bloodshot)
-48. Brakes - Give Blood (Rough Trade)
-49. Portastatic - Bright Ideas (Merge)
-50. Ryan Adams & the Cardinals - Jacksonville City Nights (Lost Highway)
-51. The Black Angels - The Black Angels (Light in the Attic)
-52. Ohmega Watts - The Find (Ubiquity)
-53. The Coral - The Invisible Invasion (Deltasonic/Columbia)
-54. Her Space Holiday - The Past Presents the Future (Wichita)
-55. The Beautiful New Born Children - Hey People! (Domino)
-56. Cancer Rising - Search for the Cure (Mad Passion)
-57. Once for Kicks - In the Dollhouse (Book)
-58. Rosie Thomas - If Songs Could Be Held (Sub Pop)
-59. Super Furry Animals - Love Kraft (XL)
-60. Test Icicles - Boa vs Python (Domino)
-61. Stellastarr* - Harmonies for the Haunted (RCA)
-62. The Dirty Three - Cinder (Touch and Go)
-63. Nortec Collective - Tijuana Sessions Vol. 3 (Nacional)
-64. (Various) - Searching for Soul (Luv N' Haight)
-65. Okkervil River - Black Sheep Boy (Jagjaguwar)
-66. (Various) - Latin Travels 2 (Six Degrees)
-67. Cloud Cult - Advice from the Happy Hippopotamus (Earthology)
-68. The Long Winters - Ultimatum (Barsuk)
-69. Eddie Spaghetti - Old No. 2 (Mid-Fi)
-70. The Makers - Everybody Rise! (Kill Rock Stars)
-71. Velella Velella - The Bay of Biscay (Big V)
-72. Ghosts I've Met - Ghosts I've Met (self-released)
-73. Emmanuel Jal & Abdel Gadir Salim - Ceasefire (Riverboat/World Music Network)
-74. Paula Frazer - Leave the Sad Things Behind (Birdman)
-75. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (self-released)
-76. Atmosphere - You Can't Imagine How Much Fun We're Having (Rhymesayers)
+{"rank":"1", "artist":"Breakestra", "album":"Hit the Floor ", "label":"Ubiquity"},
+{"rank":"2", "artist":"(Various)", "album":"Live at KEXP Volume One ", "label":"KEXP"},
+{"rank":"3", "artist":"My Morning Jacket", "album":"Z ", "label":"ATO/RCA"},
+{"rank":"4", "artist":"Broadcast", "album":"Tender Buttons ", "label":"Warp"},
+{"rank":"5", "artist":"The Sun", "album":"Blame it on the Youth ", "label":"Warner Bros"},
+{"rank":"6", "artist":"Rogue Wave", "album":"Descended Like Vultures ", "label":"Sub Pop"},
+{"rank":"7", "artist":"The Fall", "album":"Fall Heads Roll ", "label":"Narnack"},
+{"rank":"8", "artist":"Calexico/Iron and Wine", "album":"In the Reins ", "label":"Overcoat"},
+{"rank":"9", "artist":"Editors", "album":"The Back Room ", "label":"Kitchenware"},
+{"rank":"10", "artist":"Blackalicious", "album":"The Craft ", "label":"Anti-"},
+{"rank":"11", "artist":"Franz Ferdinand", "album":"You Could Have It So Much Better ", "label":"Domino"},
+{"rank":"12", "artist":"Sigur Ros", "album":"Takk ", "label":"Geffen"},
+{"rank":"13", "artist":"Boards of Canada", "album":"The Campfire Headphase ", "label":"Warp"},
+{"rank":"14", "artist":"Death Cab for Cutie - Plans", "album":"", "label":"Atlantic"},
+{"rank":"15", "artist":"Minus the Bear", "album":"Menos El Oso ", "label":"Suicide Squeeze"},
+{"rank":"16", "artist":"Devendra Banhart", "album":"Cripple Crow ", "label":"XL"},
+{"rank":"17", "artist":"Slender Means", "album":"Neon & Ruin ", "label":"Mt Fuji"},
+{"rank":"18", "artist":"The Detroit Cobras", "album":"Baby ", "label":"Bloodshot"},
+{"rank":"19", "artist":"Calla", "album":"Collisions ", "label":"Beggars Banquet"},
+{"rank":"20", "artist":"Ladytron", "album":"Witching Hour ", "label":"Rykodisc"},
+{"rank":"21", "artist":"Nickodemus", "album":"Endangered Species ", "label":"Wonderwheel"},
+{"rank":"22", "artist":"Morcheeba", "album":"The Antidote ", "label":"Echo/World's Fair"},
+{"rank":"23", "artist":"Nada Surf", "album":"The Weight is a Gift ", "label":"Barsuk"},
+{"rank":"24", "artist":"American Analog Set", "album":"Set Free ", "label":"Arts & Crafts"},
+{"rank":"25", "artist":"The New Pornographers", "album":"Twin Cinema ", "label":"Matador"},
+{"rank":"26", "artist":"Silver Jews", "album":"Tanglewood Numbers ", "label":"Drag City"},
+{"rank":"27", "artist":"The Morning After Girls", "album":"Prelude: ep's 1 & 2 ", "label":"Rainbow Quartz"},
+{"rank":"28", "artist":"The Clientele", "album":"Strange Geometry ", "label":"Merge"},
+{"rank":"29", "artist":"Broken Social Scene", "album":"Broken Social Scene ", "label":"Arts & Crafts"},
+{"rank":"30", "artist":"The Rosebuds", "album":"Birds Make Good Neighbors ", "label":"Merge"},
+{"rank":"31", "artist":"Gang of Four", "album":"Return the Gift ", "label":"V2"},
+{"rank":"32", "artist":"Matt Pond PA", "album":"Several Arrows Later ", "label":"Altitude"},
+{"rank":"33", "artist":"The Go! Team", "album":"Thunder, Lightning, Strike ", "label":"Columbia"},
+{"rank":"34", "artist":"Izabelle", "album":"A Pleasant Fiction ", "label":"self-released"},
+{"rank":"35", "artist":"The Warlocks", "album":"Surgery ", "label":"Mute"},
+{"rank":"36", "artist":"Kanye West", "album":"Late Registration ", "label":"Roc-A-Fella"},
+{"rank":"37", "artist":"The Briefs", "album":"Steal Yer Heart ", "label":"BYO"},
+{"rank":"38", "artist":"Dangerdoom", "album":"The Mouse and the Mask ", "label":"Epitaph"},
+{"rank":"39", "artist":"Metric", "album":"Live it Out ", "label":"Last Gang"},
+{"rank":"40", "artist":"Wolf Parade", "album":"Apologies to the Queen Mary ", "label":"Sub Pop"},
+{"rank":"41", "artist":"Gabin", "album":"Mr. Freedom ", "label":"Astralwerks"},
+{"rank":"42", "artist":"Richard Hawley", "album":"Coles Corner ", "label":"Mute"},
+{"rank":"43", "artist":"Harvey Danger", "album":"Little By Little ", "label":"Phonographic"},
+{"rank":"44", "artist":"Silversun Pickups", "album":"Pikul ", "label":"Dangerbird"},
+{"rank":"45", "artist":"Bettye LaVette", "album":"I've Got My Own Hell to Raise ", "label":"Anti-"},
+{"rank":"46", "artist":"The Joggers", "album":"With a Cape and a Cane ", "label":"Startime International"},
+{"rank":"47", "artist":"(Various)", "album":"For a Decade of Sin: 11 Years of Bloodshot Records ", "label":"Bloodshot"},
+{"rank":"48", "artist":"Brakes", "album":"Give Blood ", "label":"Rough Trade"},
+{"rank":"49", "artist":"Portastatic", "album":"Bright Ideas ", "label":"Merge"},
+{"rank":"50", "artist":"Ryan Adams & the Cardinals", "album":"Jacksonville City Nights ", "label":"Lost Highway"},
+{"rank":"51", "artist":"The Black Angels", "album":"The Black Angels ", "label":"Light in the Attic"},
+{"rank":"52", "artist":"Ohmega Watts", "album":"The Find ", "label":"Ubiquity"},
+{"rank":"53", "artist":"The Coral", "album":"The Invisible Invasion ", "label":"Deltasonic/Columbia"},
+{"rank":"54", "artist":"Her Space Holiday", "album":"The Past Presents the Future ", "label":"Wichita"},
+{"rank":"55", "artist":"The Beautiful New Born Children", "album":"Hey People! ", "label":"Domino"},
+{"rank":"56", "artist":"Cancer Rising", "album":"Search for the Cure ", "label":"Mad Passion"},
+{"rank":"57", "artist":"Once for Kicks", "album":"In the Dollhouse ", "label":"Book"},
+{"rank":"58", "artist":"Rosie Thomas", "album":"If Songs Could Be Held ", "label":"Sub Pop"},
+{"rank":"59", "artist":"Super Furry Animals", "album":"Love Kraft ", "label":"XL"},
+{"rank":"60", "artist":"Test Icicles", "album":"Boa vs Python ", "label":"Domino"},
+{"rank":"61", "artist":"Stellastarr*", "album":"Harmonies for the Haunted ", "label":"RCA"},
+{"rank":"62", "artist":"The Dirty Three", "album":"Cinder ", "label":"Touch and Go"},
+{"rank":"63", "artist":"Nortec Collective", "album":"Tijuana Sessions Vol. 3 ", "label":"Nacional"},
+{"rank":"64", "artist":"(Various)", "album":"Searching for Soul ", "label":"Luv N' Haight"},
+{"rank":"65", "artist":"Okkervil River", "album":"Black Sheep Boy ", "label":"Jagjaguwar"},
+{"rank":"66", "artist":"(Various)", "album":"Latin Travels 2 ", "label":"Six Degrees"},
+{"rank":"67", "artist":"Cloud Cult", "album":"Advice from the Happy Hippopotamus ", "label":"Earthology"},
+{"rank":"68", "artist":"The Long Winters", "album":"Ultimatum ", "label":"Barsuk"},
+{"rank":"69", "artist":"Eddie Spaghetti", "album":"Old No. 2 ", "label":"Mid-Fi"},
+{"rank":"70", "artist":"The Makers", "album":"Everybody Rise! ", "label":"Kill Rock Stars"},
+{"rank":"71", "artist":"Velella Velella", "album":"The Bay of Biscay ", "label":"Big V"},
+{"rank":"72", "artist":"Ghosts I've Met", "album":"Ghosts I've Met ", "label":"self-released"},
+{"rank":"73", "artist":"Emmanuel Jal & Abdel Gadir Salim", "album":"Ceasefire ", "label":"Riverboat/World Music Network"},
+{"rank":"74", "artist":"Paula Frazer", "album":"Leave the Sad Things Behind ", "label":"Birdman"},
+{"rank":"75", "artist":"Clap Your Hands Say Yeah", "album":"Clap Your Hands Say Yeah ", "label":"self-released"},
+{"rank":"76", "artist":"Atmosphere", "album":"You Can't Imagine How Much Fun We're Having ", "label":"Rhymesayers"},
 77. Thumbsucker soundtrack (Good/Hollywood)
-78. General Elektriks - Cliquety Kliqk (Quannum)
-79. Bloc Party - Silent Alarm Remixed (Vice)
-80. The Pale Pacific - Urgency (SideCho)
-81. Greg Dulli - Greg Dulli's Amber Headlights (Infernal)
-82. Sabrosa Purr - Music from the Violet Room (Dangerbird)
-83. The Constantines - Tournament of Hearts (Sub Pop)
-84. Agent Sparks - Not So Merry (Immortal)
-85. Swords - Metropolis (Arena Rock)
-86. Tom Vek - We Have Sound (Startime)
-87. Dios (Malos) - Dios (Malos) (Startime)
-88. Chocolate Genius Inc - Black Yankee Rock (Commotion)
-89. Dengue Fever - Escape from Dragon House (M80/Birdman)
-90. The Rakes - Retreat (Dim Mak)
+{"rank":"78", "artist":"General Elektriks", "album":"Cliquety Kliqk ", "label":"Quannum"},
+{"rank":"79", "artist":"Bloc Party", "album":"Silent Alarm Remixed ", "label":"Vice"},
+{"rank":"80", "artist":"The Pale Pacific", "album":"Urgency ", "label":"SideCho"},
+{"rank":"81", "artist":"Greg Dulli", "album":"Greg Dulli's Amber Headlights ", "label":"Infernal"},
+{"rank":"82", "artist":"Sabrosa Purr", "album":"Music from the Violet Room ", "label":"Dangerbird"},
+{"rank":"83", "artist":"The Constantines", "album":"Tournament of Hearts ", "label":"Sub Pop"},
+{"rank":"84", "artist":"Agent Sparks", "album":"Not So Merry ", "label":"Immortal"},
+{"rank":"85", "artist":"Swords", "album":"Metropolis ", "label":"Arena Rock"},
+{"rank":"86", "artist":"Tom Vek", "album":"We Have Sound ", "label":"Startime"},
+{"rank":"87", "artist":"Dios (Malos)", "album":"Dios (Malos) ", "label":"Startime"},
+{"rank":"88", "artist":"Chocolate Genius Inc", "album":"Black Yankee Rock ", "label":"Commotion"},
+{"rank":"89", "artist":"Dengue Fever", "album":"Escape from Dragon House ", "label":"M80/Birdman"},
+{"rank":"90", "artist":"The Rakes", "album":"Retreat ", "label":"Dim Mak"},
 
 November
-1. Common Market - Common Market (SCIONtific)
-2. (Various) - Live at KEXP Volume One (KEXP)
-3. My Morning Jacket - Z (ATO/RCA)
-4. Sigur Ros - Takk (Geffen)
-5. Breakestra - Hit the Floor (Ubiquity)
-6. Blue Scholars - The Long March EP (self-released)
-7. Rogue Wave - Descended Like Vultures (Sub Pop)
-8. Devendra Banhart - Cripple Crow (XL)
-9. Elbow - Leaders of the Free World (V2)
-10. Broadcast - Tender Buttons (Warp)
-11. Animal Collective - Feels (Fatcat)
-12. The Morning After Girls - Prelude: ep's 1 & 2 (Rainbow Quartz)
-13. Okkervil River - Black Sheep Boy Appendix (Jagjaguwar)
-14. The Fall - Fall Heads Roll (Narnack)
-15. Franz Ferdinand - You Could Have It So Much Better (Domino)
-16. The Detroit Cobras - Baby (Bloodshot)
-17. The Clientele - Strange Geometry (Merge)
-18. Arctic Monkeys - Underneath the Boardwalk (demo)
-19. Nickodemus - Endangered Species (Wonderwheel)
-20. The Black Angels - The Black Angels (Light in the Attic)
-21. Wilco - Kicking Television (Nonesuch)
-22. Th' Faith Healers - Peel Sessions (Ba Da Bing!)
-23. Romance - When Things are Better (self-released)
-24. The Long Winters - Ultimatum (Barsuk)
-25. Dangerdoom - The Mouse and the Mask (Epitaph)
-26. The Mendoza Line - Full of Light and Full of Fire (Misra)
-27. DJ Dolores - Aparelhagem (Ziriguiboom/Crammed Discs)
-28. The Proles - Good in Black and White (The Americans Are Coming)
-29. Lady Sovereign - Vertically Challenged (Chocolate Industries)
-30. Edith Frost - It's a Game (Drag City)
-31. Cancer Rising - Search for the Cure (Mad Passion)
-32. Broken Social Scene - Broken Social Scene (Arts & Crafts)
-33. Ladytron - Witching Hour (Rykodisc)
-34. Isobel Campbell & Mark Lanegan - Ramblin' Man EP (V2)
-35. Sun Kil Moon - Tiny Cities (Caldo Verde)
-36. The Constantines - Tournament of Hearts (Sub Pop)
-37. The Briefs - Steal Yer Heart (BYO)
-38. Korby Lenker - King of Hearts (Singular/Blue Light)
-39. The Invisible Eyes - Laugh in the Dark (Bomp!)
-40. Blackalicious - The Craft (Anti)
-41. The Drones - Wait Long By the River and the Bodies of Your Enemies Will Float By (All Tomorrow's Parties)
-42. Morcheeba - The Antidote (Echo/World's Fair)
-43. The Blueskins - Change My Mind (Domino)
-44. Silver Jews - Tanglewood Numbers (Drag City)
-45. The Joggers - With a Cape and a Cane (Startime International)
-46. Boards of Canada - The Campfire Headphase (Warp)
-47. Calla - Collisions (Beggars Banquet)
-48. The Beautiful New Born Children - Hey People! (Domino)
-49. Ulrich Schnauss - Far Away Trains Passing By (Domino)
-50. The Dirty Three - Cinder (Touch and Go)
-51. (Various) - Searching for Soul (Luv N' Haight)
-52. Page France - Hello Dear Wind (Fall)
-53. The Cops - Get Good or Stay Bad (Mt. Fuji)
-54. Sera Cahoone - Sera Cahoone (self-released)
-55. Kanye West - Late Registration (Roc-A-Fella)
-56. The Rakes - Retreat (Dim Mak)
-57. American Analog Set - Set Free (Arts & Crafts)
-58. Tom Vek - We Have Sound (Startime)
-59. Matt Pond PA - Several Arrows Later (Altitude)
-60. (Various) - For a Decade of Sin: 11 Years of Bloodshot Records (Bloodshot)
-61. Cat Power - The Greatest (Matador)
-62. Kate Bush - Aerial (Columbia)
-63. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (self-released)
-64. Silversun Pickups - Pikul (Dangerbird)
-65. Militant Rhythm Section - Tribute to Scratch (Utmost Sound)
-66. The Go Station - Quiet Zone (Edge Delay)
-67. Macklemore - The Language Of My World (NWXMusic)
-68. The Village Green - The Village Green (Hidden Peak)
-69. Sabrosa Purr - Music from the Violet Room (Dangerbird)
-70. Comet Gain - City Fallen Leaves (Kill Rock Stars)
-71. Metric - Live it Out (Last Gang)
-72. Spook the Horse - Spook the Horse (self-released)
-73. Matthew Shaw - Convenience (Burning Building)
-74. Bonnie 'Prince' Billy - Summer in the Southeast (Sea Note)
-75. Tristeza - A Colores (Better Looking)
-76. Morningwood - Morningwood (Capitol)
-77. Calexico/Iron and Wine - In the Reins (Overcoat)
-78. The Teenage Prayers - Ten Songs (self-released)
-79. Once for Kicks - In the Dollhouse (Book)
-80. The Roy Kay Trio - Rock-A-Way Lonesome Moon (LurLiner)
-81. Slender Means - Neon & Ruin (Mt Fuji)
-82. Old 97's - Alive and Well (New West)
-83. Pleasant - Awkward as a Beehive (Pox World Empire)
-84. Goldfrapp - Number 1 (Mute)
-85. The Purrs - The Dreams Our Stuff Is Made Of (self-released)
-86. Nortec Collective - Tijuana Sessions Vol. 3 (Nacional)
-87. The Strokes - First Impressions of Earth - (RCA)
-88. Marah - If You Didn't Laugh You'd Cry (Yep Roc)
-89. Cloud Cult - Advice from the Happy Hippopotamus (Earthology)
-90. Paula Frazer - Leave the Sad Things Behind (Birdman)
+{"rank":"1", "artist":"Common Market", "album":"Common Market ", "label":"SCIONtific"},
+{"rank":"2", "artist":"(Various)", "album":"Live at KEXP Volume One ", "label":"KEXP"},
+{"rank":"3", "artist":"My Morning Jacket", "album":"Z ", "label":"ATO/RCA"},
+{"rank":"4", "artist":"Sigur Ros", "album":"Takk ", "label":"Geffen"},
+{"rank":"5", "artist":"Breakestra", "album":"Hit the Floor ", "label":"Ubiquity"},
+{"rank":"6", "artist":"Blue Scholars", "album":"The Long March EP ", "label":"self-released"},
+{"rank":"7", "artist":"Rogue Wave", "album":"Descended Like Vultures ", "label":"Sub Pop"},
+{"rank":"8", "artist":"Devendra Banhart", "album":"Cripple Crow ", "label":"XL"},
+{"rank":"9", "artist":"Elbow", "album":"Leaders of the Free World ", "label":"V2"},
+{"rank":"10", "artist":"Broadcast", "album":"Tender Buttons ", "label":"Warp"},
+{"rank":"11", "artist":"Animal Collective", "album":"Feels ", "label":"Fatcat"},
+{"rank":"12", "artist":"The Morning After Girls", "album":"Prelude: ep's 1 & 2 ", "label":"Rainbow Quartz"},
+{"rank":"13", "artist":"Okkervil River", "album":"Black Sheep Boy Appendix ", "label":"Jagjaguwar"},
+{"rank":"14", "artist":"The Fall", "album":"Fall Heads Roll ", "label":"Narnack"},
+{"rank":"15", "artist":"Franz Ferdinand", "album":"You Could Have It So Much Better ", "label":"Domino"},
+{"rank":"16", "artist":"The Detroit Cobras", "album":"Baby ", "label":"Bloodshot"},
+{"rank":"17", "artist":"The Clientele", "album":"Strange Geometry ", "label":"Merge"},
+{"rank":"18", "artist":"Arctic Monkeys", "album":"Underneath the Boardwalk ", "label":"demo"},
+{"rank":"19", "artist":"Nickodemus", "album":"Endangered Species ", "label":"Wonderwheel"},
+{"rank":"20", "artist":"The Black Angels", "album":"The Black Angels ", "label":"Light in the Attic"},
+{"rank":"21", "artist":"Wilco", "album":"Kicking Television ", "label":"Nonesuch"},
+{"rank":"22", "artist":"Th' Faith Healers", "album":"Peel Sessions ", "label":"Ba Da Bing!"},
+{"rank":"23", "artist":"Romance", "album":"When Things are Better ", "label":"self-released"},
+{"rank":"24", "artist":"The Long Winters", "album":"Ultimatum ", "label":"Barsuk"},
+{"rank":"25", "artist":"Dangerdoom", "album":"The Mouse and the Mask ", "label":"Epitaph"},
+{"rank":"26", "artist":"The Mendoza Line", "album":"Full of Light and Full of Fire ", "label":"Misra"},
+{"rank":"27", "artist":"DJ Dolores", "album":"Aparelhagem ", "label":"Ziriguiboom/Crammed Discs"},
+{"rank":"28", "artist":"The Proles", "album":"Good in Black and White ", "label":"The Americans Are Coming"},
+{"rank":"29", "artist":"Lady Sovereign", "album":"Vertically Challenged ", "label":"Chocolate Industries"},
+{"rank":"30", "artist":"Edith Frost", "album":"It's a Game ", "label":"Drag City"},
+{"rank":"31", "artist":"Cancer Rising", "album":"Search for the Cure ", "label":"Mad Passion"},
+{"rank":"32", "artist":"Broken Social Scene", "album":"Broken Social Scene ", "label":"Arts & Crafts"},
+{"rank":"33", "artist":"Ladytron", "album":"Witching Hour ", "label":"Rykodisc"},
+{"rank":"34", "artist":"Isobel Campbell & Mark Lanegan", "album":"Ramblin' Man EP ", "label":"V2"},
+{"rank":"35", "artist":"Sun Kil Moon", "album":"Tiny Cities ", "label":"Caldo Verde"},
+{"rank":"36", "artist":"The Constantines", "album":"Tournament of Hearts ", "label":"Sub Pop"},
+{"rank":"37", "artist":"The Briefs", "album":"Steal Yer Heart ", "label":"BYO"},
+{"rank":"38", "artist":"Korby Lenker", "album":"King of Hearts ", "label":"Singular/Blue Light"},
+{"rank":"39", "artist":"The Invisible Eyes", "album":"Laugh in the Dark ", "label":"Bomp!"},
+{"rank":"40", "artist":"Blackalicious", "album":"The Craft ", "label":"Anti"},
+{"rank":"41", "artist":"The Drones", "album":"Wait Long By the River and the Bodies of Your Enemies Will Float By ", "label":"All Tomorrow's Parties"},
+{"rank":"42", "artist":"Morcheeba", "album":"The Antidote ", "label":"Echo/World's Fair"},
+{"rank":"43", "artist":"The Blueskins", "album":"Change My Mind ", "label":"Domino"},
+{"rank":"44", "artist":"Silver Jews", "album":"Tanglewood Numbers ", "label":"Drag City"},
+{"rank":"45", "artist":"The Joggers", "album":"With a Cape and a Cane ", "label":"Startime International"},
+{"rank":"46", "artist":"Boards of Canada", "album":"The Campfire Headphase ", "label":"Warp"},
+{"rank":"47", "artist":"Calla", "album":"Collisions ", "label":"Beggars Banquet"},
+{"rank":"48", "artist":"The Beautiful New Born Children", "album":"Hey People! ", "label":"Domino"},
+{"rank":"49", "artist":"Ulrich Schnauss", "album":"Far Away Trains Passing By ", "label":"Domino"},
+{"rank":"50", "artist":"The Dirty Three", "album":"Cinder ", "label":"Touch and Go"},
+{"rank":"51", "artist":"(Various)", "album":"Searching for Soul ", "label":"Luv N' Haight"},
+{"rank":"52", "artist":"Page France", "album":"Hello Dear Wind ", "label":"Fall"},
+{"rank":"53", "artist":"The Cops", "album":"Get Good or Stay Bad ", "label":"Mt. Fuji"},
+{"rank":"54", "artist":"Sera Cahoone", "album":"Sera Cahoone ", "label":"self-released"},
+{"rank":"55", "artist":"Kanye West", "album":"Late Registration ", "label":"Roc-A-Fella"},
+{"rank":"56", "artist":"The Rakes", "album":"Retreat ", "label":"Dim Mak"},
+{"rank":"57", "artist":"American Analog Set", "album":"Set Free ", "label":"Arts & Crafts"},
+{"rank":"58", "artist":"Tom Vek", "album":"We Have Sound ", "label":"Startime"},
+{"rank":"59", "artist":"Matt Pond PA", "album":"Several Arrows Later ", "label":"Altitude"},
+{"rank":"60", "artist":"(Various)", "album":"For a Decade of Sin: 11 Years of Bloodshot Records ", "label":"Bloodshot"},
+{"rank":"61", "artist":"Cat Power", "album":"The Greatest ", "label":"Matador"},
+{"rank":"62", "artist":"Kate Bush", "album":"Aerial ", "label":"Columbia"},
+{"rank":"63", "artist":"Clap Your Hands Say Yeah", "album":"Clap Your Hands Say Yeah ", "label":"self-released"},
+{"rank":"64", "artist":"Silversun Pickups", "album":"Pikul ", "label":"Dangerbird"},
+{"rank":"65", "artist":"Militant Rhythm Section", "album":"Tribute to Scratch ", "label":"Utmost Sound"},
+{"rank":"66", "artist":"The Go Station", "album":"Quiet Zone ", "label":"Edge Delay"},
+{"rank":"67", "artist":"Macklemore", "album":"The Language Of My World ", "label":"NWXMusic"},
+{"rank":"68", "artist":"The Village Green", "album":"The Village Green ", "label":"Hidden Peak"},
+{"rank":"69", "artist":"Sabrosa Purr", "album":"Music from the Violet Room ", "label":"Dangerbird"},
+{"rank":"70", "artist":"Comet Gain", "album":"City Fallen Leaves ", "label":"Kill Rock Stars"},
+{"rank":"71", "artist":"Metric", "album":"Live it Out ", "label":"Last Gang"},
+{"rank":"72", "artist":"Spook the Horse", "album":"Spook the Horse ", "label":"self-released"},
+{"rank":"73", "artist":"Matthew Shaw", "album":"Convenience ", "label":"Burning Building"},
+{"rank":"74", "artist":"Bonnie 'Prince' Billy", "album":"Summer in the Southeast ", "label":"Sea Note"},
+{"rank":"75", "artist":"Tristeza", "album":"A Colores ", "label":"Better Looking"},
+{"rank":"76", "artist":"Morningwood", "album":"Morningwood ", "label":"Capitol"},
+{"rank":"77", "artist":"Calexico/Iron and Wine", "album":"In the Reins ", "label":"Overcoat"},
+{"rank":"78", "artist":"The Teenage Prayers", "album":"Ten Songs ", "label":"self-released"},
+{"rank":"79", "artist":"Once for Kicks", "album":"In the Dollhouse ", "label":"Book"},
+{"rank":"80", "artist":"The Roy Kay Trio", "album":"Rock-A-Way Lonesome Moon ", "label":"LurLiner"},
+{"rank":"81", "artist":"Slender Means", "album":"Neon & Ruin ", "label":"Mt Fuji"},
+{"rank":"82", "artist":"Old 97's", "album":"Alive and Well ", "label":"New West"},
+{"rank":"83", "artist":"Pleasant", "album":"Awkward as a Beehive ", "label":"Pox World Empire"},
+{"rank":"84", "artist":"Goldfrapp", "album":"Number 1 ", "label":"Mute"},
+{"rank":"85", "artist":"The Purrs", "album":"The Dreams Our Stuff Is Made Of ", "label":"self-released"},
+{"rank":"86", "artist":"Nortec Collective", "album":"Tijuana Sessions Vol. 3 ", "label":"Nacional"},
+{"rank":"87", "artist":"The Strokes - First Impressions of Earth", "album":"", "label":"RCA"},
+{"rank":"88", "artist":"Marah", "album":"If You Didn't Laugh You'd Cry ", "label":"Yep Roc"},
+{"rank":"89", "artist":"Cloud Cult", "album":"Advice from the Happy Hippopotamus ", "label":"Earthology"},
+{"rank":"90", "artist":"Paula Frazer", "album":"Leave the Sad Things Behind ", "label":"Birdman"},
 
 December
-1. Common Market - Common Market (SCIONtific)
-2. Breakestra - Hit the Floor (Ubiquity)
-3. Wilco - Kicking Television (Nonesuch)
-4. My Morning Jacket - Z (ATO/RCA)
-5. Sera Cahoone - Sera Cahoone (self-released)
-6. Blue Scholars - The Long March EP (self-released)
-7. Elbow - Leaders of the Free World (V2)
-8. Rogue Wave - Descended Like Vultures (Sub Pop)
-9. (Various) - Live at KEXP Volume One (KEXP)
-10. Franz Ferdinand - You Could Have It So Much Better (Domino)
-11. Romance - When Things are Better (self-released)
-12. The Morning After Girls - Prelude: ep's 1 & 2 (Rainbow Quartz)
-13. Animal Collective - Feels (Fatcat)
-14. The Drones - Wait Long By the River and the Bodies of Your Enemies Will Float By (All Tomorrow's Parties)
-15. Okkervil River - Black Sheep Boy Appendix (Jagjaguwar)
-16. The Transmissionary Six - 05.21.05 (Glitterhouse)
-17. Nickodemus - Endangered Species (Wonderwheel)
-18. The Briefs - Steal Yer Heart (BYO)
-19. Arctic Monkeys - Underneath the Boardwalk (demo)
-20. DJ Dolores - Aparelhagem (Ziriguiboom/Crammed Discs)
-21. Ulrich Schnauss - Far Away Trains Passing By (Domino)
-22. Cancer Rising - Search for the Cure (Mad Passion)
-23. Abyssinian Creole - Sexy Beast (self-released)
-24. The Village Green - The Village Green (Hidden Peak)
-25. Page France - Hello Dear Wind (Fall)
-26. Tom Vek - We Have Sound (Startime)
-27. Broken Social Scene - Broken Social Scene (Arts & Crafts)
-28. Sufjan Stevens - Illinois (Asthmatic Kitty)
-29. Calexico/Iron and Wine - In the Reins (Overcoat)
-30. Lady Sovereign - Vertically Challenged (Chocolate Industries)
-31. The Budos Band - The Budos Band (Daptone)
-32. Sun Kil Moon - Tiny Cities (Caldo Verde)
-33. Boards of Canada - The Campfire Headphase (Warp)
-34. Every Move a Picture - Opposition Party (V2)
-35. Panda and Angel - Panda and Angel (demo)
-36. KJ Sawka - Synchronized Decompression (Wax Orchard)
-37. Jose Gonzalez - Veneer (A Hidden Agenda)
-38. (Various) - Our New Orleans 2005 (Nonesuch)
-39. The Long Winters - Ultimatum (Barsuk)
-40. Korby Lenker - King of Hearts (Singular/Blue Light)
-41. The Cops - Get Good or Stay Bad (Mt. Fuji)
-42. The Black Angels - The Black Angels (Light in the Attic)
-43. Silver Jews - Tanglewood Numbers (Drag City)
-44. The Mendoza Line - Full of Light and Full of Fire (Misra)
-45. Th' Faith Healers - Peel Sessions (Ba Da Bing!)
-46. Metric - Live it Out (Last Gang)
-47. The Blueskins - Change My Mind (Domino)
-48. The Proles - Good in Black and White (The Americans Are Coming)
-49. Beck - Guerolito (Interscope)
-50. The Purrs - The Dreams Our Stuff Is Made Of (self-released)
-51. Kate Bush - Aerial (Columbia)
-52. Militant Rhythm Section - Tribute to Scratch (Utmost Sound)
-53. Blue Checkered Record Player - Blue Checkered Record Player (self-released)
-54. Young Sportsmen - The Familiar Glow of Colliding Particles (Unsmashable)
-55. Sabrosa Purr - Music from the Violet Room (Dangerbird)
-56. Galaxie 500 - Peel Sessions (20-20-20)
-57. Saint Etienne - Tales from Turnpike House (Savoy Jazz)
-58. Marah - If You Didn't Laugh You'd Cry (Yep Roc)
-59. Cat Power - The Greatest (Matador)
-60. Ryan Adams - 29 (Lost Highway)
-61. The Magic Numbers - The Magic Numbers (Heavenly)
-62. The Invisible Eyes - Laugh in the Dark (Bomp!)
-63. Macklemore - The Language Of My World (NWXMusic)
-64. Edith Frost - It's a Game (Drag City)
-65. Comet Gain - City Fallen Leaves (Kill Rock Stars)
-66. Isobel Campbell & Mark Lanegan - Ramblin' Man EP (V2)
-67. Once for Kicks - In the Dollhouse (Book)
-68. Tristeza - A Colores (Better Looking)
-69. Dengue Fever - Escape from Dragon House (M80/Birdman)
-70. The Sun - Blame it on the Youth (Warner Bros)
-71. Clap Your Hands Say Yeah - Clap Your Hands Say Yeah (self-released)
-72. Edisyn - Everything Else is OK (Knobby Little Knees)
-73. The Dirty Three - Cinder (Touch and Go)
-74. Goldfrapp - Number 1 (Mute)
-75. Emmanuel Jal & Abdel Gadir Salim - Ceasefire (Riverboat/World Music Network)
-76. The Capes - Hello (Hard Soul)
-77. (Various) - Searching for Soul (Luv N' Haight)
-78. Mike Ladd - Father Divine (ROIR)
-79. Nortec Collective - Tijuana Sessions Vol. 3 (Nacional)
-80. The Rakes - Retreat (Dim Mak)
-81. Blackalicious - The Craft (Anti)
-82. Ladytron - Witching Hour (Rykodisc)
-83. West Valley Highway - Marysville (self-released)
-84. Spook the Horse - Spook the Horse (self-released)
-85. The Epochs - The Epochs (self-released)
-86. Airport Cathedral - Jetlag (Burning Building)
-87. Matthew Shaw - Convenience (Burning Building)
-88. Central Services - We're All Smarter Now (self-released)
-89. (Various) - For a Decade of Sin: 11 Years of Bloodshot Records (Bloodshot)
-90. The Teenage Prayers - Ten Songs (self-released)
+{"rank":"1", "artist":"Common Market", "album":"Common Market ", "label":"SCIONtific"},
+{"rank":"2", "artist":"Breakestra", "album":"Hit the Floor ", "label":"Ubiquity"},
+{"rank":"3", "artist":"Wilco", "album":"Kicking Television ", "label":"Nonesuch"},
+{"rank":"4", "artist":"My Morning Jacket", "album":"Z ", "label":"ATO/RCA"},
+{"rank":"5", "artist":"Sera Cahoone", "album":"Sera Cahoone ", "label":"self-released"},
+{"rank":"6", "artist":"Blue Scholars", "album":"The Long March EP ", "label":"self-released"},
+{"rank":"7", "artist":"Elbow", "album":"Leaders of the Free World ", "label":"V2"},
+{"rank":"8", "artist":"Rogue Wave", "album":"Descended Like Vultures ", "label":"Sub Pop"},
+{"rank":"9", "artist":"(Various)", "album":"Live at KEXP Volume One ", "label":"KEXP"},
+{"rank":"10", "artist":"Franz Ferdinand", "album":"You Could Have It So Much Better ", "label":"Domino"},
+{"rank":"11", "artist":"Romance", "album":"When Things are Better ", "label":"self-released"},
+{"rank":"12", "artist":"The Morning After Girls", "album":"Prelude: ep's 1 & 2 ", "label":"Rainbow Quartz"},
+{"rank":"13", "artist":"Animal Collective", "album":"Feels ", "label":"Fatcat"},
+{"rank":"14", "artist":"The Drones", "album":"Wait Long By the River and the Bodies of Your Enemies Will Float By ", "label":"All Tomorrow's Parties"},
+{"rank":"15", "artist":"Okkervil River", "album":"Black Sheep Boy Appendix ", "label":"Jagjaguwar"},
+{"rank":"16", "artist":"The Transmissionary Six", "album":"05.21.05 ", "label":"Glitterhouse"},
+{"rank":"17", "artist":"Nickodemus", "album":"Endangered Species ", "label":"Wonderwheel"},
+{"rank":"18", "artist":"The Briefs", "album":"Steal Yer Heart ", "label":"BYO"},
+{"rank":"19", "artist":"Arctic Monkeys", "album":"Underneath the Boardwalk ", "label":"demo"},
+{"rank":"20", "artist":"DJ Dolores", "album":"Aparelhagem ", "label":"Ziriguiboom/Crammed Discs"},
+{"rank":"21", "artist":"Ulrich Schnauss", "album":"Far Away Trains Passing By ", "label":"Domino"},
+{"rank":"22", "artist":"Cancer Rising", "album":"Search for the Cure ", "label":"Mad Passion"},
+{"rank":"23", "artist":"Abyssinian Creole", "album":"Sexy Beast ", "label":"self-released"},
+{"rank":"24", "artist":"The Village Green", "album":"The Village Green ", "label":"Hidden Peak"},
+{"rank":"25", "artist":"Page France", "album":"Hello Dear Wind ", "label":"Fall"},
+{"rank":"26", "artist":"Tom Vek", "album":"We Have Sound ", "label":"Startime"},
+{"rank":"27", "artist":"Broken Social Scene", "album":"Broken Social Scene ", "label":"Arts & Crafts"},
+{"rank":"28", "artist":"Sufjan Stevens", "album":"Illinois ", "label":"Asthmatic Kitty"},
+{"rank":"29", "artist":"Calexico/Iron and Wine", "album":"In the Reins ", "label":"Overcoat"},
+{"rank":"30", "artist":"Lady Sovereign", "album":"Vertically Challenged ", "label":"Chocolate Industries"},
+{"rank":"31", "artist":"The Budos Band", "album":"The Budos Band ", "label":"Daptone"},
+{"rank":"32", "artist":"Sun Kil Moon", "album":"Tiny Cities ", "label":"Caldo Verde"},
+{"rank":"33", "artist":"Boards of Canada", "album":"The Campfire Headphase ", "label":"Warp"},
+{"rank":"34", "artist":"Every Move a Picture", "album":"Opposition Party ", "label":"V2"},
+{"rank":"35", "artist":"Panda and Angel", "album":"Panda and Angel ", "label":"demo"},
+{"rank":"36", "artist":"KJ Sawka", "album":"Synchronized Decompression ", "label":"Wax Orchard"},
+{"rank":"37", "artist":"Jose Gonzalez", "album":"Veneer ", "label":"A Hidden Agenda"},
+{"rank":"38", "artist":"(Various)", "album":"Our New Orleans 2005 ", "label":"Nonesuch"},
+{"rank":"39", "artist":"The Long Winters", "album":"Ultimatum ", "label":"Barsuk"},
+{"rank":"40", "artist":"Korby Lenker", "album":"King of Hearts ", "label":"Singular/Blue Light"},
+{"rank":"41", "artist":"The Cops", "album":"Get Good or Stay Bad ", "label":"Mt. Fuji"},
+{"rank":"42", "artist":"The Black Angels", "album":"The Black Angels ", "label":"Light in the Attic"},
+{"rank":"43", "artist":"Silver Jews", "album":"Tanglewood Numbers ", "label":"Drag City"},
+{"rank":"44", "artist":"The Mendoza Line", "album":"Full of Light and Full of Fire ", "label":"Misra"},
+{"rank":"45", "artist":"Th' Faith Healers", "album":"Peel Sessions ", "label":"Ba Da Bing!"},
+{"rank":"46", "artist":"Metric", "album":"Live it Out ", "label":"Last Gang"},
+{"rank":"47", "artist":"The Blueskins", "album":"Change My Mind ", "label":"Domino"},
+{"rank":"48", "artist":"The Proles", "album":"Good in Black and White ", "label":"The Americans Are Coming"},
+{"rank":"49", "artist":"Beck", "album":"Guerolito ", "label":"Interscope"},
+{"rank":"50", "artist":"The Purrs", "album":"The Dreams Our Stuff Is Made Of ", "label":"self-released"},
+{"rank":"51", "artist":"Kate Bush", "album":"Aerial ", "label":"Columbia"},
+{"rank":"52", "artist":"Militant Rhythm Section", "album":"Tribute to Scratch ", "label":"Utmost Sound"},
+{"rank":"53", "artist":"Blue Checkered Record Player", "album":"Blue Checkered Record Player ", "label":"self-released"},
+{"rank":"54", "artist":"Young Sportsmen", "album":"The Familiar Glow of Colliding Particles ", "label":"Unsmashable"},
+{"rank":"55", "artist":"Sabrosa Purr", "album":"Music from the Violet Room ", "label":"Dangerbird"},
+{"rank":"56", "artist":"Galaxie 500", "album":"Peel Sessions ", "label":"20-20-20"},
+{"rank":"57", "artist":"Saint Etienne", "album":"Tales from Turnpike House ", "label":"Savoy Jazz"},
+{"rank":"58", "artist":"Marah", "album":"If You Didn't Laugh You'd Cry ", "label":"Yep Roc"},
+{"rank":"59", "artist":"Cat Power", "album":"The Greatest ", "label":"Matador"},
+{"rank":"60", "artist":"Ryan Adams", "album":"29 ", "label":"Lost Highway"},
+{"rank":"61", "artist":"The Magic Numbers", "album":"The Magic Numbers ", "label":"Heavenly"},
+{"rank":"62", "artist":"The Invisible Eyes", "album":"Laugh in the Dark ", "label":"Bomp!"},
+{"rank":"63", "artist":"Macklemore", "album":"The Language Of My World ", "label":"NWXMusic"},
+{"rank":"64", "artist":"Edith Frost", "album":"It's a Game ", "label":"Drag City"},
+{"rank":"65", "artist":"Comet Gain", "album":"City Fallen Leaves ", "label":"Kill Rock Stars"},
+{"rank":"66", "artist":"Isobel Campbell & Mark Lanegan", "album":"Ramblin' Man EP ", "label":"V2"},
+{"rank":"67", "artist":"Once for Kicks", "album":"In the Dollhouse ", "label":"Book"},
+{"rank":"68", "artist":"Tristeza", "album":"A Colores ", "label":"Better Looking"},
+{"rank":"69", "artist":"Dengue Fever", "album":"Escape from Dragon House ", "label":"M80/Birdman"},
+{"rank":"70", "artist":"The Sun", "album":"Blame it on the Youth ", "label":"Warner Bros"},
+{"rank":"71", "artist":"Clap Your Hands Say Yeah", "album":"Clap Your Hands Say Yeah ", "label":"self-released"},
+{"rank":"72", "artist":"Edisyn", "album":"Everything Else is OK ", "label":"Knobby Little Knees"},
+{"rank":"73", "artist":"The Dirty Three", "album":"Cinder ", "label":"Touch and Go"},
+{"rank":"74", "artist":"Goldfrapp", "album":"Number 1 ", "label":"Mute"},
+{"rank":"75", "artist":"Emmanuel Jal & Abdel Gadir Salim", "album":"Ceasefire ", "label":"Riverboat/World Music Network"},
+{"rank":"76", "artist":"The Capes", "album":"Hello ", "label":"Hard Soul"},
+{"rank":"77", "artist":"(Various)", "album":"Searching for Soul ", "label":"Luv N' Haight"},
+{"rank":"78", "artist":"Mike Ladd", "album":"Father Divine ", "label":"ROIR"},
+{"rank":"79", "artist":"Nortec Collective", "album":"Tijuana Sessions Vol. 3 ", "label":"Nacional"},
+{"rank":"80", "artist":"The Rakes", "album":"Retreat ", "label":"Dim Mak"},
+{"rank":"81", "artist":"Blackalicious", "album":"The Craft ", "label":"Anti"},
+{"rank":"82", "artist":"Ladytron", "album":"Witching Hour ", "label":"Rykodisc"},
+{"rank":"83", "artist":"West Valley Highway", "album":"Marysville ", "label":"self-released"},
+{"rank":"84", "artist":"Spook the Horse", "album":"Spook the Horse ", "label":"self-released"},
+{"rank":"85", "artist":"The Epochs", "album":"The Epochs ", "label":"self-released"},
+{"rank":"86", "artist":"Airport Cathedral", "album":"Jetlag ", "label":"Burning Building"},
+{"rank":"87", "artist":"Matthew Shaw", "album":"Convenience ", "label":"Burning Building"},
+{"rank":"88", "artist":"Central Services", "album":"We're All Smarter Now ", "label":"self-released"},
+{"rank":"89", "artist":"(Various)", "album":"For a Decade of Sin: 11 Years of Bloodshot Records ", "label":"Bloodshot"},
+{"rank":"90", "artist":"The Teenage Prayers", "album":"Ten Songs ", "label":"self-released"},

@@ -37,28 +37,12 @@
         });
       });
 
-      $("#replacebutton").click(function () {
-          kexprdio.chartLoader.replacecharts();
+      $("#loadbutton").click(function () {
+          kexprdio.chartLoader.loadReplace(kexprdio.chooser.chartToLoad());
       });
 
-      $("#testbutton").click(function () {
-        //remove
-        R.ready(function() {
-          R.request({
-            method: 'search',
-            content: {query: 'Flying Lotus', types: 'Artist'},
-            success: function(response) {
-              console.log(response);
-            },
-            error: function() {
-              console.log('You Fail. Try Again.');
-            }
-          });
-        });
-      });
-
-      $("#charttest").click(function () {
-        kexprdio.chartLoader.loadingtest();
+      $("#appendbutton").click(function () {
+          kexprdio.chartLoader.appendTocharts();
       });
 
       $(".choosertoggle").click(function () {
@@ -69,6 +53,10 @@
         $('.appmenu').toggle();
       });      
     },
+
+    bioToggle: function(caller) {
+      $(caller).toggle().toggleClass('shown').siblings().toggle().toggleClass('shown');      
+    }
 
   };
   

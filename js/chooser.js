@@ -8,14 +8,14 @@
 			$(buttonbar.children).not('.chosen').toggle('fast');
 		},
 
-		chartToLoad: function() { //right now nothing calls this, waiting on cleaned jsons
+		chartToLoad: function() {
 	        var $chart = $('.chartbuttons').find('.chosen');
 	        var $year = $('.yearbar').find('.chosen');
 	        var fileName = ($chart.attr('id') + $year.attr('id'));
 	        var displayName = ($chart.text() + '  - ' + $year.text());
 	        return {
 		        displayName: displayName,
-		        fileId: 'el2012', //fileName,
+		        fileId: fileName,
 		        charts: []
 		    };
       	},
@@ -37,7 +37,11 @@
 		},
 
 		activateRangeOptions: function() {
-	        $('.range').each(function(i, v) {
+			$ranges = $('.range');
+
+			$ranges.eq(0).addClass('chosen').show();
+
+	        $ranges.each(function(i, v) {
 	          $(v).bind('click', function() {
 	            kexprdio.chooser.toggleChosen(this, this.parentElement);
 	          });
