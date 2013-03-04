@@ -1,0 +1,769 @@
+{"chart": [
+{
+"daterange": "12/02 - 12/08",
+"albums": [
+{"rank":"1", "artist":"Dyme Def", "album":"Yuk the World", "label":"self-released"},
+{"rank":"2", "artist":"The Roots", "album":"undun", "label":"Def Jam"},
+{"rank":"3", "artist":"Lushlife", "album":"No More Golden Days", "label":"self-released"},
+{"rank":"4", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"5", "artist":"State of the Artist x Ski Team", "album":"Slopes", "label":"Members Only"},
+{"rank":"6", "artist":"Oddisee", "album":"Rock Creek Park", "label":"Mello Music Group"},
+{"rank":"7", "artist":"Roots Manuva", "album":"4everevolution", "label":"Big Dada"},
+{"rank":"8", "artist":"Khingz", "album":"Liberation of the Monster", "label":"Wandering Worx"},
+{"rank":"9", "artist":"M.E.D.", "album":"Classic", "label":"Stones Throw"},
+{"rank":"10", "artist":"Todd Sykes", "album":"Out of the Blue", "label":"self-released"}
+
+]
+},
+{
+"daterange": "11/25 - 12/01",
+"albums": [
+{"rank":"1", "artist":"Dyme Def", "album":"Yuk the World", "label":"self-released"},
+{"rank":"2", "artist":"State of the Artist x Ski Team", "album":"Slopes", "label":"Members Only"},
+{"rank":"3", "artist":"Lushlife", "album":"No More Golden Days", "label":"self-released"},
+{"rank":"4", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"5", "artist":"Khingz", "album":"Liberation of the Monster", "label":"Wandering Worx"},
+{"rank":"6", "artist":"Oddisee", "album":"Rock Creek Park", "label":"Mello Music Group"},
+{"rank":"7", "artist":"Roots Manuva", "album":"4everevolution", "label":"Big Dada"},
+{"rank":"8", "artist":"Giorgio Momurda", "album":"More", "label":"self-released"},
+{"rank":"9", "artist":"Todd Sykes", "album":"Out of the Blue", "label":"self-released"},
+{"rank":"10", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"}
+
+]
+},
+{
+"daterange": "11/18 - 11/24",
+"albums": [
+{"rank":"1", "artist":"Dyme Def", "album":"Yuk the World", "label":"self-released"},
+{"rank":"2", "artist":"State of the Artist x Ski Team", "album":"Slopes", "label":"Members Only"},
+{"rank":"3", "artist":"Khingz", "album":"Liberation of the Monster", "label":"Wandering Worx"},
+{"rank":"4", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"5", "artist":"Oddisee", "album":"Rock Creek Park", "label":"Mello Music Group"},
+{"rank":"6", "artist":"Roots Manuva", "album":"4everevolution", "label":"Big Dada"},
+{"rank":"7", "artist":"Lushlife", "album":"No More Golden Days", "label":"self-released"},
+{"rank":"8", "artist":"Onra", "album":"Chinoiseries Pt. 2", "label":"All City"},
+{"rank":"9", "artist":"Todd Sykes", "album":"Out of the Blue", "label":"self-released"},
+{"rank":"10", "artist":"Giorgio Momurda", "album":"More", "label":"self-released"}
+
+]
+},
+{
+"daterange": "11/11 - 11/17",
+"albums": [
+{"rank":"1", "artist":"State of the Artist x Ski Team", "album":"Slopes", "label":"Members Only"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"4", "artist":"Roots Manuva", "album":"4everevolution", "label":"Big Dada"},
+{"rank":"5", "artist":"Khingz", "album":"Liberation of the Monster", "label":"Wandering Worx"},
+{"rank":"6", "artist":"Lushlife", "album":"No More Golden Days", "label":"self-released"},
+{"rank":"7", "artist":"Oddisee", "album":"Rock Creek Park", "label":"Mello Music Group"},
+{"rank":"8", "artist":"Giorgio Momurda", "album":"More", "label":"self-released"},
+{"rank":"9", "artist":"Onra", "album":"Chinoiseries Pt. 2", "label":"All City"},
+{"rank":"10", "artist":"Sabzi", "album":"Parthenia", "label":"self-released"}
+
+]
+},
+{
+"daterange": "11/04 - 11/10",
+"albums": [
+{"rank":"1", "artist":"State of the Artist x Ski Team", "album":"Slopes", "label":"Members Only"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Lushlife", "album":"No More Golden Days", "label":"self-released"},
+{"rank":"4", "artist":"Khingz", "album":"Liberation of the Monster", "label":"Wandering Worx"},
+{"rank":"5", "artist":"Roots Manuva", "album":"4everevolution", "label":"Big Dada"},
+{"rank":"6", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"7", "artist":"Onra", "album":"Chinoiseries Pt. 2", "label":"All City"},
+{"rank":"8", "artist":"Sabzi ", "album":"Parthenia", "label":"self-released"},
+{"rank":"9", "artist":"Evidence", "album":"Cats & Dogs", "label":"Rhymesayers"},
+{"rank":"10", "artist":"Open Mike Eagle", "album":"Rappers Will Die of Natural Causes", "label":"Hellfyre Club"}
+
+]
+},
+{
+"daterange": "10/28 - 11/04",
+"albums": [
+{"rank":"1", "artist":"State of the Artist x Ski Team", "album":"Slopes", "label":"Members Only"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"4", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"5", "artist":"Onra", "album":"Chinoiseries Pt. 2", "label":"All City"},
+{"rank":"6", "artist":"Evidence", "album":"Cats & Dogs", "label":"Rhymesayers"},
+{"rank":"7", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"8", "artist":"Open Mike Eagle", "album":"Rappers Will Die of Natural Causes", "label":"Hellfyre Club"},
+{"rank":"9", "artist":"Astronautilus", "album":"This Is Our Science", "label":"Fake Four Inc."},
+{"rank":"10", "artist":"WD4D & Suttikeeree", "album":"After School", "label":"Fourthcity"}
+
+]
+},
+{
+"daterange": "10/21 - 10/27",
+"albums": [
+{"rank":"1", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"2", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"3", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"4", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"5", "artist":"Open Mike Eagle", "album":"Rappers Will Die of Natural Causes", "label":"Hellfyre Club"},
+{"rank":"6", "artist":"Astronautilus", "album":"This Is Our Science", "label":"Fake Four Inc."},
+{"rank":"7", "artist":"Evidence", "album":"Cats & Dogs", "label":"Rhymesayers"},
+{"rank":"8", "artist":"Sabzi", "album":"Parthenia", "label":"self-released"},
+{"rank":"9", "artist":"Giorgio Momurda", "album":"More", "label":"self-released"},
+{"rank":"10", "artist":"Sol ", "album":"Dear Friends, Vol. III", "label":"self-released"}
+
+]
+},
+{
+"daterange": "10/14 - 10011",
+"albums": [
+{"rank":"1", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"2", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"3", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"4", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"5", "artist":"Evidence", "album":"Cats & Dogs", "label":"Rhymesayers"},
+{"rank":"6", "artist":"Open Mike Eagle", "album":"Rappers Will Die of Natural Causes", "label":"Hellfyre Club"},
+{"rank":"7", "artist":"Sabzi", "album":"Parthenia", "label":"self-released"},
+{"rank":"8", "artist":"Giorgio Momurda", "album":"More", "label":"self-released"},
+{"rank":"9", "artist":"Sol", "album":"Dear Friends, Vol. III", "label":"self-released"},
+{"rank":"10", "artist":"WD4D & Suttikeeree", "album":"After School EP2", "label":"Fourthcity"}
+
+]
+},
+{
+"daterange": "10/07 - 10/13",
+"albums": [
+{"rank":"1", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"4", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"5", "artist":"Open Mike Eagle", "album":"Rappers Will Die of Natural Causes", "label":"Hellfyre Club"},
+{"rank":"6", "artist":"Giorgio Momurda", "album":"More", "label":"self-released"},
+{"rank":"7", "artist":"Evidence", "album":"Cats & Dogs", "label":"Rhymesayers"},
+{"rank":"8", "artist":"Sol", "album":"Dear Friends, Vol. III", "label":"self-released"},
+{"rank":"9", "artist":"Luck-One", "album":"King of the Northwest", "label":"self-released"},
+{"rank":"10", "artist":"Astronautilus", "album":"This Is Our Science", "label":"Fake Four Inc."}
+
+]
+},
+{
+"daterange": "9/30 - 10/06",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"4", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"5", "artist":"Luck-One", "album":"King of the Northwest", "label":"self-released"},
+{"rank":"6", "artist":"Astronautilus", "album":"This Is Our Science", "label":"Fake Four Inc."},
+{"rank":"7", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"8", "artist":"Kronstudios", "album":"The Soundtrack to Life", "label":"self-released"},
+{"rank":"9", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"10", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"}
+
+]
+},
+{
+"daterange": "9/23 - 9/29",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Das Racist", "album":"Relax", "label":"Greedhead"},
+{"rank":"4", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"5", "artist":"Luck-One", "album":"King of the Northwest", "label":"self-released"},
+{"rank":"6", "artist":"Astronautilus", "album":"This Is Our Science", "label":"Fake Four Inc."},
+{"rank":"7", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"8", "artist":"Kronstudios", "album":"The Soundtrack to Life", "label":"self-released"},
+{"rank":"9", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"10", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"}
+
+]
+},
+{
+"daterange": "9/16 - 9/22",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"4", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"5", "artist":"Luck-One", "album":"King of the Northwest", "label":"self-released"},
+{"rank":"6", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"7", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"},
+{"rank":"8", "artist":"Astronautilus", "album":"This Is Our Science", "label":"Fake Four Inc."},
+{"rank":"9", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"10", "artist":"Black Milk", "album":"Brain/Royal Mega", "label":"Third Man"}
+
+]
+},
+{
+"daterange": "9/09 - 9/15",
+"albums": [
+{"rank":"1", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"2", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"3", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"4", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"5", "artist":"Luck-One", "album":"King of the Northwest", "label":"self-released"},
+{"rank":"6", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"},
+{"rank":"7", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"8", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"},
+{"rank":"9", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"10", "artist":"Black Milk", "album":"Brain/Royal Mega", "label":"Third Man"}
+
+]
+},
+{
+"daterange": "9/02 - 9/08",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Katie Kate", "album":"Flatland", "label":"Out For Stardom"},
+{"rank":"3", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"4", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"5", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"6", "artist":"Luck-One", "album":"King of the Northwest", "label":"self-released"},
+{"rank":"7", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"8", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"9", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"},
+{"rank":"10", "artist":"OC Notes", "album":"Secret Society", "label":"self-released"}
+
+]
+},
+{
+"daterange": "8/26 - 9/01",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"3", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"4", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"5", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"6", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"7", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"},
+{"rank":"8", "artist":"OC Notes", "album":"Secret Society", "label":"self-released"},
+{"rank":"9", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"},
+{"rank":"10", "artist":"Black Milk", "album":"Brain/Royal Mega", "label":"Third Man"}
+
+]
+},
+{
+"daterange": "8/19 - 8/25",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"3", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"4", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"5", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"6", "artist":"OC Notes", "album":"Secret Society", "label":"self-released"},
+{"rank":"7", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"8", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"},
+{"rank":"9", "artist":"Black Milk", "album":"Brain/Royal Mega", "label":"Third Man"},
+{"rank":"10", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"}
+
+]
+},
+{
+"daterange": "8/12 - 8/18",
+"albums": [
+{"rank":"1", "artist":"The Physics", "album":"Love Is A Business", "label":"self-released"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"3", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"4", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"5", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"6", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"7", "artist":"OC Notes", "album":"Secret Society", "label":"self-released"},
+{"rank":"8", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"},
+{"rank":"9", "artist":"Serengeti", "album":"Family & Friends", "label":"Anticon"},
+{"rank":"10", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"}
+
+]
+},
+{
+"daterange": "8/05 - 8/09",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"3", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"4", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"5", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"6", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"7", "artist":"OC Notes", "album":"Secret Society", "label":"self-released"},
+{"rank":"8", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"},
+{"rank":"9", "artist":"Theophilus London", "album":"Timez Are Weird These Days", "label":"Reprise/Warner Bros."},
+{"rank":"10", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"}
+
+]
+},
+{
+"daterange": "7/29 - 8/04",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"3", "artist":"Wugazi", "album":"13 Chambers", "label":"Doomtree"},
+{"rank":"4", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"5", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"6", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"7", "artist":"OC Notes", "album":"Secret Society", "label":"self-released"},
+{"rank":"8", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"},
+{"rank":"9", "artist":"Theophilus London", "album":"Timez Are Weird These Days", "label":"Reprise/Warner Bros."},
+{"rank":"10", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"}
+
+]
+},
+{
+"daterange": "7/22 - 7/28",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"3", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"4", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"5", "artist":"Grieves", "album":"Together/Apart", "label":"Rhymesayers"},
+{"rank":"6", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"7", "artist":"Clams Casino", "album":"Rainforest EP", "label":"Tri Angle"},
+{"rank":"8", "artist":"Theophlius London", "album":"Timez Are Weird These Das", "label":"Reprise/Warner Bros."},
+{"rank":"9", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"},
+{"rank":"10", "artist":"Animal Farm", "album":"Culture Shock", "label":"Focused Noise"}
+
+]
+},
+{
+"daterange": "7/15 - 7/21",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"3", "artist":"Metal Chocolates", "album":"Metal Chocolates", "label":"self-released"},
+{"rank":"4", "artist":"Wiley", "album":"100% Publishing", "label":"Big Dada"},
+{"rank":"5", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"6", "artist":"Grieves", "album":"Together/Apart", "label":"Rhymesayers"},
+{"rank":"7", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"},
+{"rank":"8", "artist":"DJ Cosm", "album":"Time and Space", "label":"Makebelieve"},
+{"rank":"9", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"10", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"}
+
+]
+},
+{
+"daterange": "7/08 - 7/14",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"3", "artist":"Grieves", "album":"Together/Apart", "label":"Rhymesayers"},
+{"rank":"4", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"5", "artist":"SMOD", "album":"SMOD", "label":"Nacional"},
+{"rank":"6", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"7", "artist":"DJ Cosm", "album":"Time and Space", "label":"Makebelieve"},
+{"rank":"8", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"},
+{"rank":"9", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"10", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"}
+
+]
+},
+{
+"daterange": "7/01 - 7/07",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"3", "artist":"Blue Scholars", "album":"Cinemetropolis", "label":"self-released"},
+{"rank":"4", "artist":"Grieves", "album":"Together/Apart", "label":"Rhymesayers"},
+{"rank":"5", "artist":"SMOD", "album":"SMOD", "label":"Nacional"},
+{"rank":"6", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"7", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"8", "artist":"DJ Cosm", "album":"Time and Space", "label":"Makebelieve"},
+{"rank":"9", "artist":"Black Stax", "album":"Talking Buildings", "label":"self-released"},
+{"rank":"10", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"}
+
+]
+},
+{
+"daterange": "6/24 - 6/30",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"3", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"4", "artist":"Grieves", "album":"Together/Apart", "label":"Rhymesayers"},
+{"rank":"5", "artist":"SMOD", "album":"SMOD", "label":"Nacional"},
+{"rank":"6", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"7", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"8", "artist":"DJ Cosm", "album":"Time and Space", "label":"Makebelieve"},
+{"rank":"9", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"10", "artist":"DELS", "album":"GOB", "label":"Big Dada"}
+
+]
+},
+{
+"daterange": "6/17 - 6/23",
+"albums": [
+{"rank":"1", "artist":"Shabazz Palaces", "album":"Black Up", "label":"Sub Pop"},
+{"rank":"2", "artist":"Blue Scholars", "album":"Cinematropolis", "label":"self-released"},
+{"rank":"3", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"4", "artist":"SMOD", "album":"SMOD", "label":"Nacional"},
+{"rank":"5", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only"},
+{"rank":"6", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"7", "artist":"DJ Cosm", "album":"Time and Space", "label":"Makebelieve"},
+{"rank":"8", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"9", "artist":"Viper Creek Club", "album":"ViperLust", "label":"self-released"},
+{"rank":"10", "artist":"DELS", "album":"GOB", "label":"Big Dada"}
+
+]
+},
+{
+"daterange": "6/03 - 6/09",
+"albums": [
+{"rank":"1", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"2", "artist":"SMOD ", "album":"SMOD", "label":"Nacional"},
+{"rank":"3", "artist":"Helluvastate", "album":"Adventures in Helluvastate", "label":"Members Only"},
+{"rank":"4", "artist":"DELS", "album":"GOB", "label":"Big Dada"},
+{"rank":"5", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"6", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"7", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"},
+{"rank":"8", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"self-released"},
+{"rank":"9", "artist":"Viper Creek Club", "album":"ViperLust", "label":"self-released"},
+{"rank":"10", "artist":"Hi-Life Soundsystem", "album":"Death of the Party", "label":"Members Only"}
+
+]
+},
+{
+"daterange": "5/27 - 6/02",
+"albums": [
+{"rank":"1", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"2", "artist":"SMOD ", "album":"SMOD", "label":"Nacional"},
+{"rank":"3", "artist":"Helluvastate", "album":"Adventures in Helluvastate", "label":"Members Only"},
+{"rank":"4", "artist":"DELS", "album":"GOB", "label":"Big Dada"},
+{"rank":"5", "artist":"Hail Mary Mallon", "album":"Are You Gonna Eat That?", "label":"Rhymesayers"},
+{"rank":"6", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"7", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"},
+{"rank":"8", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"self-released"},
+{"rank":"9", "artist":"Viper Creek Club", "album":"ViperLust", "label":"self-released"},
+{"rank":"10", "artist":"Hi-Life Soundsystem", "album":"Death of the Party", "label":"Members Only"}
+
+]
+},
+{
+"daterange": "5011 - 5/26",
+"albums": [
+{"rank":"1", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"2", "artist":"SMOD ", "album":"SMOD", "label":"Nacional"},
+{"rank":"3", "artist":"Helluvastate", "album":"Adventures in Helluvastate", "label":"Members Only"},
+{"rank":"4", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"Self-released"},
+{"rank":"5", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"6", "artist":"Viper Creek Club", "album":"ViperLust", "label":"Self-released"},
+{"rank":"7", "artist":"DELS", "album":"GOB", "label":"Big Dada"},
+{"rank":"8", "artist":"Hi-Life Soundsystem", "album":"Death of the Party ", "label":"Members Only"},
+{"rank":"9", "artist":"Blueprint", "album":"Adventures in Counter-Culture", "label":"Rhymesayers"},
+{"rank":"10", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"}
+
+]
+},
+{
+"daterange": "5/13 - 5/19",
+"albums": [
+{"rank":"1", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"2", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"3", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"Self-released"},
+{"rank":"4", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"5", "artist":"Viper Creek Club", "album":"ViperLust", "label":"Self-released"},
+{"rank":"6", "artist":"DELS", "album":"GOB", "label":"Big Dada"},
+{"rank":"7", "artist":"Hi-Life Soundsystem", "album":"Death of the Party", "label":"Members Only"},
+{"rank":"8", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"9", "artist":"Blueprint", "album":"Adventures in Counter-Culture", "label":"Rhymesayers"},
+{"rank":"10", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"}
+
+]
+},
+{
+"daterange": "5/06 - 5/12",
+"albums": [
+{"rank":"1", "artist":"Beastie Boys", "album":"Hot Sauce Committee Part Two", "label":"Capitol"},
+{"rank":"2", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"3", "artist":"Viper Creek Club", "album":"ViperLust", "label":"Self-released"},
+{"rank":"4", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"5", "artist":"Del the Funky Homosapien", "album":"Golden Era", "label":"the council"},
+{"rank":"6", "artist":"Blueprint", "album":"Adventures in Counter-Culture", "label":"Rhymesayers"},
+{"rank":"7", "artist":"DELS", "album":"GOB", "label":"Big Dada"},
+{"rank":"8", "artist":"Hi-Life Soundsystem", "album":"Death of the Party", "label":"Members Only"},
+{"rank":"9", "artist":"Co. fee", "album":"Easy Listening", "label":"My Hollow Drum"},
+{"rank":"10", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"Self-released"}
+
+]
+},
+{
+"daterange": "4/29 - 5/05",
+"albums": [
+{"rank":"1", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"2", "artist":"Hi-Life Soundsystem", "album":"Death of the Party ", "label":"Members Only"},
+{"rank":"3", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"4", "artist":"Viper Creek Club", "album":"ViperLust", "label":"Self-released"},
+{"rank":"5", "artist":"Gabriel Teodros & DJ Ian Head", "album":"The Lentil Soup EP", "label":"Self-released"},
+{"rank":"6", "artist":"Co. fee", "album":"Easy Listening", "label":"My Hollow Drum"},
+{"rank":"7", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"Self-released"},
+{"rank":"8", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"},
+{"rank":"9", "artist":"Atmosphere", "album":"The Family Sign", "label":"Rhymesayers"},
+{"rank":"10", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"}
+
+]
+},
+{
+"daterange": "4/22 - 4/28",
+"albums": [
+{"rank":"1", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"2", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"3", "artist":"Hi-Life Soundsystem", "album":"Death of the Party ", "label":"Members Only"},
+{"rank":"4", "artist":"Gabriel Teodros & DJ Ian Head", "album":"The Lentil Soup EP", "label":"Self-released"},
+{"rank":"5", "artist":"Co. fee", "album":"Easy Listening", "label":"My Hollow Drum"},
+{"rank":"6", "artist":"Viper Creek Club", "album":"ViperLust", "label":"Self-released"},
+{"rank":"7", "artist":"Atmosphere", "album":"The Family Sign", "label":"Rhymesayers"},
+{"rank":"8", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"9", "artist":"The Good Sin x 10.4 Rog", "album":"Late", "label":"Self-released"},
+{"rank":"10", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"}
+
+]
+},
+{
+"daterange": "4/15 - 4/21",
+"albums": [
+{"rank":"1", "artist":"Helluvastate", "album":"Adventures in a Helluvastate", "label":"Members Only/Cloud Nice"},
+{"rank":"2", "artist":"Hi-Life Soundsystem", "album":"Death of the Party", "label":"Members Only"},
+{"rank":"3", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"4", "artist":"Gabriel Teodros & DJ Ian Head", "album":"The Lentil Soup EP", "label":"Self-released"},
+{"rank":"5", "artist":"Caural", "album":"Die Before You Die", "label":"Eat Concrete"},
+{"rank":"6", "artist":"Jahon Mikal", "album":"The Medulla Transmissions", "label":"Self-released"},
+{"rank":"7", "artist":"EvergreenOne & Todd Sykes", "album":"Milk on Wax", "label":"Self-released"},
+{"rank":"8", "artist":"State of the Artist", "album":"Altered State", "label":"Members Only"},
+{"rank":"9", "artist":"Co. fee", "album":"Easy Listening", "label":"My Hollow Drum"},
+{"rank":"10", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"}
+
+]
+},
+{
+"daterange": "4/08 - 4/11",
+"albums": [
+{"rank":"1", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"2", "artist":"Gabriel Teodros & DJ Ian Head", "album":"The Lentil Soup EP", "label":"Self-released"},
+{"rank":"3", "artist":"Caural", "album":"Die Before You Die", "label":"Eat Concrete"},
+{"rank":"4", "artist":"Jahon Mikal", "album":"The Medulla Transmissions", "label":"Self-released"},
+{"rank":"5", "artist":"EvergreenOne & Todd Sykes", "album":"Milk on Wax", "label":"Self-released"},
+{"rank":"6", "artist":"Stalley", "album":"Lincoln Way Nights (Intelligent Trunk Music)", "label":"Mishka"},
+{"rank":"7", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"8", "artist":"Sims", "album":"Bad Time Zoo", "label":"Doomtree"},
+{"rank":"9", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"10", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"}
+
+]
+},
+{
+"daterange": "4/01 - 4/07",
+"albums": [
+{"rank":"1", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"2", "artist":"Jahon Mikal", "album":"The Medulla Transmissions", "label":"Self-released"},
+{"rank":"3", "artist":"EvergreenOne & Todd Sykes", "album":"Milk on Wax", "label":"Self-released"},
+{"rank":"4", "artist":"Caural", "album":"Die Before You Die", "label":"Eat Concrete"},
+{"rank":"5", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"6", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"7", "artist":"Stalley", "album":"Lincoln Way Nights (Intelligent Trunk Music)", "label":"Mishka"},
+{"rank":"8", "artist":"Sims", "album":"Bad Time Zoo", "label":"Doomtree"},
+{"rank":"9", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"10", "artist":"Beans", "album":"End It All", "label":"Anticon"}
+
+]
+},
+{
+"daterange": "3/25 - 3/31",
+"albums": [
+{"rank":"1", "artist":"Grynch", "album":"Timeless EP", "label":"Self-released"},
+{"rank":"2", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"3", "artist":"Caural", "album":"Die Before You Die", "label":"Eat Concrete"},
+{"rank":"4", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"5", "artist":"EvergreenOne & Todd Sykes", "album":"Milk on Wax", "label":"Self-released"},
+{"rank":"6", "artist":"Stalley", "album":"Lincoln Way Nights (Intelligent Trunk Music)", "label":"Mishka"},
+{"rank":"7", "artist":"Sims", "album":"Bad Time Zoo", "label":"Doomtree"},
+{"rank":"8", "artist":"Jahon Mikal", "album":"The Medulla Transmissions", "label":"Self-released"},
+{"rank":"9", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"10", "artist":"Beans", "album":"End It All", "label":"Anticon"}
+
+]
+},
+{
+"daterange": "3/18 - 3/24",
+"albums": [
+{"rank":"1", "artist":"Caural", "album":"Die Before You Die", "label":"Eat Concrete"},
+{"rank":"2", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"3", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"4", "artist":"EvergreenOne & Todd Sykes", "album":"Milk on Wax", "label":"Self-released"},
+{"rank":"5", "artist":"Stalley", "album":"Lincoln Way Nights (Intelligent Trunk Music)", "label":"Mishka"},
+{"rank":"6", "artist":"Beans", "album":"End It All", "label":"Anticon"},
+{"rank":"7", "artist":"Sims", "album":"Bad Time Zoo", "label":"Doomtree"},
+{"rank":"8", "artist":"Jahon Mikal", "album":"The Medulla Transmissions", "label":"Self-released"},
+{"rank":"9", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"10", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"}
+
+]
+},
+{
+"daterange": "3/11 - 3/17",
+"albums": [
+{"rank":"1", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"2", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"3", "artist":"Beans", "album":"End It All", "label":"Anticon"},
+{"rank":"4", "artist":"EvergreenOne & Todd Sykes", "album":"Milk on Wax", "label":"Self-released"},
+{"rank":"5", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"6", "artist":"Jahon Mikal", "album":"The Medulla Transmissions", "label":"Self-released"},
+{"rank":"7", "artist":"Stalley", "album":"Licoln Way Nights (Intelligent Trunk Music)", "label":"Mishka"},
+{"rank":"8", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"9", "artist":"Sims", "album":"Bad Time Zoo", "label":"Doomtree"},
+{"rank":"10", "artist":"Blaqstarr", "album":"Divine EP", "label":"N.E.E.T./Interscope"}
+
+]
+},
+{
+"daterange": "3/04 - 3/10",
+"albums": [
+{"rank":"1", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"2", "artist":"Beans", "album":"End It All", "label":"Anticon"},
+{"rank":"3", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"4", "artist":"Blaqstarr", "album":"Divine EP", "label":"N.E.E.T./Interscope"},
+{"rank":"5", "artist":"Ghostface Killah", "album":"Apollo Kids", "label":"Def Jam"},
+{"rank":"6", "artist":"Stalley", "album":"Lincoln Way Nights (Intelligent Trunk Music)", "label":"Mishka"},
+{"rank":"7", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"8", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"9", "artist":"Sims", "album":"Bad Time Zoo", "label":"Doomtree"},
+{"rank":"10", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."}
+
+]
+},
+{
+"daterange": "2/25 - 3/03",
+"albums": [
+{"rank":"1", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"2", "artist":"Beans", "album":"End It All", "label":"Anticon"},
+{"rank":"3", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"4", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"5", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"6", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"7", "artist":"Blaqstarr", "album":"Divine EP", "label":"N.E.E.T./Interscope"},
+{"rank":"8", "artist":"The Let Go", "album":"Morning Comes", "label":"Self-released"},
+{"rank":"9", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Members Only"},
+{"rank":"10", "artist":"Ghostface Killah", "album":"Apollo Kids", "label":"Def Jam"}
+
+]
+},
+{
+"daterange": "2/18 - 2/24",
+"albums": [
+{"rank":"1", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"2", "artist":"Beans", "album":"End It All", "label":"Anticon"},
+{"rank":"3", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"4", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"5", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"6", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"7", "artist":"Blaqstarr", "album":"Divine EP", "label":"N.E.E.T./Interscope"},
+{"rank":"8", "artist":"The Let Go", "album":"Morning Comes", "label":"Self-released"},
+{"rank":"9", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Members Only"},
+{"rank":"10", "artist":"Ghostface Killah", "album":"Apollo Kids", "label":"Def Jam"}
+
+]
+},
+{
+"daterange": "2/11 - 2/17",
+"albums": [
+{"rank":"1", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"2", "artist":"Beans", "album":"End It All", "label":"Anticon"},
+{"rank":"3", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"4", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"5", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Self-released"},
+{"rank":"6", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"7", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"8", "artist":"Ghostface Killah", "album":"Apollo Kids", "label":"Def Jam"},
+{"rank":"9", "artist":"Blaqstarr", "album":"Divine EP", "label":"N.E.E.T./Interscope"},
+{"rank":"10", "artist":"The Alchemist + Oh No (Gangrene)", "album":"Gutter Water", "label":"Decon"}
+
+]
+},
+{
+"daterange": "2/04 - 2/10",
+"albums": [
+{"rank":"1", "artist":"Beans ", "album":"End It All", "label":"Anticon"},
+{"rank":"2", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"3", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"4", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"5", "artist":"Ghostface Killah", "album":"Apollo Kids", "label":"Def Jam"},
+{"rank":"6", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"7", "artist":"Kanye West", "album":"My Beautiful Dark Twisted Fantasy", "label":"Def Jam"},
+{"rank":"8", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"9", "artist":"Das Racist", "album":"Sit Down, Man", "label":"Mad Decent/Greedhead/Mishka"},
+{"rank":"10", "artist":"The Alchemist + Oh No (Gangrene)", "album":"Gutter Water", "label":"Decon"}
+
+]
+},
+{
+"daterange": "1/28 - 2/03",
+"albums": [
+{"rank":"1", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"2", "artist":"Don't Talk to the Cops!", "album":"Regular Show", "label":"Self-released"},
+{"rank":"3", "artist":"Scribes", "album":"What Was Lost", "label":"Self-released"},
+{"rank":"4", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"5", "artist":"Kanye West", "album":"My Beautiful Dark Twisted Fantasy", "label":"Def Jam"},
+{"rank":"6", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Members Only"},
+{"rank":"7", "artist":"The Let Go", "album":"Morning Comes", "label":"Self-released"},
+{"rank":"8", "artist":"Mad Rad", "album":"The Youth Die Young", "label":"Out For Stardom"},
+{"rank":"9", "artist":"Macklemore x Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"10", "artist":"The Alchemist + Oh No (Gangrene)", "album":"Gutter Water", "label":"Decon"}
+
+]
+},
+{
+"daterange": "1/21 - 1/27",
+"albums": [
+{"rank":"1", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"2", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"3", "artist":"Blaqstarr", "album":"Divine EP", "label":"N.E.E.T./Interscope"},
+{"rank":"4", "artist":"Macklemore/Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"5", "artist":"Mad Rad", "album":"The Youth Die Young", "label":"Out For Stardom"},
+{"rank":"6", "artist":"Das Racist", "album":"Sit Down, Man", "label":"Mad Decent/Greedhead/Mishka"},
+{"rank":"7", "artist":"Kanye West", "album":"My Beautiful Dark Twisted Fantasy", "label":"Def Jam"},
+{"rank":"8", "artist":"Tabi Bonney", "album":"Fre$h", "label":"iHipHop"},
+{"rank":"9", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Members Only"},
+{"rank":"10", "artist":"DJ Nphared", "album":"Red October EP", "label":"Self-released"}
+
+]
+},
+{
+"daterange": "1/14 - 1011",
+"albums": [
+{"rank":"1", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"2", "artist":"Kanye West", "album":"My Beautiful Dark Twisted Fantasy", "label":"Def Jam"},
+{"rank":"3", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"4", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Members Only"},
+{"rank":"5", "artist":"Macklemore/Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"6", "artist":"Das Racist", "album":"Sit Down, Man", "label":"Mad Decent/Greedhead/Mishka"},
+{"rank":"7", "artist":"Mad Rad", "album":"The Youth Die Young", "label":"Out For Stardom"},
+{"rank":"8", "artist":"DJ Nphared", "album":"Red October EP", "label":"Self-released"},
+{"rank":"9", "artist":"The Alchemist + Oh No (Gangrene)", "album":"Gutter Water", "label":"Decon"},
+{"rank":"10", "artist":"Tabi Bonney", "album":"Fre$h", "label":"iHipHop"}
+
+]
+},
+{
+"daterange": "1/07 - 1/13",
+"albums": [
+{"rank":"1", "artist":"(Various)", "album":"4 the Love of Music", "label":"Maraire Enterprises"},
+{"rank":"2", "artist":"Brothers From Another", "album":"Two Weeks Vacation", "label":"Members Only"},
+{"rank":"3", "artist":"Onry Ozzborn", "album":"Hold On For Dear Life", "label":"Fake Four Inc."},
+{"rank":"4", "artist":"Kanye West", "album":"My Beautiful Dark Twisted Fantasy", "label":"Def Jam"},
+{"rank":"5", "artist":"Macklemore/Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"6", "artist":"Mad Rad", "album":"The Youth Die Young", "label":"Out For Stardom"},
+{"rank":"7", "artist":"Tabi Bonney", "album":"Fre$h", "label":"iHipHop"},
+{"rank":"8", "artist":"Das Racist", "album":"Sit Down, Man", "label":"Mad Decent/Greedhead/Mishka"},
+{"rank":"9", "artist":"Zion I", "album":"Atomic Clock", "label":"Gold Dust Media"},
+{"rank":"10", "artist":"DJ Nphared", "album":"Red October EP", "label":"Self-released"}
+
+]
+},
+{
+"daterange": "12/31 - 1/06",
+"albums": [
+{"rank":"1", "artist":"Mad Rad", "album":"The Youth Die Young", "label":"Out For Stardom"},
+{"rank":"2", "artist":"THEESatisfaction", "album":"Transitions", "label":"Self-released"},
+{"rank":"3", "artist":"Kanye West", "album":"My Beautiful Dark Twisted Fantasy", "label":"Def Jam"},
+{"rank":"4", "artist":"Macklemore/Ryan Lewis", "album":"The Vs. Re-Release", "label":"Self-released"},
+{"rank":"5", "artist":"The Roots", "album":"How I Got Over", "label":"Def Jam"},
+{"rank":"6", "artist":"Big Boi", "album":"Sir Lucious Left Foot… The Son of Chico Dusty", "label":"Def Jam"},
+{"rank":"7", "artist":"Tabi Bonney", "album":"Fre$h", "label":"iHipHop"},
+{"rank":"8", "artist":"Das Racist", "album":"Sit Down, Man", "label":"Mad Decent/Greedhead/Mishka"},
+{"rank":"9", "artist":"Lyrics Born", "album":"As U Were", "label":"Decon"},
+{"rank":"10", "artist":"DJ Nphared", "album":"Red October EP", "label":"Self-released"}
+  ]
+}]
+}
